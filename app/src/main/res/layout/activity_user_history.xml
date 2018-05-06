@@ -1,0 +1,77 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/primary">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <!--android:paddingRight="?attr/actionBarSize"-->
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+
+                android:layout_alignParentLeft="true"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="Cancelar"
+                android:textColor="@color/text.color.white"
+                style="?android:attr/borderlessButtonStyle"
+                android:id="@+id/button_cancel"
+                android:visibility="gone"
+                android:textAllCaps="true"/>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerInParent="true"
+                    android:layout_centerVertical="true"
+
+                    android:gravity="center"
+                    android:text="@string/userprofile.history.button"
+                    android:textAllCaps="true"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textColor="@color/text.color.white"
+                    android:id="@+id/toolbar_title"
+                    android:paddingRight="?attr/actionBarSize"/>
+
+            </RelativeLayout>
+
+
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/profile.edit"
+                android:textColor="@color/text.color.white"
+                style="?android:attr/borderlessButtonStyle"
+                android:id="@+id/button_edit"
+                android:textAllCaps="true"/>
+        </RelativeLayout>
+
+    </android.support.v7.widget.Toolbar>
+
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/fragment"
+        android:name="com.cmi.bache24.ui.fragment.UserHistoryFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout="@layout/fragment_user_history"
+        android:layout_below="@+id/toolbar"/>
+</RelativeLayout>

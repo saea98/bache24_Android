@@ -1,0 +1,756 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/window_background">
+
+    <ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="@dimen/activity_vertical_margin"
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:paddingTop="@dimen/activity_vertical_margin">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:text="Medium Text"
+                        android:id="@+id/textview_primary"
+                        android:textColor="@color/text.color"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginBottom="16dp"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:layout_toLeftOf="@+id/textview_origin"
+                        android:layout_toStartOf="@+id/textview_origin"
+                        android:layout_marginRight="8dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:text="Medium Text"
+                        android:id="@+id/textview_origin"
+                        android:textColor="@color/text.color"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginBottom="16dp"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentEnd="true" />
+                </RelativeLayout>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="@string/troop.report.primary.title"
+                    android:id="@+id/textView66"
+                    android:textColor="@color/gray_a"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="@string/troop.report.origin.title"
+                    android:id="@+id/textView30"
+                    android:textColor="@color/gray_a"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="@string/report.google.maps.address"
+                    android:id="@+id/textView65"
+                    android:textColor="@color/gray_a" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="Medium Text"
+                    android:id="@+id/textview_google_maps_address"
+                    android:textColor="@color/text.color"
+                    android:layout_marginTop="5dp" />
+
+                <!--<TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="@string/report.citizen.address"
+                    android:id="@+id/textView20"
+                    android:textColor="@color/gray_a"
+                    android:layout_marginTop="16dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="Medium Text"
+                    android:id="@+id/textview_address"
+                    android:textColor="@color/text.color"
+                    android:layout_marginTop="5dp" />-->
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="@string/report.detail.comments.label"
+                    android:id="@+id/textView22"
+                    android:textColor="@color/gray_a"
+                    android:layout_marginTop="16dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="Medium Text"
+                    android:id="@+id/textview_comments"
+                    android:textColor="@color/text.color"
+                    android:layout_marginTop="5dp" />
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:weightSum="1"
+                    android:layout_marginTop="10dp">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="100dp"
+                        android:id="@+id/imageview_picture1"
+                        android:layout_weight="0.25"
+                        android:background="@drawable/input_background"
+                        android:src="@drawable/no_foto"
+                        android:scaleType="center"
+                        android:layout_marginRight="5dp" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="100dp"
+                        android:id="@+id/imageview_picture2"
+                        android:layout_weight="0.25"
+                        android:scaleType="center"
+                        android:src="@drawable/no_foto"
+                        android:background="@drawable/input_background"
+                        android:layout_marginRight="5dp" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="100dp"
+                        android:id="@+id/imageview_picture3"
+                        android:layout_weight="0.25"
+                        android:scaleType="center"
+                        android:src="@drawable/no_foto"
+                        android:background="@drawable/input_background"
+                        android:layout_marginRight="5dp" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="100dp"
+                        android:id="@+id/imageview_picture4"
+                        android:layout_weight="0.25"
+                        android:scaleType="center"
+                        android:src="@drawable/no_foto"
+                        android:background="@drawable/input_background" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <View android:id="@+id/separator"
+                android:background="@color/text.hint.color"
+                android:layout_width = "fill_parent"
+                android:layout_height="0.5dip"
+                android:layout_centerVertical ="true"
+                android:layout_alignParentTop="true"/>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="@dimen/activity_vertical_margin"
+                android:paddingRight="@dimen/activity_vertical_margin"
+                android:layout_marginTop="@dimen/activity_vertical_margin">
+
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="45dp"
+                    android:text="@string/troop.report.select.status.ok"
+                    android:id="@+id/button_fix"
+                    android:textColor="@color/text.color.white"
+                    android:background="@drawable/button_selector"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:textAllCaps="true"
+                    android:layout_gravity="center_horizontal" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingLeft="@dimen/activity_vertical_margin"
+                android:paddingRight="@dimen/activity_vertical_margin"
+                android:paddingTop="@dimen/activity_vertical_margin"
+                android:paddingBottom="@dimen/activity_vertical_margin"
+                android:weightSum="2"
+                android:id="@+id/layout_app_options"
+                android:visibility="visible">
+
+                <!--<Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="45dp"
+                    android:text="Regresar"
+                    android:id="@+id/button_cancel"
+                    android:textColor="@color/text.color.white"
+                    android:background="@drawable/button_cancel_selector"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:textAllCaps="true"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true" />-->
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="45dp"
+                        android:text="@string/select.report.app.1"
+                        android:id="@+id/button_wrong_report_1"
+                        android:textColor="@color/text.color.white"
+                        android:background="@drawable/button_cancel_selector"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:textAllCaps="true"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:layout_marginRight="5dp"
+                        android:layout_weight="1" />
+
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="45dp"
+                        android:text="@string/troop.report.select.status.invalid"
+                        android:id="@+id/button_invalid"
+                        android:textColor="@color/text.color.white"
+                        android:background="@drawable/button_cancel_selector"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:textAllCaps="true"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:layout_weight="1"
+                        android:layout_marginLeft="5dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/activity_vertical_margin">
+
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="45dp"
+                        android:text="@string/select.report.app.2"
+                        android:id="@+id/button_fake_report"
+                        android:textColor="@color/text.color.white"
+                        android:background="@drawable/button_cancel_selector"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:textAllCaps="true"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentEnd="true"
+                        android:layout_weight="1"
+                        android:layout_marginRight="5dp" />
+
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="45dp"
+                        android:text="@string/select.report.app.3"
+                        android:id="@+id/button_pending_report"
+                        android:textColor="@color/text.color.white"
+                        android:background="@drawable/button_cancel_selector"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:textAllCaps="true"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentEnd="true"
+                        android:layout_marginLeft="5dp"
+                        android:layout_weight="1" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:paddingLeft="@dimen/activity_vertical_margin"
+                android:paddingRight="@dimen/activity_vertical_margin"
+                android:id="@+id/layout_agu_options"
+                android:visibility="visible"
+                android:paddingTop="@dimen/activity_vertical_margin"
+                android:paddingBottom="@dimen/activity_vertical_margin">
+
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="45dp"
+                    android:text="@string/select.report.agu.1"
+                    android:id="@+id/button_reallocate_report"
+                    android:textColor="@color/text.color.white"
+                    android:background="@drawable/button_cancel_selector"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:textAllCaps="true"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_weight="1"
+                    android:layout_marginRight="5dp" />
+
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="45dp"
+                    android:text="@string/select.report.agu.2"
+                    android:id="@+id/button_pending_report_agu"
+                    android:textColor="@color/text.color.white"
+                    android:background="@drawable/button_cancel_selector"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:textAllCaps="true"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="1" />
+            </LinearLayout>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:text="@string/release_report"
+                android:id="@+id/button_release_report"
+                android:textColor="@color/text.color.white"
+                android:background="@color/pin.yellow"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:textAllCaps="true"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="@dimen/activity_vertical_margin"
+                android:layout_marginRight="@dimen/activity_vertical_margin"
+                android:layout_marginBottom="@dimen/activity_vertical_margin"
+                android:visibility="gone" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <include
+        layout="@layout/progress_layout"
+        android:id="@+id/progress_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</RelativeLayout>
+
+
+
+    <!--CUADRILLA CON NUEVO DISEÑO-->
+<!--
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/window_background">
+
+    <ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        android:scrollbars="none">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:id="@+id/linearLayout8">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="@dimen/activity_vertical_margin"
+                    android:paddingLeft="@dimen/activity_horizontal_margin"
+                    android:paddingRight="@dimen/activity_horizontal_margin"
+                    android:paddingTop="@dimen/activity_vertical_margin">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="@string/report.detail.address.label"
+                        android:id="@+id/textView20"
+                        android:textColor="@color/gray_a" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:text="Medium Text"
+                        android:id="@+id/textview_address"
+                        android:textColor="@color/text.color"
+                        android:layout_marginTop="5dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="@string/report.detail.comments.label"
+                        android:id="@+id/textView22"
+                        android:textColor="@color/gray_a"
+                        android:layout_marginTop="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:text="Medium Text"
+                        android:id="@+id/textview_comments"
+                        android:textColor="@color/text.color"
+                        android:layout_marginTop="5dp" />
+
+                    <LinearLayout
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:weightSum="1"
+                        android:layout_marginTop="10dp">
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="100dp"
+                            android:id="@+id/imageview_picture1"
+                            android:layout_weight="0.25"
+                            android:background="@drawable/input_background"
+                            android:src="@drawable/no_foto"
+                            android:scaleType="center"
+                            android:layout_marginRight="5dp" />
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="100dp"
+                            android:id="@+id/imageview_picture2"
+                            android:layout_weight="0.25"
+                            android:scaleType="center"
+                            android:src="@drawable/no_foto"
+                            android:background="@drawable/input_background"
+                            android:layout_marginRight="5dp" />
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="100dp"
+                            android:id="@+id/imageview_picture3"
+                            android:layout_weight="0.25"
+                            android:scaleType="center"
+                            android:src="@drawable/no_foto"
+                            android:background="@drawable/input_background"
+                            android:layout_marginRight="5dp" />
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="100dp"
+                            android:id="@+id/imageview_picture4"
+                            android:layout_weight="0.25"
+                            android:scaleType="center"
+                            android:src="@drawable/no_foto"
+                            android:background="@drawable/input_background" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="@dimen/activity_vertical_margin"
+                    android:paddingRight="@dimen/activity_vertical_margin"
+                    android:paddingTop="@dimen/activity_vertical_margin"
+                    android:paddingBottom="@dimen/activity_vertical_margin">
+
+                    <Button
+                        android:layout_width="wrap_content"
+                        android:layout_height="45dp"
+                        android:text="Solucionar reporte"
+                        android:id="@+id/button_fix"
+                        android:textColor="@color/text.color.white"
+                        android:background="@drawable/button_selector"
+                        android:paddingLeft="20dp"
+                        android:paddingRight="20dp"
+                        android:textAllCaps="true"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentEnd="true" />
+
+                    <Button
+                        android:layout_width="wrap_content"
+                        android:layout_height="45dp"
+                        android:text="Regresar"
+                        android:id="@+id/button_cancel"
+                        android:textColor="@color/text.color.white"
+                        android:background="@drawable/button_cancel_selector"
+                        android:paddingLeft="20dp"
+                        android:paddingRight="20dp"
+                        android:textAllCaps="true"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true" />
+                </RelativeLayout>
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:paddingBottom="@dimen/activity_vertical_margin"
+                    android:paddingLeft="@dimen/activity_horizontal_margin"
+                    android:paddingRight="@dimen/activity_horizontal_margin"
+                    android:paddingTop="@dimen/activity_vertical_margin"
+                    android:id="@+id/layout_solved_info"
+                    android:visibility="gone">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:text="SOLUCIONANDO REPORTE "
+                        android:id="@+id/textView30"
+                        android:textColor="@color/primary" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Agrega la información necesaria para la solución del reporte, todos lo campos son obligatorios."
+                        android:id="@+id/textView31"
+                        android:textColor="@color/text.color"
+                        android:layout_marginTop="10dp" />
+
+                    <LinearLayout
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:weightSum="1"
+                        android:gravity="center_vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:text="Número de baches:"
+                            android:id="@+id/textView32"
+                            android:textColor="@color/text.color"
+                            android:layout_weight="0.5" />
+
+                        <EditText
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:inputType="number"
+                            android:ems="10"
+                            android:id="@+id/edit_no_baches"
+                            android:layout_weight="0.5"
+                            android:textColor="@color/text.color" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:weightSum="1"
+                        android:gravity="center_vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:text="Mts reparados:"
+                            android:id="@+id/textView33"
+                            android:textColor="@color/text.color"
+                            android:layout_weight="0.5" />
+
+                        <EditText
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:inputType="number"
+                            android:ems="10"
+                            android:id="@+id/edit_mts_repaired"
+                            android:layout_weight="0.5"
+                            android:textColor="@color/text.color" />
+                    </LinearLayout>
+
+                    <RelativeLayout
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:weightSum="1"
+                        android:gravity="center_vertical"
+                        android:layout_gravity="center_vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:text="Adjuntar una foto:"
+                            android:id="@+id/textView34"
+                            android:textColor="@color/text.color"
+                            android:layout_alignParentLeft="true"
+                            android:layout_weight="0.5"
+                            android:layout_centerVertical="true" />
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="50dp"
+                            android:id="@+id/imageview_picture"
+                            android:layout_weight="0.5"
+                            android:background="@drawable/input_background"
+                            android:src="@drawable/camara_.png"
+                            android:scaleType="center"
+                            android:layout_alignParentRight="true"
+                            android:layout_marginRight="5dp"
+                            android:layout_centerVertical="true" />
+                    </RelativeLayout>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Comentarios"
+                        android:id="@+id/textView35"
+                        android:textColor="@color/text.color"
+                        android:layout_marginTop="10dp" />
+
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="100dp"
+                        android:inputType="textMultiLine"
+                        android:ems="10"
+                        android:id="@+id/edit_comments"
+                        android:maxLines="5"
+                        android:textColor="@color/text.color" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="*Todos los campos son obligatorios"
+                        android:id="@+id/textView36"
+                        android:textColor="@color/gray_a"
+                        android:textSize="11dp"
+                        android:layout_marginTop="5dp"
+                        android:visibility="gone" />
+
+                    <Button
+                        android:layout_width="wrap_content"
+                        android:layout_height="45dp"
+                        android:text="Enviar información"
+                        android:id="@+id/button_fixed_report"
+                        android:textColor="@color/text.color.white"
+                        android:background="@drawable/button_selector"
+                        android:paddingLeft="20dp"
+                        android:paddingRight="20dp"
+                        android:textAllCaps="true"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentEnd="true"
+                        android:layout_marginTop="10dp" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@+id/linearLayout8"
+                android:layout_alignParentBottom="true"
+                android:gravity="center"
+                android:paddingLeft="@dimen/activity_vertical_margin"
+                android:paddingRight="@dimen/activity_vertical_margin"
+                android:background="@color/text.background.color"
+                android:id="@+id/wrong_report_layout"
+                android:visibility="visible">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="Si detectas que este reporte no es parte del programa B-24 significa que se regresará al sistema y será canalizado en reportes 072."
+                    android:id="@+id/textView37"
+                    android:textColor="@color/gray_a"
+                    android:textSize="11dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_gravity="center" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="45dp"
+                    android:text="Reporte erroneo"
+                    android:id="@+id/button_wrong_report"
+                    android:textColor="@color/text.color.white"
+                    android:background="@drawable/button_cancel_selector"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:textAllCaps="true"
+                    android:layout_gravity="center"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginTop="20dp" />
+            </LinearLayout>
+        </RelativeLayout>
+    </ScrollView>
+
+    <include
+        layout="@layout/progress_layout"
+        android:id="@+id/progress_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</RelativeLayout>
+-->

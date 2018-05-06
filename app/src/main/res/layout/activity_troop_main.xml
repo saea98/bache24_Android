@@ -1,0 +1,94 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:id="@+id/toolbar"
+        android:background="@color/primary"
+        android:contentInsetStart="0dp"
+        android:contentInsetLeft="0dp"
+        app:contentInsetLeft="0dp"
+        app:contentInsetStart="0dp"
+        android:contentInsetRight="0dp"
+        android:contentInsetEnd="0dp"
+        app:contentInsetRight="0dp"
+        app:contentInsetEnd="0dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical">
+
+            <ImageView
+                android:layout_width="?attr/actionBarSize"
+                android:layout_height="match_parent"
+                android:src="@drawable/icon_mas"
+                android:scaleType="centerInside"
+                android:id="@+id/new_report_button"
+                android:layout_alignParentLeft="true"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:textColor="@color/text.color.white"
+                android:layout_centerVertical="true"
+                android:gravity="center"
+                android:text="@string/new.report.title"
+                android:id="@+id/toolbar_title_1"
+                android:visibility="visible"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textAllCaps="true"
+                android:layout_toRightOf="@+id/new_report_button"
+                android:layout_toLeftOf="@+id/logout_button"
+                android:layout_toStartOf="@+id/logout_button" />
+
+            <!--<Button
+                android:layout_width="?attr/actionBarSize"
+                android:layout_height="?attr/actionBarSize"
+                android:id="@+id/new_report_button"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/icon_mas"
+                style="?android:attr/borderlessButtonStyle"
+                android:textSize="30dp" />-->
+
+            <!--<ImageView
+                android:layout_width="?attr/actionBarSize"
+                android:layout_height="match_parent"
+                android:src="@drawable/ic_sms_failed_white_24dp"
+                android:scaleType="centerInside"
+                android:id="@+id/apptentive_button"
+                android:layout_toLeftOf="@+id/logout_button"
+                android:layout_toStartOf="@+id/logout_button" />-->
+
+            <ImageView
+                android:layout_width="?attr/actionBarSize"
+                android:layout_height="match_parent"
+                android:src="@drawable/icon_logout"
+                android:scaleType="centerInside"
+                android:id="@+id/logout_button"
+                android:layout_alignParentRight="true"/>
+        </RelativeLayout>
+
+    </android.support.v7.widget.Toolbar>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/fragment_container"
+        android:layout_below="@+id/toolbar">
+
+        <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:id="@+id/fragment"
+            android:name="com.cmi.bache24.ui.fragment.troop.TroopMainFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:layout="@layout/fragment_troop_main" />
+
+    </FrameLayout>
+
+</RelativeLayout>

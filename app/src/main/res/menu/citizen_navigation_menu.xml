@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_configuration"
+        android:checked="false"
+        android:title="@string/menu.configuration" />
+    <item
+        android:id="@+id/menu_about"
+        android:checked="false"
+        android:title="@string/menu.about" />
+    <item
+        android:id="@+id/menu_program"
+        android:checked="false"
+        android:title="@string/menu.program.description" />
+    <item
+        android:id="@+id/menu_bache"
+        android:checked="false"
+        android:title="@string/menu.bache" />
+    <item
+        android:id="@+id/menu_faqs"
+        android:checked="false"
+        android:title="@string/menu.faqs" />
+    <item
+        android:id="@+id/menu_news"
+        android:checked="false"
+        android:title="@string/menu.news" />
+    <!--<item
+        android:id="@+id/menu_contact"
+        android:checked="false"
+        android:title="@string/menu.contact"/>-->
+    <item
+        android:id="@+id/menu_privacy"
+        android:checked="false"
+        android:title="@string/menu.privacy" />
+    <item
+        android:id="@+id/menu_terms"
+        android:checked="false"
+        android:title="@string/menu.terms" />
+</menu>

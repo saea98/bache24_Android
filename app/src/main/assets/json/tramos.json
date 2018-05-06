@@ -1,0 +1,6890 @@
+[
+    {
+        "tramo": "Eje 1 Norte - Manuel Lebrija - Adolfo López Mateos"
+    },
+    {
+        "tramo": "Eje 1 Norte - Albañiles - Miguel Hidalgo"
+    },
+    {
+        "tramo": "Eje 1 Norte - Albañiles - Ampliación Penitenciaria"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Ing. Eduardo Molina - D M Nacional"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Ing. Eduardo Molina - Gertrudis Sánchez 3a Sección"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Ing. Eduardo Molina - Felipe Ángeles"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Francisco del Paso y Troncoso - Los Picos de Iztacalco Sección 1"
+    },
+    {
+        "tramo": "Eje 3 Poniente - Medellín - Del Valle Norte"
+    },
+    {
+        "tramo": "Eje 5 Poniente - Sur 122 - Acueducto"
+    },
+    {
+        "tramo": "Eje 5 Poniente - Av. Central - Carola"
+    },
+    {
+        "tramo": "Eje 5 Poniente - Sur 122 - José María Pino Suárez"
+    },
+    {
+        "tramo": "Eje 5 Poniente - La Curva - José María Pino Suárez"
+    },
+    {
+        "tramo": "Eje 5 Poniente - Luz y Fuerza - Las Águilas"
+    },
+    {
+        "tramo": "Eje 5 Poniente - Av. Alta Tensión - Lomas de Plateros"
+    },
+    {
+        "tramo": "Eje 5 Poniente - Luz y Fuerza - Merced Gómez"
+    },
+    {
+        "tramo": "Eje 5 Poniente - Av. Alta Tensión - Sacramento"
+    },
+    {
+        "tramo": "Eje 5 Poniente - Av. Escuadrón 201 - Tolteca"
+    },
+    {
+        "tramo": "Eje 1 A Sur - Av. Dr. Río de la Loza - Doctores"
+    },
+    {
+        "tramo": "Eje 2 Norte - Canal del Norte - Ampliación Venustiano Carranza"
+    },
+    {
+        "tramo": "Eje 2 A Sur - San Luis Potosí - Roma Norte"
+    },
+    {
+        "tramo": "Eje 2 Sur - Av. del Taller - Paulino Navarro"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Av. Centenario - CTM Atzacoalco"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Av. Centenario - Villa Hermosa"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Av. Centenario - Pueblo de Santiago Atzacoalco"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Av. H Congreso de la Unión - 5o Tramo 20 de Noviembre"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Av. H Congreso de la Unión - Zona Centro"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Av. H Congreso de la Unión - Magdalena Mixiuhca"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Calz. de la Viga - Cacama"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Heroica Escuela Naval Militar - San Francisco Culhuacán Barrio d"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Heroica Escuela Naval Militar - Ex-Ejido de San Francisco Culhua"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Heroica Escuela Naval Militar - Presidentes Ejidales 2a Sección"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Heroica Escuela Naval Militar - Ex-Ejido San Pablo Tepetlapa"
+    },
+    {
+        "tramo": "Eje 4 Oriente - Av. Río Churubusco - Cuchilla Pantitlán"
+    },
+    {
+        "tramo": "Eje 4 Poniente - Av. Revolución - Mixcoac"
+    },
+    {
+        "tramo": "Eje 4 Poniente - Av. Revolución - Merced Gómez"
+    },
+    {
+        "tramo": "Eje 4 Poniente - Av. Revolución - Barrio la Otra Banda"
+    },
+    {
+        "tramo": "Eje 5 Oriente - Javier Rojo Gómez - Leyes de Reforma 3a Sección"
+    },
+    {
+        "tramo": "Eje 10 Sur - Candelaria - Pueblo la Candelaria"
+    },
+    {
+        "tramo": "Eje 10 Sur - Río de la Magdalena - Barrio la Otra Banda"
+    },
+    {
+        "tramo": "Eje 10 Sur - Canoa - Barrio la Otra Banda"
+    },
+    {
+        "tramo": "Av. Cuitláhuac - Popotla"
+    },
+    {
+        "tramo": "Eje 1 A Sur - Av. Fray Servando Teresa de Mier - Tránsito"
+    },
+    {
+        "tramo": "Eje 1 A Sur - Av. Fray Servando Teresa de Mier - Zona Centro"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Ferrocarril Hidalgo - Ampliación San Juan de Aragón"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Ferrocarril Hidalgo - Valle Gómez"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Av. del Trabajo - Morelos"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Av. Andrés Molina Enriquez - Sinatel"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Calz. Vallejo - Coltongo"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Calz. Vallejo - Trabajadores del Hierro"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Calz. Vallejo - Progreso Nacional"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Prolongación Guerrero - Nonoalco Tlatelolco"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Av. Rosales - Tabacalera"
+    },
+    {
+        "tramo": "La Viga - Barrio Zapotla"
+    },
+    {
+        "tramo": "Av. Pdte Plutarco Elías Calles - Barrio San Pedro"
+    },
+    {
+        "tramo": "Eje 3 Poniente - Av. Coyoacán - Del Valle Norte"
+    },
+    {
+        "tramo": "Eje 4 Sur - Benjamín Franklin - Escandón II Sección"
+    },
+    {
+        "tramo": "Eje 3 Norte - Av. 506 - San Juan de Aragón II Sección"
+    },
+    {
+        "tramo": "Av. Paseo de las Palmas - Lomas de Chapultepec II Sección"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Consulado - San Juan de Aragón I Sección"
+    },
+    {
+        "tramo": "Lieja - Juárez"
+    },
+    {
+        "tramo": "Calz. Coyuya - La Cruz"
+    },
+    {
+        "tramo": "Av. Hidalgo - Centro"
+    },
+    {
+        "tramo": "Av. Moliere - Granada"
+    },
+    {
+        "tramo": "Av. Hidalgo - Guerrero"
+    },
+    {
+        "tramo": "La Turba - Del Mar"
+    },
+    {
+        "tramo": "Mazatlán - Condesa"
+    },
+    {
+        "tramo": "México - El Cantil"
+    },
+    {
+        "tramo": "Av. 3 A - Sta. Rosa"
+    },
+    {
+        "tramo": "Av. Balderas - Doctores"
+    },
+    {
+        "tramo": "Calz. Coyuya - Sta. Anita"
+    },
+    {
+        "tramo": "La Turba - La Turba"
+    },
+    {
+        "tramo": "La Turba - La Draga"
+    },
+    {
+        "tramo": "Av. Salonica - Claveria"
+    },
+    {
+        "tramo": "Av. 5 de Mayo - Plenitud"
+    },
+    {
+        "tramo": "Av. México - La Cruz"
+    },
+    {
+        "tramo": "Av. Sonora - Condesa"
+    },
+    {
+        "tramo": "Av. Centenario - Tarango"
+    },
+    {
+        "tramo": "Durango - Roma Norte"
+    },
+    {
+        "tramo": "Economía - 4 Arboles"
+    },
+    {
+        "tramo": "La Turba - La Planta"
+    },
+    {
+        "tramo": "Av. Oceanía - Revolución"
+    },
+    {
+        "tramo": "Av. Oceanía - 7 de Julio"
+    },
+    {
+        "tramo": "Acueducto - Zacatenco"
+    },
+    {
+        "tramo": "Av. Altavista - San Ángel"
+    },
+    {
+        "tramo": "Av. del Imán - Ajusco"
+    },
+    {
+        "tramo": "Av. Sta. Ana - Avante"
+    },
+    {
+        "tramo": "Av. Carlos Lazo - Tarango"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Churubusco - Xoco"
+    },
+    {
+        "tramo": "La Turba - El Rosario"
+    },
+    {
+        "tramo": "La Turba - Los Olivos"
+    },
+    {
+        "tramo": "Av. Salonica - Del Recreo"
+    },
+    {
+        "tramo": "Av. Sonora - Hipódromo"
+    },
+    {
+        "tramo": "Av. Centenario - Hueytlale"
+    },
+    {
+        "tramo": "Av. Centenario - Canutillo"
+    },
+    {
+        "tramo": "Av. Centenario - El Rincón"
+    },
+    {
+        "tramo": "Lago Alberto - Granada"
+    },
+    {
+        "tramo": "Av. Oceanía - Romero Rubio"
+    },
+    {
+        "tramo": "Av. Parque Lira - Tacubaya"
+    },
+    {
+        "tramo": "Av. Río San Joaquín - Popo"
+    },
+    {
+        "tramo": "Av. San Fernando - Tlalpan"
+    },
+    {
+        "tramo": "Av. San Jerónimo - El Toro"
+    },
+    {
+        "tramo": "Viaducto - Miguel Alemán - Álamos"
+    },
+    {
+        "tramo": "Alfonso Reyes - Condesa"
+    },
+    {
+        "tramo": "Av. Aquiles Serdán - Tacuba"
+    },
+    {
+        "tramo": "Av. Sonora - Roma Norte"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Churubusco - Cacama"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Consulado - Atlampa"
+    },
+    {
+        "tramo": "Gral. Leandro Valle - Del Mar"
+    },
+    {
+        "tramo": "Av. Niños Héroes - Doctores"
+    },
+    {
+        "tramo": "Río Ródano - Cuauhtémoc"
+    },
+    {
+        "tramo": "Av. Salonica - Sector Naval"
+    },
+    {
+        "tramo": "Av. San Jerónimo - El Rosal"
+    },
+    {
+        "tramo": "Av. San Jerónimo - Huayatla"
+    },
+    {
+        "tramo": "Viaducto - Miguel Alemán - Nápoles"
+    },
+    {
+        "tramo": "Viaducto - Miguel Alemán - Algarin"
+    },
+    {
+        "tramo": "Av. México - Sta. Teresa"
+    },
+    {
+        "tramo": "Av. Tezozomoc - Plenitud"
+    },
+    {
+        "tramo": "Av. Centenario - Herón Proal"
+    },
+    {
+        "tramo": "Av. Centenario - Tlacuitlapa"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Churubusco - Sinatel"
+    },
+    {
+        "tramo": "Circuito Interior - Melchor Ocampo - Anzurez"
+    },
+    {
+        "tramo": "Anillo de Circunvalación - Morelos"
+    },
+    {
+        "tramo": "Invierno - Ángel Zimbrón"
+    },
+    {
+        "tramo": "Av. Marina Nacional - Tacuba"
+    },
+    {
+        "tramo": "Av. Oceanía - Aquiles Serdán"
+    },
+    {
+        "tramo": "Av. Oceanía - Miguel Hidalgo"
+    },
+    {
+        "tramo": "Av. San Bernabé - Las Cruces"
+    },
+    {
+        "tramo": "Av. San Bernabé - Los Padres"
+    },
+    {
+        "tramo": "Av. San Bernabé - Cuauhtémoc"
+    },
+    {
+        "tramo": "Av. San Bernabé - El Maestro"
+    },
+    {
+        "tramo": "Av. San Jerónimo - El Ocotal"
+    },
+    {
+        "tramo": "Viaducto - Miguel Alemán - Tacubaya"
+    },
+    {
+        "tramo": "Viaducto - Miguel Alemán - Roma Sur"
+    },
+    {
+        "tramo": "Alfonso Reyes - Hipódromo"
+    },
+    {
+        "tramo": "Av. Altavista - San Ángel Inn"
+    },
+    {
+        "tramo": "Av. Aquiles Serdán - Pasteros"
+    },
+    {
+        "tramo": "Av. del Imán - El Caracol"
+    },
+    {
+        "tramo": "Av. México - La Guadalupe"
+    },
+    {
+        "tramo": "Av. Nuevo León - Roma Sur"
+    },
+    {
+        "tramo": "Av. Pacífico - El Rosedal"
+    },
+    {
+        "tramo": "Av. Tláhuac - Barrio la Asunción"
+    },
+    {
+        "tramo": "Canal del Moral - Sideral"
+    },
+    {
+        "tramo": "Av. Centenario - Merced Gómez"
+    },
+    {
+        "tramo": "Av. Centenario - Zona Federal"
+    },
+    {
+        "tramo": "Av. Centenario - La Martinica"
+    },
+    {
+        "tramo": "Av. Centenario - Los Juristas"
+    },
+    {
+        "tramo": "Av. Centenario - Villa Verdun"
+    },
+    {
+        "tramo": "Circuito Interior - Melchor Ocampo - Tlaxpana"
+    },
+    {
+        "tramo": "Anillo de Circunvalación - Janitzio"
+    },
+    {
+        "tramo": "La Turba - Miguel Hidalgo"
+    },
+    {
+        "tramo": "Av. Luis Cabrera - Cuauhtémoc"
+    },
+    {
+        "tramo": "Av. Río San Joaquín - Granada"
+    },
+    {
+        "tramo": "Calz. San Antonio Abad - Centro"
+    },
+    {
+        "tramo": "Av. San Bernabé - La Malinche"
+    },
+    {
+        "tramo": "Av. San Fernando - Peña Pobre"
+    },
+    {
+        "tramo": "Av. San Jerónimo - Potrerillo"
+    },
+    {
+        "tramo": "Calz. Sta. Catarina - Altavista"
+    },
+    {
+        "tramo": "Av. 20 de Noviembre - La Noria"
+    },
+    {
+        "tramo": "Av. Aquiles Serdán - Tezozomoc"
+    },
+    {
+        "tramo": "Av. Nuevo León - Hipódromo"
+    },
+    {
+        "tramo": "Av. Observatorio - América"
+    },
+    {
+        "tramo": "Av. Centenario - Puerta Grande"
+    },
+    {
+        "tramo": "Av. Centenario - Llano Redondo"
+    },
+    {
+        "tramo": "Circuito Interior - Av. José Vasconcelos - Condesa"
+    },
+    {
+        "tramo": "La Turba - Granjas Cabrera"
+    },
+    {
+        "tramo": "Av. Luis Cabrera - La Malinche"
+    },
+    {
+        "tramo": "Av. Marina Nacional - Tlaxpana"
+    },
+    {
+        "tramo": "Av. México Ajusco - Tlalpuente"
+    },
+    {
+        "tramo": "Av. Parque Lira - Observatorio"
+    },
+    {
+        "tramo": "Rodolfo Gaona - Periodista"
+    },
+    {
+        "tramo": "Calz. San Antonio Abad - Algarin"
+    },
+    {
+        "tramo": "Calz. Ticomán - Lindavista Norte"
+    },
+    {
+        "tramo": "Viaducto - Río de la Piedad - Jamaica"
+    },
+    {
+        "tramo": "Av. 20 de Noviembre - Huichapan"
+    },
+    {
+        "tramo": "Av. Aquiles Serdán - El Rosario"
+    },
+    {
+        "tramo": "Av. Aquiles Serdán - San Rafael"
+    },
+    {
+        "tramo": "Av. 602 - Pensador Mexicano"
+    },
+    {
+        "tramo": "Av. Observatorio - Tacubaya"
+    },
+    {
+        "tramo": "Av. Tezozomoc - San Antonio"
+    },
+    {
+        "tramo": "Av. Tláhuac - Las Arboledas"
+    },
+    {
+        "tramo": "Cazuela - Central de Abasto"
+    },
+    {
+        "tramo": "Circuito Ajusco - El Charco"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Mixcoac - Pueblo Axotla"
+    },
+    {
+        "tramo": "Circuito Interior - Melchor Ocampo - Cuauhtémoc"
+    },
+    {
+        "tramo": "Circuito Interior - Melchor Ocampo - San Rafael"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Consulado - Valle Gómez"
+    },
+    {
+        "tramo": "Circuito Interior - Blv. Puerto Aéreo - Federal"
+    },
+    {
+        "tramo": "Av. Estanislao Ramírez Ruiz - Selene"
+    },
+    {
+        "tramo": "Av. Gavilán - Barrio San Miguel"
+    },
+    {
+        "tramo": "Av. Horacio - Polanco V Sección"
+    },
+    {
+        "tramo": "Av. Horacio - Polanco I Sección"
+    },
+    {
+        "tramo": "Av. Oceanía - Pensador Mexicano"
+    },
+    {
+        "tramo": "Calz. San Antonio Abad - Asturias"
+    },
+    {
+        "tramo": "Calz. San Antonio Abad - Tránsito"
+    },
+    {
+        "tramo": "Av. San Bernabé - Barros Sierra"
+    },
+    {
+        "tramo": "Av. Vasco de Quiroga - Cuevitas"
+    },
+    {
+        "tramo": "Viaducto - Río de la Piedad - Asturias"
+    },
+    {
+        "tramo": "Av. Aquiles Serdán - La Preciosa"
+    },
+    {
+        "tramo": "Av. Centenario - Lomas Axomiatla"
+    },
+    {
+        "tramo": "Av. Centenario - Ejido San Mateo"
+    },
+    {
+        "tramo": "Av. Horacio - Polanco IV Sección"
+    },
+    {
+        "tramo": "Av. Horacio - Polanco II Sección"
+    },
+    {
+        "tramo": "Mazatlán - Hipódromo Condesa"
+    },
+    {
+        "tramo": "Av. Moliere - Polanco II Sección"
+    },
+    {
+        "tramo": "Av. Moliere - Ampliación Granada"
+    },
+    {
+        "tramo": "Av. Puerto Mazatlán - La Pastora"
+    },
+    {
+        "tramo": "Av. Río San Joaquín - Irrigación"
+    },
+    {
+        "tramo": "Viaducto - Miguel Alemán - Buenos Aires"
+    },
+    {
+        "tramo": "Viaducto - Miguel Alemán - Atenor Salas"
+    },
+    {
+        "tramo": "Av. Aquiles Serdán - Tierra Nueva"
+    },
+    {
+        "tramo": "Av. 8 Gral. Francisco Morazan - Valentín Gómez Farías"
+    },
+    {
+        "tramo": "Av. Tláhuac - Granjas Cabrera"
+    },
+    {
+        "tramo": "Calz. México Tacuba - Popotla"
+    },
+    {
+        "tramo": "Av. Camino Real A Toluca - Bosque"
+    },
+    {
+        "tramo": "Av. Carlos Lazo - Ejido San Mateo"
+    },
+    {
+        "tramo": "Av. Carlos Lazo - Sta. Fé la Loma"
+    },
+    {
+        "tramo": "Av. Centenario - Lomas de Tarango"
+    },
+    {
+        "tramo": "Eje 3 Sur - Av. Morelos - Jamaica"
+    },
+    {
+        "tramo": "Av. Marina Nacional - San Juanico"
+    },
+    {
+        "tramo": "Av. Moliere - Polanco III Sección"
+    },
+    {
+        "tramo": "Av. Río San Joaquín - San Joaquín"
+    },
+    {
+        "tramo": "Av. Río San Joaquín - 10 de Abril"
+    },
+    {
+        "tramo": "Rómulo O'Farril - Las Águilas"
+    },
+    {
+        "tramo": "Calz. Sta. Catarina - San Ángel Inn"
+    },
+    {
+        "tramo": "Av. Vasco de Quiroga - La Palmita"
+    },
+    {
+        "tramo": "Av. Vasco de Quiroga - Tlapechico"
+    },
+    {
+        "tramo": "Av. 20 de Noviembre - Tierra Nueva"
+    },
+    {
+        "tramo": "Av. Aquiles Serdán - Ángel Zimbrón"
+    },
+    {
+        "tramo": "Av. 8 Gral. Francisco Morazan - Gral. Ignacio Zaragoza"
+    },
+    {
+        "tramo": "Calz. Acoxpa - Narciso Mendoza"
+    },
+    {
+        "tramo": "Calz. México Tacuba - Nextitla"
+    },
+    {
+        "tramo": "Calz. México Tacuba - Tlaxpana"
+    },
+    {
+        "tramo": "Av. Camino Real A Toluca - Tolteca"
+    },
+    {
+        "tramo": "Av. Canal de Chalco - Celoalliotli"
+    },
+    {
+        "tramo": "Av. Canal de Tezontle - Inpi Picos"
+    },
+    {
+        "tramo": "Canal Nacional - Granjas Coapa"
+    },
+    {
+        "tramo": "Canal Nacional - Villa Quietud"
+    },
+    {
+        "tramo": "Av. Centenario - Lomas de Plateros"
+    },
+    {
+        "tramo": "Av. Centenario - Villa Progresista"
+    },
+    {
+        "tramo": "Chalma la Villa - Zona Escolar"
+    },
+    {
+        "tramo": "Circuito Ajusco - Zona Rústica"
+    },
+    {
+        "tramo": "Circuito Interior - Diagonal Patriotismo - Condesa"
+    },
+    {
+        "tramo": "Cuauhtémoc - Barrio San Marcos"
+    },
+    {
+        "tramo": "Av. División del Norte - San Mateo"
+    },
+    {
+        "tramo": "Av. División del Norte - Atlántida"
+    },
+    {
+        "tramo": "Av. División del Norte - Xotepingo"
+    },
+    {
+        "tramo": "Av. División del Norte - Espartaco"
+    },
+    {
+        "tramo": "Calz. Guadalupe I Ramírez - La Noria"
+    },
+    {
+        "tramo": "Av. Luis Cabrera - Lomas Quebradas"
+    },
+    {
+        "tramo": "Av. Marina Nacional - Los Manzanos"
+    },
+    {
+        "tramo": "Av. Oceanía - Moctezuma 2a Sección"
+    },
+    {
+        "tramo": "Av. Oceanía - Moctezuma 1a Sección"
+    },
+    {
+        "tramo": "Av. Pdte Plutarco Elías Calles - Albert"
+    },
+    {
+        "tramo": "Av. Pdte Plutarco Elías Calles - Ermita"
+    },
+    {
+        "tramo": "Av. San Fernando - Toriello Guerra"
+    },
+    {
+        "tramo": "Av. San Jerónimo - Lomas Quebradas"
+    },
+    {
+        "tramo": "San Rafael Atlixco - Zacatenco"
+    },
+    {
+        "tramo": "Av. Vasco de Quiroga - El Cuernito"
+    },
+    {
+        "tramo": "Av. Vasco de Quiroga - La Estrella"
+    },
+    {
+        "tramo": "Av. Vasco de Quiroga - La Mexicana"
+    },
+    {
+        "tramo": "Av. México - Héroes de Padierna"
+    },
+    {
+        "tramo": "Av. Universidad - Del Valle Sur"
+    },
+    {
+        "tramo": "Calz. de las Bombas - Cafetales"
+    },
+    {
+        "tramo": "Av. Carlos Lazo - Pueblo Sta. Lucía"
+    },
+    {
+        "tramo": "Av. Carlos Lazo - Sta. Fé Tlayapaca"
+    },
+    {
+        "tramo": "Av. Centenario - Colinas de Tarango"
+    },
+    {
+        "tramo": "Chalma la Villa - Jorge Negrete"
+    },
+    {
+        "tramo": "Calz. Coyuya - Fraccionamiento Coyuya"
+    },
+    {
+        "tramo": "Av. División del Norte - Del Carmen"
+    },
+    {
+        "tramo": "Av. División del Norte - El Rosedal"
+    },
+    {
+        "tramo": "Av. División del Norte - Cd. Jardín"
+    },
+    {
+        "tramo": "Av. División del Norte - El Rosario"
+    },
+    {
+        "tramo": "Eje 6 Sur - Morelos - Nativitas"
+    },
+    {
+        "tramo": "Eje 8 Sur - Av. Popocatépetl - Xoco"
+    },
+    {
+        "tramo": "Av. Puente de Alvarado - Tabacalera"
+    },
+    {
+        "tramo": "Av. Puerto Mazatlán - Jorge Negrete"
+    },
+    {
+        "tramo": "Rodolfo Gaona - Lomas de Sotelo"
+    },
+    {
+        "tramo": "Rómulo O'Farril - Flor de María"
+    },
+    {
+        "tramo": "Calz. San Antonio Abad - Vista Alegre"
+    },
+    {
+        "tramo": "Calz. Ticomán - Residencial Zacatenco"
+    },
+    {
+        "tramo": "Av. Vasco de Quiroga - Pueblo Nuevo"
+    },
+    {
+        "tramo": "Viaducto - Miguel Alemán - Del Valle Norte"
+    },
+    {
+        "tramo": "Viaducto - Miguel Alemán - Piedad Narvarte"
+    },
+    {
+        "tramo": "Av. 5 de Mayo - Barrio Sta. Apolonia"
+    },
+    {
+        "tramo": "Av. Aquiles Serdán - Barrio Nextengo"
+    },
+    {
+        "tramo": "Av. del Imán - Cd. Universitaria"
+    },
+    {
+        "tramo": "Av. Tláhuac - Barrio San Antonio"
+    },
+    {
+        "tramo": "Calz. de las Bombas - Los Cedros"
+    },
+    {
+        "tramo": "Calz. Gral. Mariano Escobedo - Popotla"
+    },
+    {
+        "tramo": "Calz. Gral. Mariano Escobedo - Granada"
+    },
+    {
+        "tramo": "Calz. Gral. Mariano Escobedo - Anzurez"
+    },
+    {
+        "tramo": "Calz. México Tacuba - Sto. Tomás"
+    },
+    {
+        "tramo": "Calz. Tláhuac Chalco - La Habana"
+    },
+    {
+        "tramo": "Casa del Obrero Mundial - Álamos"
+    },
+    {
+        "tramo": "Av. Centenario - Balcones de Ceguayo"
+    },
+    {
+        "tramo": "Circuito Interior - Diagonal Patriotismo - Hipódromo"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Consulado - Vallejo Poniente"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Consulado - Cuchilla la Joya"
+    },
+    {
+        "tramo": "Anillo de Circunvalación - Emilio Carranza"
+    },
+    {
+        "tramo": "Av. División del Norte - Villa Coapa"
+    },
+    {
+        "tramo": "Eje 6 Sur - Morelos - Del Carmen"
+    },
+    {
+        "tramo": "Eje 9 Sur - Av. Miguel Ángel de Quevedo - Atlántida"
+    },
+    {
+        "tramo": "Eje 9 Sur - Calz. Taxqueña - Educación"
+    },
+    {
+        "tramo": "Av. 8 Gral. Francisco Morazan - Puebla"
+    },
+    {
+        "tramo": "Av. José María Castorena - El Molino"
+    },
+    {
+        "tramo": "Av. Pdte Plutarco Elías Calles - Banjidal"
+    },
+    {
+        "tramo": "Av. Pdte Plutarco Elías Calles - El Prado"
+    },
+    {
+        "tramo": "Av. Ribera de San Cosme - San Rafael"
+    },
+    {
+        "tramo": "Av. San Fernando - San Pedro Apostol"
+    },
+    {
+        "tramo": "San Rafael Atlixco - Ojo de Agua"
+    },
+    {
+        "tramo": "Calz. Tláhuac Tulyehualco - San Isidro"
+    },
+    {
+        "tramo": "Calz. Tláhuac Tulyehualco - San Isidro"
+    },
+    {
+        "tramo": "Av. Zacatepetl - Parque del Pedregal"
+    },
+    {
+        "tramo": "Av. Aquiles Serdán - Barrio San Mateo"
+    },
+    {
+        "tramo": "Av. Constituyentes - Zona Rústica"
+    },
+    {
+        "tramo": "Av. Tenochtitlan - Barrio Pocitos"
+    },
+    {
+        "tramo": "Av. Tenochtitlan - Barrio Tetitla"
+    },
+    {
+        "tramo": "Av. Texcoco - Cuchilla del Tesoro"
+    },
+    {
+        "tramo": "Av. Tláhuac - Barrio Sta. Ana Sur"
+    },
+    {
+        "tramo": "Av. Tláhuac - Barrio Santiago Sur"
+    },
+    {
+        "tramo": "Calle 47 - Gral. Ignacio Zaragoza"
+    },
+    {
+        "tramo": "Calz. de los Gallos - Agricultura"
+    },
+    {
+        "tramo": "Calz. México Tacuba - San Joaquín"
+    },
+    {
+        "tramo": "Av. Camino Real A Toluca - Bellavista"
+    },
+    {
+        "tramo": "Av. Camino Real A Toluca - Cristo Rey"
+    },
+    {
+        "tramo": "Av. Centenario - Canutillo 2a Sección"
+    },
+    {
+        "tramo": "Circuito Interior - Melchor Ocampo - Verónica Anzurez"
+    },
+    {
+        "tramo": "Av. División del Norte - Letrán Valle"
+    },
+    {
+        "tramo": "Av. División del Norte - Portales Sur"
+    },
+    {
+        "tramo": "Eje 3 Norte - Av. Cuitláhuac - Aldana"
+    },
+    {
+        "tramo": "Iztaccihuatl - Sta. Cruz Aviación"
+    },
+    {
+        "tramo": "Av. José María Castorena - Cuajimalpa de Morelos"
+    },
+    {
+        "tramo": "La Turba - Agrícola Metropolitana"
+    },
+    {
+        "tramo": "La Turba - Villa Centro Americana"
+    },
+    {
+        "tramo": "Av. Miguel Bernard - Siete Maravillas"
+    },
+    {
+        "tramo": "Av. Pdte Plutarco Elías Calles - Nativitas"
+    },
+    {
+        "tramo": "Av. Pdte Plutarco Elías Calles - Miravalle"
+    },
+    {
+        "tramo": "Av. Río San Joaquín - Lomas de Sotelo"
+    },
+    {
+        "tramo": "Av. Río San Joaquín - Ampliación Popo"
+    },
+    {
+        "tramo": "Av. San Bernabé - San Jerónimo Lidice"
+    },
+    {
+        "tramo": "San Rafael Atlixco - El Triángulo"
+    },
+    {
+        "tramo": "San Rafael Atlixco - Sta. Cecilia"
+    },
+    {
+        "tramo": "Av. Vasco de Quiroga - Pueblo Sta. Fé"
+    },
+    {
+        "tramo": "Av. 20 de Noviembre - San Juan Tepepan"
+    },
+    {
+        "tramo": "Av. 5 de Mayo - San Lorenzo Tlatenango"
+    },
+    {
+        "tramo": "Prolongación 5 de Mayo - Colinas de Tarango"
+    },
+    {
+        "tramo": "Av. del Imán - Cantil del Pedregal"
+    },
+    {
+        "tramo": "Av. Tenochtitlan - Barrio Apatlaco"
+    },
+    {
+        "tramo": "Av. Universidad - Del Valle Centro"
+    },
+    {
+        "tramo": "Barranca del Muerto - Merced Gómez"
+    },
+    {
+        "tramo": "Bordo Xochiaca - Arenal 4a Sección"
+    },
+    {
+        "tramo": "La Viga - Viaducto Piedad"
+    },
+    {
+        "tramo": "Calz. de las Bombas - Sta. Cecilia"
+    },
+    {
+        "tramo": "Calz. Legaria - Francisco I Madero"
+    },
+    {
+        "tramo": "Av. Camino Real A Toluca - La Conchita"
+    },
+    {
+        "tramo": "Av. Canal de Tezontle - Infonavit Iztacalco"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Churubusco - Central de Abasto"
+    },
+    {
+        "tramo": "Eje 4 Sur - Xola - Del Valle Norte"
+    },
+    {
+        "tramo": "Eje 5 Sur - 1 de Mayo - Nativitas"
+    },
+    {
+        "tramo": "Eje 6 Sur - Cardiologos - El Sifon"
+    },
+    {
+        "tramo": "Eje 9 Sur - Calz. Taxqueña - Barrio Tula"
+    },
+    {
+        "tramo": "Calz. Guadalupe I Ramírez - Tierra Nueva"
+    },
+    {
+        "tramo": "Av. Luis Cabrera - San Jerónimo Lidice"
+    },
+    {
+        "tramo": "Av. Luis Cabrera - San Jerónimo Aculco"
+    },
+    {
+        "tramo": "Av. Marina Nacional - Mariano Escobedo"
+    },
+    {
+        "tramo": "Av. Marina Nacional - Verónica Anzurez"
+    },
+    {
+        "tramo": "México - Pueblo San Miguel Xicalco"
+    },
+    {
+        "tramo": "Av. Pdte Plutarco Elías Calles - Del Carmen"
+    },
+    {
+        "tramo": "Av. San Fernando - Barrio San Fernando"
+    },
+    {
+        "tramo": "Av. San Jerónimo - San Jerónimo Lidice"
+    },
+    {
+        "tramo": "Av. Vasco de Quiroga - Arturo Martínez"
+    },
+    {
+        "tramo": "Av. Vasco de Quiroga - El Piru Sta. Fé"
+    },
+    {
+        "tramo": "Av. Vasco de Quiroga - Sta. Fé la Loma"
+    },
+    {
+        "tramo": "Viaducto - Miguel Alemán - Escandón I Sección"
+    },
+    {
+        "tramo": "Av. Zacatepetl - Insurgentes Cuicuilco"
+    },
+    {
+        "tramo": "Av. 20 de Noviembre - Barrio San Marcos"
+    },
+    {
+        "tramo": "Av. Aquiles Serdán - Prados del Rosario"
+    },
+    {
+        "tramo": "Av. Gran Canal - Nueva Tenochtitlan"
+    },
+    {
+        "tramo": "Av. Gran Canal - Ex-Escuela de Tiro"
+    },
+    {
+        "tramo": "Av. Pacífico - Pueblo la Candelaria"
+    },
+    {
+        "tramo": "Av. Tenochtitlan - Barrio la Planta"
+    },
+    {
+        "tramo": "Av. Tláhuac - San Antonio Culhuacán"
+    },
+    {
+        "tramo": "Calz. de las Bombas - Los Girasoles"
+    },
+    {
+        "tramo": "Calz. de las Bombas - Villa Quietud"
+    },
+    {
+        "tramo": "Calz. México Xochimilco - Guadalupe"
+    },
+    {
+        "tramo": "Calz. Tláhuac Chalco - Zona Rústica"
+    },
+    {
+        "tramo": "Av. Canal de Tezontle - Juventino Rosas"
+    },
+    {
+        "tramo": "Carretera Picacho Ajusco - Chimilli"
+    },
+    {
+        "tramo": "Av. Centenario - Ex-Hacienda de Tarango"
+    },
+    {
+        "tramo": "Av. Centenario - Lomas de Puerta Grande"
+    },
+    {
+        "tramo": "Av. Centenario - Rinconada las Cuevitas"
+    },
+    {
+        "tramo": "Av. Centenario - Ampliación Tlacuitlapa"
+    },
+    {
+        "tramo": "Av. División del Norte - Portales Norte"
+    },
+    {
+        "tramo": "Eje 3 Poniente - Av. Coyoacán - Acacias"
+    },
+    {
+        "tramo": "Eje 4 Sur - Xola - Narvarte Oriente"
+    },
+    {
+        "tramo": "Francisco Goitia - Barrio San Pedro"
+    },
+    {
+        "tramo": "Iztaccihuatl - Moctezuma 1a Sección"
+    },
+    {
+        "tramo": "Iztaccihuatl - Moctezuma 2a Sección"
+    },
+    {
+        "tramo": "Av. José María Castorena - La Manzanita"
+    },
+    {
+        "tramo": "Av. Luis Cabrera - Barrio San Francisco"
+    },
+    {
+        "tramo": "Av. Marina Nacional - Anáhuac I Sección"
+    },
+    {
+        "tramo": "Av. Pdte Plutarco Elías Calles - Zacahuitzco"
+    },
+    {
+        "tramo": "Av. Pdte Plutarco Elías Calles - Zacahuitzco"
+    },
+    {
+        "tramo": "Av. Río San Joaquín - Cuauhtémoc Pensil"
+    },
+    {
+        "tramo": "Calz. Tláhuac Tulyehualco - San Sebastián"
+    },
+    {
+        "tramo": "Av. Vasco de Quiroga - Lomas de Becerra"
+    },
+    {
+        "tramo": "Av. Vasco de Quiroga - Carlos A Madrazo"
+    },
+    {
+        "tramo": "Vía Expres Tapo - Arenal 4a Sección"
+    },
+    {
+        "tramo": "Viaducto - Miguel Alemán - Escandón II Sección"
+    },
+    {
+        "tramo": "Av. Aquiles Serdán - Pueblo Sto. Domingo"
+    },
+    {
+        "tramo": "Av. Aquiles Serdán - San Diego Ocoyoacac"
+    },
+    {
+        "tramo": "Av. del Imán - Insurgentes Cuicuilco"
+    },
+    {
+        "tramo": "Av. Nuevo León - Escandón II Sección"
+    },
+    {
+        "tramo": "Av. Tenochtitlan - Barrio del Puente"
+    },
+    {
+        "tramo": "Av. Tenochtitlan - Barrio la Gallera"
+    },
+    {
+        "tramo": "Av. Tezozomoc - Ampliación Petrolera"
+    },
+    {
+        "tramo": "Av. Tláhuac - Barrio Sta. Ana Centro"
+    },
+    {
+        "tramo": "Av. Tláhuac - Barrio Santiago Centro"
+    },
+    {
+        "tramo": "Calz. de Guadalupe - Felipe Pescador"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Ex-Hacienda Coapa"
+    },
+    {
+        "tramo": "Carretera Picacho Ajusco - Primavera"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Churubusco - U.H. los Picos VI-B"
+    },
+    {
+        "tramo": "Circuito Interior - Av. José Vasconcelos - Hipódromo Condesa"
+    },
+    {
+        "tramo": "Av. División del Norte - Del Valle Norte"
+    },
+    {
+        "tramo": "Eje 5 Sur - Purísima - Pueblo Aculco"
+    },
+    {
+        "tramo": "Eje 6 Norte - Oriente 157 - El Coyol"
+    },
+    {
+        "tramo": "Eje 6 Sur - Cardiologos - El Triunfo"
+    },
+    {
+        "tramo": "Eje 6 Sur - Av. Luis Méndez - Renovación"
+    },
+    {
+        "tramo": "Av. Ejército Nacional Mexicano - Granada"
+    },
+    {
+        "tramo": "Av. Ejército Nacional Mexicano - Anzurez"
+    },
+    {
+        "tramo": "Francisco Goitia - Barrio San Marcos"
+    },
+    {
+        "tramo": "Av. Loma de la Palma - Lomas de Chamizal"
+    },
+    {
+        "tramo": "Av. Marina Nacional - Anáhuac II Sección"
+    },
+    {
+        "tramo": "Anillo Periférico - Anillo Periférico - Renovación"
+    },
+    {
+        "tramo": "Av. Pdte Plutarco Elías Calles - Iztaccihuatl"
+    },
+    {
+        "tramo": "Av. Río San Joaquín - Francisco I Madero"
+    },
+    {
+        "tramo": "Av. Río San Joaquín - Ampliación Granada"
+    },
+    {
+        "tramo": "Av. San Fernando - Barrio del Niño Jesús"
+    },
+    {
+        "tramo": "Av. San Jerónimo - Ampliación Potrerillo"
+    },
+    {
+        "tramo": "San Rafael Atlixco - Barrio San Juan"
+    },
+    {
+        "tramo": "Antonio Delfín Madrigal - Copilco el Alto"
+    },
+    {
+        "tramo": "Av. Paseo de la Reforma - San Gabriel"
+    },
+    {
+        "tramo": "Bahía de la Ascensión - Verónica Anzurez"
+    },
+    {
+        "tramo": "Calz. Acoxpa - Prado Coapa 3a Sección"
+    },
+    {
+        "tramo": "Calz. Gral. Mariano Escobedo - Los Manzanos"
+    },
+    {
+        "tramo": "Av. Canal de Chalco - José López Portillo"
+    },
+    {
+        "tramo": "Av. Canal de Tezontle - Central de Abasto"
+    },
+    {
+        "tramo": "Carretera México Oaxtepec - Los Reyes"
+    },
+    {
+        "tramo": "Carretera Picacho Ajusco - Mirador II"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Churubusco - Campestre Churubusco"
+    },
+    {
+        "tramo": "Av. División del Norte - Del Valle Centro"
+    },
+    {
+        "tramo": "Av. División del Norte - Sta. Cruz Atoyac"
+    },
+    {
+        "tramo": "Av. División del Norte - Barrio San Lucas"
+    },
+    {
+        "tramo": "Eje 5 Sur - Av. Eugenia - Vértiz Narvarte"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - Xalpa"
+    },
+    {
+        "tramo": "Calz. Guadalupe I Ramírez - Barrio San Juan"
+    },
+    {
+        "tramo": "Blv. José López Portillo - Barrio Xaltipac"
+    },
+    {
+        "tramo": "Av. Juan de Dios Batiz - San José Ticomán"
+    },
+    {
+        "tramo": "Av. Juan de Dios Batiz - Lindavista Norte"
+    },
+    {
+        "tramo": "Av. Parque Lira - Ampliación Daniel Garza"
+    },
+    {
+        "tramo": "Av. Pdte Plutarco Elías Calles - Militar Marte"
+    },
+    {
+        "tramo": "Av. Río de Tacubaya - José María Pino Suárez"
+    },
+    {
+        "tramo": "Calz. Tláhuac Tulyehualco - Barrio Sta. Ana"
+    },
+    {
+        "tramo": "5 de Febrero - Villa Gustavo A. Madero"
+    },
+    {
+        "tramo": "Av. Año de Juárez - Granjas de San Antonio"
+    },
+    {
+        "tramo": "Prolongación 5 de Mayo - Las Águilas 2do Parque"
+    },
+    {
+        "tramo": "Prolongación 5 de Mayo - Ex-Hacienda de Tarango"
+    },
+    {
+        "tramo": "Av. del Imán - Pedregal de Sta. Úrsula"
+    },
+    {
+        "tramo": "Av. Observatorio - Belem de las Flores"
+    },
+    {
+        "tramo": "Av. Sta. Ana - Culhuacán CTM Sección V"
+    },
+    {
+        "tramo": "Av. Canal de Chalco - Valle de San Lorenzo"
+    },
+    {
+        "tramo": "Av. Canal de Tezontle - Carlos Zapata Vela"
+    },
+    {
+        "tramo": "Carretera México Oaxtepec - San Miguel"
+    },
+    {
+        "tramo": "Casa del Obrero Mundial - Atenor Salas"
+    },
+    {
+        "tramo": "Av. Centenario - 2do Reacomodo Tlacuitlapa"
+    },
+    {
+        "tramo": "Chalma la Villa - Zona Escolar Oriente"
+    },
+    {
+        "tramo": "Cumbres de Maltrata - Narvarte Oriente"
+    },
+    {
+        "tramo": "Av. División del Norte - Narvarte Poniente"
+    },
+    {
+        "tramo": "Av. División del Norte - Parque San Andrés"
+    },
+    {
+        "tramo": "Av. División del Norte - Ex-Hacienda Coapa"
+    },
+    {
+        "tramo": "Av. División del Norte - Floresta Coyoacán"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Vidal Alcocer - Centro"
+    },
+    {
+        "tramo": "Eje 2 Sur - Manuel José Othón - Obrera"
+    },
+    {
+        "tramo": "Eje 3 Norte - Av. Cuitláhuac - Cosmopolita"
+    },
+    {
+        "tramo": "Eje 4 Norte - Av. Fortuna - Lindavista Sur"
+    },
+    {
+        "tramo": "Eje 5 Norte - Av. Cantera - Martín Carrera"
+    },
+    {
+        "tramo": "Eje 5 Sur - Av. Eugenia - Del Valle Centro"
+    },
+    {
+        "tramo": "Eje 5 Sur - Av. Eugenia - Narvarte Oriente"
+    },
+    {
+        "tramo": "Eje 7 Sur - Municipio Libre - Banjidal"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - Ermita"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - Cacama"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - La Era"
+    },
+    {
+        "tramo": "Av. Estanislao Ramírez Ruiz - Ampliación Selene"
+    },
+    {
+        "tramo": "Calz. Guadalupe I Ramírez - San Juan Tepepan"
+    },
+    {
+        "tramo": "Av. José María Castorena - Jesús del Monte"
+    },
+    {
+        "tramo": "Juan Aldama - Pueblo Sto. Tomás Ajusco"
+    },
+    {
+        "tramo": "Gral. Leandro Valle - Villa Centro Americana"
+    },
+    {
+        "tramo": "Av. Contreras - San Jerónimo Aculco"
+    },
+    {
+        "tramo": "Av. Contreras - San Jerónimo Lidice"
+    },
+    {
+        "tramo": "Blv. Miguel de Cervantes Saavedra - Granada"
+    },
+    {
+        "tramo": "Anillo Periférico - Canal de Garay - El Rodeo"
+    },
+    {
+        "tramo": "Calz. San Antonio Abad - Ampliación Asturias"
+    },
+    {
+        "tramo": "Calz. Tláhuac Tulyehualco - Barrio los Reyes"
+    },
+    {
+        "tramo": "Viaducto Tlalpan - Arenal de Guadalupe"
+    },
+    {
+        "tramo": "Viaducto Tlalpan - Club de Golf México"
+    },
+    {
+        "tramo": "Abarrotes y Víveres - Central de Abasto"
+    },
+    {
+        "tramo": "Av. Aquiles Serdán - Ex-Hacienda el Rosario"
+    },
+    {
+        "tramo": "Av. Aquiles Serdán - Centro de Azcapotzalco"
+    },
+    {
+        "tramo": "Antonio Delfín Madrigal - Cd. Universitaria"
+    },
+    {
+        "tramo": "Av. Sta. Ana - Culhuacán CTM Sección VI"
+    },
+    {
+        "tramo": "Calz. Gral. Ignacio Zaragoza - Aviación Civil"
+    },
+    {
+        "tramo": "Calz. México Tacuba - Argentina Antigua"
+    },
+    {
+        "tramo": "Calz. Tláhuac Chalco - Barrio los Reyes"
+    },
+    {
+        "tramo": "Camino A Sta. Fé - Mártires de Tacubaya"
+    },
+    {
+        "tramo": "Carretera Picacho Ajusco - Zona Rústica"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Consulado - Tlatilco"
+    },
+    {
+        "tramo": "Eje 1 Norte - Av. del Trabajo - Zona Centro"
+    },
+    {
+        "tramo": "Eje 1 Norte - Albañiles - Penitenciaria"
+    },
+    {
+        "tramo": "Eje 4 Poniente - Av. Revolución - Campestre"
+    },
+    {
+        "tramo": "Eje 5 Sur - Av. Eugenia - Narvarte Poniente"
+    },
+    {
+        "tramo": "Eje 7 Sur - Benvenuto Cellini - Mixcoac"
+    },
+    {
+        "tramo": "Eje 7 Sur - Municipio Libre - El Retoño"
+    },
+    {
+        "tramo": "Eje 8 Sur - Av. Popocatépetl - Portales Sur"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - Sinatel"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - Minerva"
+    },
+    {
+        "tramo": "Eje 9 Sur - Calz. Taxqueña - Pueblo Culhuacán"
+    },
+    {
+        "tramo": "Av. Ejército Nacional Mexicano - Irrigación"
+    },
+    {
+        "tramo": "Calz. Guadalupe I Ramírez - Barrio San Marcos"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Nápoles"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Actipan"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Florida"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Tlalpan"
+    },
+    {
+        "tramo": "Blv. José López Portillo - Barrio Tecaxtitla"
+    },
+    {
+        "tramo": "Blv. José López Portillo - Potrero del Llano"
+    },
+    {
+        "tramo": "Av. José Loreto Fabela - San Juan de Aragón"
+    },
+    {
+        "tramo": "Lieja - Bosque de Chapultepec I Sección"
+    },
+    {
+        "tramo": "México - Pueblo la Magdalena Petlacalco"
+    },
+    {
+        "tramo": "Av. Oceanía - San Juan de Aragón II Sección"
+    },
+    {
+        "tramo": "Av. Pdte Plutarco Elías Calles - Villa de Cortés"
+    },
+    {
+        "tramo": "Ramón Corona - Pueblo Sto. Tomás Ajusco"
+    },
+    {
+        "tramo": "Av. San Jerónimo - Pueblo Pueblo Nuevo Alto"
+    },
+    {
+        "tramo": "San Rafael Atlixco - Barrio la Asunción"
+    },
+    {
+        "tramo": "Calz. Tláhuac Tulyehualco - Barrio Calyequita"
+    },
+    {
+        "tramo": "Av. Paseo de la Reforma - Pueblo Sta. Fé"
+    },
+    {
+        "tramo": "Av. Sta. Ana - Culhuacán CTM Sección VII"
+    },
+    {
+        "tramo": "Av. Sta. Ana - Culhuacán CTM Sección III"
+    },
+    {
+        "tramo": "Av. Tláhuac - Pueblo San Andrés Tomatlán"
+    },
+    {
+        "tramo": "Av. Tláhuac - Pueblo San Lorenzo Tezonco"
+    },
+    {
+        "tramo": "Bosque de la Reforma - Lomas de Reforma"
+    },
+    {
+        "tramo": "Calz. de las Bombas - Campestre Coyoacán"
+    },
+    {
+        "tramo": "Calz. México Tacuba - Argentina Poniente"
+    },
+    {
+        "tramo": "Calz. México Tacuba - Anáhuac II Sección"
+    },
+    {
+        "tramo": "Calz. Tláhuac Chalco - Barrio San Andrés"
+    },
+    {
+        "tramo": "Calz. Tláhuac Chalco - Barrio San Miguel"
+    },
+    {
+        "tramo": "Calz. Tulyehualco Xochimilco - El Jazmín"
+    },
+    {
+        "tramo": "Av. Canal de Tezontle - Paseos de Churubusco"
+    },
+    {
+        "tramo": "Carretera México Oaxtepec - Zona Rústica"
+    },
+    {
+        "tramo": "Circuito Interior - Diagonal Patriotismo - Hipódromo Condesa"
+    },
+    {
+        "tramo": "Av. División del Norte - Belisario Domínguez"
+    },
+    {
+        "tramo": "Eje 5 Norte - Montevideo - Nueva Vallejo"
+    },
+    {
+        "tramo": "Eje 7 Sur - Félix Cuevas - Del Valle Sur"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - Banjidal"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - El Prado"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - Citlalli"
+    },
+    {
+        "tramo": "Av. Gavilán - Ampliación Guadalupe del Moral"
+    },
+    {
+        "tramo": "Calz. Guadalupe I Ramírez - Barrio San Antonio"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Roma Sur"
+    },
+    {
+        "tramo": "Blv. José López Portillo - Jaime Torres Bodet"
+    },
+    {
+        "tramo": "Av. México Ajusco - Pueblo San Miguel Ajusco"
+    },
+    {
+        "tramo": "Av. Pdte Plutarco Elías Calles - Portales Oriente"
+    },
+    {
+        "tramo": "Av. Salonica - Un Hogar Para Cada Trabajador"
+    },
+    {
+        "tramo": "Av. Vasco de Quiroga - Lomas de Nuevo México"
+    },
+    {
+        "tramo": "Av. Vasco de Quiroga - El Piru 2a Ampliación"
+    },
+    {
+        "tramo": "Av. del Conscripto - Manuel Ávila Camacho"
+    },
+    {
+        "tramo": "Calz. de las Águilas - San Clemente Norte"
+    },
+    {
+        "tramo": "Calz. de los Misterios - Sta. Isabel Tola"
+    },
+    {
+        "tramo": "Calz. Gral. Mariano Escobedo - Mariano Escobedo"
+    },
+    {
+        "tramo": "Calz. México Tacuba - San Diego Ocoyoacac"
+    },
+    {
+        "tramo": "Calz. Tulyehualco Xochimilco - Xochipilli"
+    },
+    {
+        "tramo": "Camino A Sta. Fé - María G de García Ruiz"
+    },
+    {
+        "tramo": "Camino A Sta. Teresa - Héroes de Padierna"
+    },
+    {
+        "tramo": "Camino Desierto de los Leones - San Ángel"
+    },
+    {
+        "tramo": "Carretera Picacho Ajusco - Cruz del Farol"
+    },
+    {
+        "tramo": "Carretera Picacho Ajusco - Héroes de 1910"
+    },
+    {
+        "tramo": "Casa del Obrero Mundial - Del Valle Norte"
+    },
+    {
+        "tramo": "Casa del Obrero Mundial - Piedad Narvarte"
+    },
+    {
+        "tramo": "Av. División del Norte - San Diego Churubusco"
+    },
+    {
+        "tramo": "Av. División del Norte - Pueblo la Candelaria"
+    },
+    {
+        "tramo": "Av. División del Norte - Nueva Oriental Coapa"
+    },
+    {
+        "tramo": "Av. División del Norte - San Bartolo el Chico"
+    },
+    {
+        "tramo": "Eje 10 Sur - Av. San Jerónimo - La Otra Banda"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Geografos - Pueblo Aculco"
+    },
+    {
+        "tramo": "Eje 5 Norte - Montevideo - Lindavista Sur"
+    },
+    {
+        "tramo": "Eje 5 Norte - Av. Cantera - Rosas del Tepeyac"
+    },
+    {
+        "tramo": "Eje 5 Sur - Purísima - Purísima Atlazolpa"
+    },
+    {
+        "tramo": "Eje 6 Sur - Independencia - Independencia"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - Miravalle"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - El Molino"
+    },
+    {
+        "tramo": "Eje 9 Sur - Calz. Taxqueña - Petrolera Taxqueña"
+    },
+    {
+        "tramo": "Eje 9 Sur - Calz. Taxqueña - Paseos de Taxqueña"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - Tlacamaca"
+    },
+    {
+        "tramo": "Heberto Castillo - Villa Centro Americana"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Juárez"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Hipódromo"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - San Ángel"
+    },
+    {
+        "tramo": "Av. Loma de la Palma - Lomas de Vista Hermosa"
+    },
+    {
+        "tramo": "Blv. Miguel de Cervantes Saavedra - Irrigación"
+    },
+    {
+        "tramo": "Miguel Hidalgo - Pueblo San Miguel Ajusco"
+    },
+    {
+        "tramo": "Puente de la Morena - San Pedro de los Pinos"
+    },
+    {
+        "tramo": "Av. San Bernabé - Pueblo San Bernabé Ocotepec"
+    },
+    {
+        "tramo": "Calz. Tláhuac Tulyehualco - Barrio la Magdalena"
+    },
+    {
+        "tramo": "Calz. Tláhuac Tulyehualco - Barrio la Guadalupe"
+    },
+    {
+        "tramo": "Av. Vasco de Quiroga - Ampliación la Mexicana"
+    },
+    {
+        "tramo": "Vía Tapo - San Juan de Aragón III Sección"
+    },
+    {
+        "tramo": "Av. del Imán - Pueblo de Sta. Úrsula Coapa"
+    },
+    {
+        "tramo": "Av. Paseo de la Reforma - Carlos A Madrazo"
+    },
+    {
+        "tramo": "Av. Paseo de la Reforma - Lomas de Sta. Fé"
+    },
+    {
+        "tramo": "Calz. de las Bombas - Jardines de Coyoacán"
+    },
+    {
+        "tramo": "Calz. Gral. Mariano Escobedo - Anáhuac I Sección"
+    },
+    {
+        "tramo": "Calz. Gral. Mariano Escobedo - Polanco V Sección"
+    },
+    {
+        "tramo": "Calz. Tláhuac Chalco - Barrio la Magdalena"
+    },
+    {
+        "tramo": "Casa del Obrero Mundial - Narvarte Oriente"
+    },
+    {
+        "tramo": "Circuito Ajusco - Pueblo Sto. Tomás Ajusco"
+    },
+    {
+        "tramo": "Circuito Ajusco - Pueblo San Miguel Ajusco"
+    },
+    {
+        "tramo": "Circuito Interior - Instituto Técnico Industrial - Agricultura"
+    },
+    {
+        "tramo": "Circuito Interior - Blv. Puerto Aéreo - Gral. Ignacio Zaragoza"
+    },
+    {
+        "tramo": "Av. División del Norte - Gral. Pedro Ma. Anaya"
+    },
+    {
+        "tramo": "Av. División del Norte - El Parque de Coyoacán"
+    },
+    {
+        "tramo": "Eje 10 Sur - Av. Copilco - Copilco el Bajo"
+    },
+    {
+        "tramo": "Eje 4 Norte - Av. 510 - San Juan de Aragón"
+    },
+    {
+        "tramo": "Eje 5 Norte - Av. de las Culturas - El Rosario"
+    },
+    {
+        "tramo": "Eje 5 Norte - Av. 412 - San Juan de Aragón"
+    },
+    {
+        "tramo": "Eje 6 Norte - Av. Villa de Ayala - Providencia"
+    },
+    {
+        "tramo": "Eje 6 Norte - Oriente 157 - Martín Carrera"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - Jacarandas"
+    },
+    {
+        "tramo": "Allende - Pueblo Sto. Tomás Ajusco"
+    },
+    {
+        "tramo": "Av. Instituto Politécnico Nacional - Tlacamaca"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Roma Norte"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Peña Pobre"
+    },
+    {
+        "tramo": "Av. Miguel Bernard - Barrio Candelaria Ticomán"
+    },
+    {
+        "tramo": "Paseo del Pedregal - Jardines del Pedregal"
+    },
+    {
+        "tramo": "Anillo Periférico - Tlalnepantla Tenayuca - Pipsa"
+    },
+    {
+        "tramo": "Av. Ribera de San Cosme - Sta. María la Ribera"
+    },
+    {
+        "tramo": "Av. San Jerónimo - Pueblo San Bernabé Ocotepec"
+    },
+    {
+        "tramo": "Av. 20 de Noviembre - Pueblo Sta. María Tepepan"
+    },
+    {
+        "tramo": "Av. Acueducto - Sta. María Ticomán"
+    },
+    {
+        "tramo": "Av. Sta. Ana - Culhuacán CTM Canal Nacional"
+    },
+    {
+        "tramo": "Calz. de las Bombas - El Parque de Coyoacán"
+    },
+    {
+        "tramo": "Calz. de los Gallos - Plutarco Elías Calles"
+    },
+    {
+        "tramo": "Calz. Desierto de los Leones - Alcantarilla"
+    },
+    {
+        "tramo": "Calz. Tulyehualco Xochimilco - San Jerónimo"
+    },
+    {
+        "tramo": "Av. Camino Real A Toluca - El Bosque 2a Sección"
+    },
+    {
+        "tramo": "Canal Nacional - Culhuacán CTM Sección IX-B"
+    },
+    {
+        "tramo": "Canal Nacional - Culhuacán CTM Sección VIII"
+    },
+    {
+        "tramo": "Av. Carlos Lazo - Sta. Fé Cuajimalpa"
+    },
+    {
+        "tramo": "Camino al Olivo - Lomas de Vista Hermosa"
+    },
+    {
+        "tramo": "Carretera Picacho Ajusco - Belvedere Ajusco"
+    },
+    {
+        "tramo": "Casa del Obrero Mundial - Narvarte Poniente"
+    },
+    {
+        "tramo": "Calz. Chivatito - Bosque de Chapultepec I Sección"
+    },
+    {
+        "tramo": "Anillo de Circunvalación - Ampliación 20 de Noviembre"
+    },
+    {
+        "tramo": "Av. División del Norte - Prado Coapa 1a Sección"
+    },
+    {
+        "tramo": "Av. División del Norte - Prado Coapa 2a Sección"
+    },
+    {
+        "tramo": "Av. División del Norte - Prado Coapa 3a Sección"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Vidal Alcocer - Zona Centro"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Calz. de la Viga - Tránsito"
+    },
+    {
+        "tramo": "Eje 3 Norte - Av. Cuitláhuac - Nueva Sta. María"
+    },
+    {
+        "tramo": "Eje 3 Norte - Av. Central - Villa de Aragón"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Av. Cafetales - Magistral Coapa"
+    },
+    {
+        "tramo": "Eje 4 Poniente - Av. Revolución - Barrio Loreto"
+    },
+    {
+        "tramo": "Eje 5 Norte - 5 de Febrero - Martín Carrera"
+    },
+    {
+        "tramo": "Eje 6 Sur - Ángel Urraza - Del Valle Centro"
+    },
+    {
+        "tramo": "Eje 8 Sur - José María Rico - Del Valle Sur"
+    },
+    {
+        "tramo": "Eje 8 Sur - Av. Popocatépetl - Sta. Cruz Atoyac"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - Los Ángeles"
+    },
+    {
+        "tramo": "Eje 9 Sur - Calz. Taxqueña - Campestre Churubusco"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Noche Buena"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Chimalistac"
+    },
+    {
+        "tramo": "Mariano Escobedo - Pueblo Sto. Tomás Ajusco"
+    },
+    {
+        "tramo": "Mariano Escobedo - Pueblo San Miguel Ajusco"
+    },
+    {
+        "tramo": "Av. Miguel Bernard - Barrio la Purísima Ticomán"
+    },
+    {
+        "tramo": "Av. M Othón de Mendizabal - Torres Lindavista"
+    },
+    {
+        "tramo": "Av. Industria Militar - Manuel Ávila Camacho"
+    },
+    {
+        "tramo": "Av. Paseo de la Reforma - Bosque de Chapultepec I Sección"
+    },
+    {
+        "tramo": "Av. Paseo de la Reforma - Polanco IV Sección"
+    },
+    {
+        "tramo": "Bosque de la Reforma - Bosques de las Lomas"
+    },
+    {
+        "tramo": "Calz. Desierto de los Leones - Flor de María"
+    },
+    {
+        "tramo": "Calz. México Tacuba - Un Hogar Para Nosotros"
+    },
+    {
+        "tramo": "Calz. Tulyehualco Xochimilco - Año de Juárez"
+    },
+    {
+        "tramo": "Av. Canal de Tezontle - Dr. Alfonso Ortiz Tirado"
+    },
+    {
+        "tramo": "Carretera Picacho Ajusco - Lomas de Padierna"
+    },
+    {
+        "tramo": "Av. Centenario - Reacomodo Valentín Gómez Farías"
+    },
+    {
+        "tramo": "Av. División del Norte - Residencial Emperadores"
+    },
+    {
+        "tramo": "Eje 3 Norte - Av. Cuitláhuac - Unidad Cuitláhuac"
+    },
+    {
+        "tramo": "Eje 3 Sur - Calz. Chabacano - Artes Gráficas"
+    },
+    {
+        "tramo": "Eje 5 Poniente - La Curva - Cristo Rey"
+    },
+    {
+        "tramo": "Eje 5 Sur - Av. San Antonio - Ampliación Nápoles"
+    },
+    {
+        "tramo": "Eje 6 Sur - Ángel Urraza - Narvarte Poniente"
+    },
+    {
+        "tramo": "Eje 6 Sur - Trabajadores Sociales - El Sifon"
+    },
+    {
+        "tramo": "Eje 6 Sur - Av. de las Torres - Iztlahuacan"
+    },
+    {
+        "tramo": "Eje 7 A Sur - Gral. Emiliano Zapata - Portales Sur"
+    },
+    {
+        "tramo": "Eje 7 Sur - Municipio Libre - Portales Norte"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - Justo Sierra"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - Los Cipreses"
+    },
+    {
+        "tramo": "Eje 8 Sur - Ampliación Ermita Iztapalapa - El Santuario"
+    },
+    {
+        "tramo": "Filomeno González - Pueblo Sto. Tomás Ajusco"
+    },
+    {
+        "tramo": "Calz. Guadalupe I Ramírez - Potrero San Bernardino"
+    },
+    {
+        "tramo": "Av. Instituto Politécnico Nacional - Capultitlan"
+    },
+    {
+        "tramo": "Mariano Matamoros - Pueblo Sto. Tomás Ajusco"
+    },
+    {
+        "tramo": "Av. Pdte Plutarco Elías Calles - San Andrés Tetepilco"
+    },
+    {
+        "tramo": "Av. Vasco de Quiroga - Bejero del Pueblo Sta. Fé"
+    },
+    {
+        "tramo": "Autopista México-Pachuca - Cerro del Guerrero"
+    },
+    {
+        "tramo": "Prolongación 5 de Mayo - Prof. J Arturo López Martínez"
+    },
+    {
+        "tramo": "Av. Constituyentes - Panteón Civil de Dolores"
+    },
+    {
+        "tramo": "Av. Gran Canal - San Juan de Aragón I Sección"
+    },
+    {
+        "tramo": "Av. Gran Canal - Gertrudis Sánchez 3a Sección"
+    },
+    {
+        "tramo": "Av. Paseo de la Reforma - Nonoalco Tlatelolco"
+    },
+    {
+        "tramo": "Calz. Acueducto - Pueblo San Lorenzo Huipulco"
+    },
+    {
+        "tramo": "Calz. de las Bombas - Culhuacán CTM Sección X"
+    },
+    {
+        "tramo": "Calz. Tulyehualco Xochimilco - Barrio Pocitos"
+    },
+    {
+        "tramo": "Av. Camino Real A Toluca - José María Pino Suárez"
+    },
+    {
+        "tramo": "Canal del Moral - Leyes de Reforma 3a Sección"
+    },
+    {
+        "tramo": "Carretera México Oaxtepec - Barrio San Marcos"
+    },
+    {
+        "tramo": "Carretera Picacho Ajusco - Colinas del Ajusco"
+    },
+    {
+        "tramo": "Eje 10 Sur - Av. San Jerónimo - Cd. Universitaria"
+    },
+    {
+        "tramo": "Eje 3 Sur - Calz. Chabacano - Paulino Navarro"
+    },
+    {
+        "tramo": "Eje 5 Norte - Poniente 140 - Estación Pantaco"
+    },
+    {
+        "tramo": "Eje 5 Sur - Av. San Antonio - Sta. María Nonoalco"
+    },
+    {
+        "tramo": "Eje 5 Sur - Av. San Antonio - Cd. de los Deportes"
+    },
+    {
+        "tramo": "Eje 5 Sur - Av. Col. del Valle - Del Valle Centro"
+    },
+    {
+        "tramo": "Eje 6 Sur - Independencia - San Simón Ticumac"
+    },
+    {
+        "tramo": "Eje 6 Sur - Av. Luis Méndez - Chinampac de Juárez"
+    },
+    {
+        "tramo": "Eje 7 Oriente - Calle 39 - Sta. Cruz Meyehualco"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - Escuadrón 201"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - Miguel Alemán"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - Nueva Vallejo"
+    },
+    {
+        "tramo": "Av. Ejército Nacional Mexicano - Verónica Anzurez"
+    },
+    {
+        "tramo": "Ferrocarril de Cuernavaca - Polanco I Sección"
+    },
+    {
+        "tramo": "Av. Insurgentes Centro - Tabacalera"
+    },
+    {
+        "tramo": "Av. Insurgentes Centro - San Rafael"
+    },
+    {
+        "tramo": "Av. Insurgentes Centro - Cuauhtémoc"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Del Valle Sur"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Guadalupe Inn"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Barrio Loreto"
+    },
+    {
+        "tramo": "Av. José María Castorena - San José de los Cedros"
+    },
+    {
+        "tramo": "José María Morelos - Pueblo Sto. Tomás Ajusco"
+    },
+    {
+        "tramo": "Anillo Periférico - Anillo Periférico - Chinampac de Juárez"
+    },
+    {
+        "tramo": "Viaducto - Río de la Piedad - Cuchilla Agrícola Oriental"
+    },
+    {
+        "tramo": "Av. Acueducto - Residencial Zacatenco"
+    },
+    {
+        "tramo": "Av. Aquiles Serdán - Pueblo San Francisco Tetecala"
+    },
+    {
+        "tramo": "Antonio Delfín Madrigal - Pedregal de Sto. Domingo"
+    },
+    {
+        "tramo": "Av. Sta. Ana - Presidentes Ejidales 2a Sección"
+    },
+    {
+        "tramo": "Av. Sta. Ana - Presidentes Ejidales 1a Sección"
+    },
+    {
+        "tramo": "Calz. Desierto de los Leones - Pueblo Tetelpan"
+    },
+    {
+        "tramo": "Calz. Desierto de los Leones - Lomas de la Era"
+    },
+    {
+        "tramo": "Carretera México Oaxtepec - Barrio Panchimalco"
+    },
+    {
+        "tramo": "Carretera Picacho Ajusco - Jardines del Ajusco"
+    },
+    {
+        "tramo": "Eje 6 Sur - Playa Pie de la Cuesta - El Retoño"
+    },
+    {
+        "tramo": "Eje 6 Sur - Av. Luis Méndez - Sta. Cruz Meyehualco"
+    },
+    {
+        "tramo": "Eje 7 A Sur - Gral. Emiliano Zapata - Portales Norte"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - Portales Norte"
+    },
+    {
+        "tramo": "Av. Ejército Nacional Mexicano - Polanco I Sección"
+    },
+    {
+        "tramo": "Av. Ejército Nacional Mexicano - Polanco V Sección"
+    },
+    {
+        "tramo": "Av. Ejército Nacional Mexicano - Anáhuac I Sección"
+    },
+    {
+        "tramo": "Ferrocarril de Cuernavaca - Polanco II Sección"
+    },
+    {
+        "tramo": "Ferrocarril de Cuernavaca - Ampliación Granada"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Tlacoquemecatl"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Villa Olímpica"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Barrio la Fama"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Tlalpan Centro"
+    },
+    {
+        "tramo": "Av. José Loreto Fabela - Pueblo San Juan de Aragón"
+    },
+    {
+        "tramo": "Av. Parque Lira - San Miguel Chapultepec I Sección"
+    },
+    {
+        "tramo": "Anillo Periférico - Anillo Periférico - Constitución de 1917"
+    },
+    {
+        "tramo": "Av. Salonica - Sindicato Mexicano de Electricistas"
+    },
+    {
+        "tramo": "Av. San Fernando - Belisario Domínguez Sección XVI"
+    },
+    {
+        "tramo": "Prolongación División del Norte - Huichapan"
+    },
+    {
+        "tramo": "Calz. Tulyehualco Xochimilco - Rancho Tejomulco"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Av. Canal de Miramontes - Espartaco"
+    },
+    {
+        "tramo": "Eje 2 A Sur - José T Cuellar - Vista Alegre"
+    },
+    {
+        "tramo": "Eje 6 Norte - Oriente 157 - Salvador Díaz Mirón"
+    },
+    {
+        "tramo": "Eje 6 Sur - Cardiologos - Ampliación el Triunfo"
+    },
+    {
+        "tramo": "Av. Ejército Nacional Mexicano - Polanco II Sección"
+    },
+    {
+        "tramo": "Av. Ejército Nacional Mexicano - Polanco IV Sección"
+    },
+    {
+        "tramo": "Calz. Guadalupe I Ramírez - Pueblo Sta. María Tepepan"
+    },
+    {
+        "tramo": "Av. Guerra de Reforma - Leyes de Reforma 3a Sección"
+    },
+    {
+        "tramo": "Av. Instituto Politécnico Nacional - Lindavista Sur"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Del Valle Norte"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Copilco el Bajo"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Barrio la Lonja"
+    },
+    {
+        "tramo": "Av. Zacatepetl - Jardines del Pedregal de San Ángel"
+    },
+    {
+        "tramo": "Calz. de las Bombas - Culhuacán CTM Sección IX-A"
+    },
+    {
+        "tramo": "Calz. de las Bombas - Culhuacán CTM Sección IX-B"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Pueblo de San Pablo Tepetlapa"
+    },
+    {
+        "tramo": "Canal del Moral - Ampliación Guadalupe del Moral"
+    },
+    {
+        "tramo": "Eje 10 Sur - Río de la Magdalena - Barrio Loreto"
+    },
+    {
+        "tramo": "Eje 2 A Sur - José T Cuellar - Paulino Navarro"
+    },
+    {
+        "tramo": "Eje 3 Poniente - Av. Col. del Valle - Del Valle Norte"
+    },
+    {
+        "tramo": "Eje 5 Poniente - Luz y Fuerza - Lomas de Tarango"
+    },
+    {
+        "tramo": "Eje 5 Sur - Av. San Antonio - San Pedro de los Pinos"
+    },
+    {
+        "tramo": "Eje 5 Sur - Leyes de Reforma - Central de Abasto"
+    },
+    {
+        "tramo": "Eje 6 A Poniente - Av. de las Granjas - Estación Pantaco"
+    },
+    {
+        "tramo": "Eje 6 Sur - Ángel Urraza - Insurgentes San Borja"
+    },
+    {
+        "tramo": "Eje 6 Sur - Playa Pie de la Cuesta - Zacahuitzco"
+    },
+    {
+        "tramo": "Eje 7 A Sur - Gral. Emiliano Zapata - Sta. Cruz Atoyac"
+    },
+    {
+        "tramo": "Eje 7 A Sur - Gral. Emiliano Zapata - Portales Oriente"
+    },
+    {
+        "tramo": "Eje 8 Sur - Av. Popocatépetl - Gral. Pedro Ma. Anaya"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - Prado Churubusco"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - Progreso del Sur"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - Barrio San Lucas"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - Barrio San Pablo"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - Reforma Política"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - Paraje Zacatepec"
+    },
+    {
+        "tramo": "Eje 9 Sur - Av. Miguel Ángel de Quevedo - El Rosedal"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - Narvarte Oriente"
+    },
+    {
+        "tramo": "Fray Juan de Zumarraga - Villa Gustavo A. Madero"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Del Valle Centro"
+    },
+    {
+        "tramo": "Molino del Rey - Bosque de Chapultepec I Sección"
+    },
+    {
+        "tramo": "Av. Pdte Plutarco Elías Calles - Reforma Iztaccihuatl Sur"
+    },
+    {
+        "tramo": "Av. Ferrocarril San Rafael Atlixco - Leyes de Reforma 1a Sección"
+    },
+    {
+        "tramo": "Av. Acueducto - Barrio la Laguna Ticomán"
+    },
+    {
+        "tramo": "Av. Acueducto - Barrio Guadalupe Ticomán"
+    },
+    {
+        "tramo": "Carretera Picacho Ajusco - Héroes de Padierna"
+    },
+    {
+        "tramo": "Carretera Federal México Puebla - Ermita Zaragoza"
+    },
+    {
+        "tramo": "Carretera Picacho Ajusco - Jardines en la Montaña"
+    },
+    {
+        "tramo": "Av. División del Norte - Ex-Hacienda San Juan de Dios"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Anillo de Circunvalación - Centro"
+    },
+    {
+        "tramo": "Eje 10 Sur - Río de la Magdalena - Pueblo Tizapán"
+    },
+    {
+        "tramo": "Eje 3 Norte - Calz. San Isidro - Industrial San Antonio"
+    },
+    {
+        "tramo": "Eje 4 Sur - Canal de Tezontle - Agrícola Oriental"
+    },
+    {
+        "tramo": "Eje 5 Sur - Prolongación San Antonio - Sacramento"
+    },
+    {
+        "tramo": "Eje 5 Sur - Purísima - Pueblo Magdalena Atlazolpa"
+    },
+    {
+        "tramo": "Eje 6 Oriente - Cadena Azul - Chinampac de Juárez"
+    },
+    {
+        "tramo": "Eje 6 Sur - Av. Luis Méndez - Unidad Vicente Guerrero"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - Granjas Esmeralda"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - Barrio San Miguel"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - Lomas de Zaragoza"
+    },
+    {
+        "tramo": "Eje 9 Sur - Av. Miguel Ángel de Quevedo - Chimalistac"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - Valle del Tepeyac"
+    },
+    {
+        "tramo": "Calz. Guadalupe I Ramírez - Ampliación San Marcos Norte"
+    },
+    {
+        "tramo": "Av. Instituto Politécnico Nacional - San José Ticomán"
+    },
+    {
+        "tramo": "Av. Instituto Politécnico Nacional - Lindavista Norte"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Cd. Universitaria"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Fuentes Brotantes"
+    },
+    {
+        "tramo": "Blv. Miguel de Cervantes Saavedra - Ampliación Granada"
+    },
+    {
+        "tramo": "Av. M Othón de Mendizabal - Residencial la Escalera"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo López Mateos - Cove"
+    },
+    {
+        "tramo": "Anillo Periférico - Anillo Periférico - Unidad Vicente Guerrero"
+    },
+    {
+        "tramo": "Av. Acueducto - Barrio San Rafael Ticomán"
+    },
+    {
+        "tramo": "Prolongación División del Norte - Tierra Nueva"
+    },
+    {
+        "tramo": "Av. Sta. Ana - Ex-Ejido de San Francisco Culhuacán"
+    },
+    {
+        "tramo": "Calz. de las Águilas - Pueblo San Bartolo Ameyalco"
+    },
+    {
+        "tramo": "Carretera Federal México Toluca - Lomas de Memetla"
+    },
+    {
+        "tramo": "Circuito Interior - Av. José Vasconcelos - Bosque de Chapultepec I Sección"
+    },
+    {
+        "tramo": "Av. División del Norte - Pueblo de San Pablo Tepetlapa"
+    },
+    {
+        "tramo": "Av. División del Norte - Ex-Ejido de Sta. Úrsula Coapa"
+    },
+    {
+        "tramo": "Eje 4 Oriente - Av. Río Churubusco - Agrícola Oriental"
+    },
+    {
+        "tramo": "Eje 4 Oriente - Av. Río Churubusco - Central de Abasto"
+    },
+    {
+        "tramo": "Eje 4 Sur - Av. Plutarco Elías Calles - Barrio Zapotla"
+    },
+    {
+        "tramo": "Eje 5 Sur - Av. San Antonio - Insurgentes San Borja"
+    },
+    {
+        "tramo": "Eje 5 Sur - Leyes de Reforma - Chinampac de Juárez"
+    },
+    {
+        "tramo": "Eje 6 Norte - Av. Villa de Ayala - San Felipe de Jesús"
+    },
+    {
+        "tramo": "Eje 5 Sur - Av. de las Torres - Lomas de Zaragoza"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - Guadalupe Victoria"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Ampliación Nápoles"
+    },
+    {
+        "tramo": "Av. José Loreto Fabela - San Juan de Aragón II Sección"
+    },
+    {
+        "tramo": "Av. José Loreto Fabela - U.H. Ejido San Juan de Aragón"
+    },
+    {
+        "tramo": "Av. José Loreto Fabela - San Juan de Aragón VII Sección"
+    },
+    {
+        "tramo": "Av. M Othón de Mendizabal - Nueva Industrial Vallejo"
+    },
+    {
+        "tramo": "Anillo Periférico - Canal de Garay - Lomas de San Lorenzo"
+    },
+    {
+        "tramo": "Anillo Periférico - Canal de Garay - Los Ángeles Apanoaya"
+    },
+    {
+        "tramo": "Av. Pdte Plutarco Elías Calles - Reforma Iztaccihuatl Norte"
+    },
+    {
+        "tramo": "Viaducto Tlalpan - Belisario Domínguez Sección XVI"
+    },
+    {
+        "tramo": "Av. Guadalupe I Ramírez - Pueblo Sta. María Tepepan"
+    },
+    {
+        "tramo": "Av. Observatorio - San Miguel Chapultepec I Sección"
+    },
+    {
+        "tramo": "Calz. de las Bombas - Ex-Ejido de Sta. Úrsula Coapa"
+    },
+    {
+        "tramo": "Calz. Desierto de los Leones - Olivar de los Padres"
+    },
+    {
+        "tramo": "Av. Canal de Tezontle - Ampliación Gabriel Ramos Millán"
+    },
+    {
+        "tramo": "Circuito Interior - Av. José Vasconcelos - San Miguel Chapultepec I Sección"
+    },
+    {
+        "tramo": "Circuito Interior - Instituto Técnico Industrial - Sta. María la Ribera"
+    },
+    {
+        "tramo": "Eje 5 Norte - Ferrocarriles Nacionales - El Rosario"
+    },
+    {
+        "tramo": "Eje 6 Norte - Av. Gral. Martín Carrera - Martín Carrera"
+    },
+    {
+        "tramo": "Eje 7 Oriente - Av. Guelatao - Sta. Cruz Meyehualco"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - Barrio Sta. Bárbara"
+    },
+    {
+        "tramo": "Eje 9 Sur - Calz. Taxqueña - Barrio San Antonio Culhuacán"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - Nonoalco Tlatelolco"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Escandón II Sección"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Cd. de los Deportes"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Insurgentes Mixcoac"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Crédito Constructor"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - Peña Pobre"
+    },
+    {
+        "tramo": "Anillo Periférico - Canal de Garay - Ampliación Bellavista"
+    },
+    {
+        "tramo": "San Rafael Atlixco - Pueblo San Francisco Tlaltenco"
+    },
+    {
+        "tramo": "Av. Ferrocarril San Rafael Atlixco - Ampliación Guadalupe del Moral"
+    },
+    {
+        "tramo": "Av. Constituyentes - Bosque de Chapultepec I Sección"
+    },
+    {
+        "tramo": "Prolongación División del Norte - Paseos del Sur"
+    },
+    {
+        "tramo": "Calz. de las Bombas - Alianza Popular Revolucionaria"
+    },
+    {
+        "tramo": "Carretera Picacho Ajusco - Miguel Hidalgo 3a Sección"
+    },
+    {
+        "tramo": "Carretera Picacho Ajusco - Miguel Hidalgo 4a Sección"
+    },
+    {
+        "tramo": "Circuito Interior - Av. José Vasconcelos - San Miguel Chapultepec II Sección"
+    },
+    {
+        "tramo": "Eje 2 Norte - Av. Biólogo Maximino Martínez - Obrero Popular"
+    },
+    {
+        "tramo": "Eje 3 Sur - Vainilla - Ex-Ejido la Magdalena Mixhuca"
+    },
+    {
+        "tramo": "Eje 5 Norte - 5 de Febrero - Villa Gustavo A. Madero"
+    },
+    {
+        "tramo": "Eje 5 Oriente - Javier Rojo Gómez - Barrio San Pedro"
+    },
+    {
+        "tramo": "Eje 6 Sur - Cardiologos - Pueblo Magdalena Atlazolpa"
+    },
+    {
+        "tramo": "Eje 7 Oriente - Av. Guelatao - Sta. María Aztahuacan"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - Pueblo Mexicaltzingo"
+    },
+    {
+        "tramo": "Eje 8 Sur - Ampliación Ermita Iztapalapa - Ricardo Flores Magón"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - Constitución de 1917"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - Sta. Cruz Meyehualco"
+    },
+    {
+        "tramo": "Eje 9 Sur - Av. Miguel Ángel de Quevedo - Villa Coyoacán"
+    },
+    {
+        "tramo": "Av. Instituto Politécnico Nacional - San Pedro Zacatenco"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - San José Insurgentes"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Barrio la Otra Banda"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Barrio de Caramaguey"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo López Mateos - Mixcoac"
+    },
+    {
+        "tramo": "Av. Constituyentes - San Miguel Chapultepec I Sección"
+    },
+    {
+        "tramo": "Av. Constituyentes - Bosque de Chapultepec II Sección"
+    },
+    {
+        "tramo": "Calz. Desierto de los Leones - Lomas de San Ángel Inn"
+    },
+    {
+        "tramo": "Eje 10 Sur - Carretera A Sta. Catarina - Zona Rústica"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Av. H Congreso de la Unión - Barrio Zapotla"
+    },
+    {
+        "tramo": "Eje 3 Norte - Av. 608 - San Juan de Aragón IV Sección"
+    },
+    {
+        "tramo": "Eje 4 Norte - Poniente 128 - Sta. Cruz de las Salinas"
+    },
+    {
+        "tramo": "Eje 4 Norte - Av. 510 - San Juan de Aragón I Sección"
+    },
+    {
+        "tramo": "Eje 4 Sur - San Rafael Atlixco - Paseos de Churubusco"
+    },
+    {
+        "tramo": "Eje 5 Norte - Av. 412 - U.H. Ejido San Juan de Aragón"
+    },
+    {
+        "tramo": "Eje 5 Oriente - Javier Rojo Gómez - Central de Abasto"
+    },
+    {
+        "tramo": "Eje 5 Oriente - Javier Rojo Gómez - Barrio San Miguel"
+    },
+    {
+        "tramo": "Eje 5 Sur - Av. Circunvalación - Sta. Cruz Meyehualco"
+    },
+    {
+        "tramo": "Eje 6 Sur - Cardiologos - Pueblo San Juanico Nextipac"
+    },
+    {
+        "tramo": "Eje 6 Sur - Trabajadores Sociales - Central de Abasto"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Insurgentes San Borja"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Insurgentes Cuicuilco"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo López Mateos - Tacubaya"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo López Mateos - Atlamaya"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - Zona Rústica"
+    },
+    {
+        "tramo": "Anillo Periférico - Av. Guadalupe - Barrio Guadalupe Ticomán"
+    },
+    {
+        "tramo": "Av. Constituyentes - San Miguel Chapultepec II Sección"
+    },
+    {
+        "tramo": "Av. Gran Canal - Ex-Ejido San Juan de Aragón Sector 33"
+    },
+    {
+        "tramo": "Bosque de la Reforma - Lomas de Chapultepec I Sección"
+    },
+    {
+        "tramo": "Av. Canal de Tezontle - Los Picos de Iztacalco Sección 1 B"
+    },
+    {
+        "tramo": "Av. Canal de Tezontle - Los Picos de Iztacalco Sección 2 A"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Anillo de Circunvalación - Zona Centro"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Sur 81 - Unidad Modelo"
+    },
+    {
+        "tramo": "Eje 5 Sur - Av. Circunvalación - Sta. María Aztahuacan"
+    },
+    {
+        "tramo": "Eje 6 Oriente - Coronel Benito S Zenea - Juan Escutia"
+    },
+    {
+        "tramo": "Eje 6 Sur - Trabajadores Sociales - Barrio la Asunción"
+    },
+    {
+        "tramo": "Eje 6 Sur - Av. de las Torres - Sta. María Aztahuacan"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - Granjas de San Antonio"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - Sta. Isabel Industrial"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - Maximino Ávila Camacho"
+    },
+    {
+        "tramo": "Av. Instituto Politécnico Nacional - Residencial Zacatenco"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo López Mateos - Los Alpes"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo López Mateos - Altavista"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo López Mateos - San Ángel"
+    },
+    {
+        "tramo": "Anillo Periférico - Av. Guadalupe - Barrio San Rafael Ticomán"
+    },
+    {
+        "tramo": "Prolongación Bosques de la Reforma - Lomas de Chamizal"
+    },
+    {
+        "tramo": "Prolongación División del Norte - Barrio San Marcos"
+    },
+    {
+        "tramo": "Calz. Desierto de los Leones - Pueblo Sta. Rosa Xochiac"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Av. H Congreso de la Unión - Granjas Modernas"
+    },
+    {
+        "tramo": "Eje 4 Norte - Ant. Calz. de Guadalupe - Reynosa Tamaulipas"
+    },
+    {
+        "tramo": "Eje 5 Norte - Calz. San Juan de Aragón - Martín Carrera"
+    },
+    {
+        "tramo": "Eje 7 A Sur - Gral. Emiliano Zapata - Residencial Emperadores"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - Ampliación Panamericana"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - San Bartolo Atepehuacan"
+    },
+    {
+        "tramo": "Av. Instituto Politécnico Nacional - Maximino Ávila Camacho"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Extremadura Insurgentes"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo López Mateos - Bellavista"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - Villa Olímpica"
+    },
+    {
+        "tramo": "Anillo Periférico - Acueducto de Guadalupe - Progreso Nacional"
+    },
+    {
+        "tramo": "Anillo Periférico - Tlalnepantla Tenayuca - Santiago Atepetlac"
+    },
+    {
+        "tramo": "Vía Tapo - Aeropuerto Internacional de la Cd. de México"
+    },
+    {
+        "tramo": "Av. Paseo de la Reforma - Lomas de Chapultepec I Sección"
+    },
+    {
+        "tramo": "Av. Paseo de las Palmas - Lomas de Chapultepec I Sección"
+    },
+    {
+        "tramo": "Calz. Gral. Mariano Escobedo - Bosque de Chapultepec I Sección"
+    },
+    {
+        "tramo": "Eje 10 Sur - Av. Pedro Enriquez Ureña - Copilco el Alto"
+    },
+    {
+        "tramo": "Eje 5 Norte - Montevideo - Lindavista Vallejo 2a Sección"
+    },
+    {
+        "tramo": "Eje 5 Norte - Montevideo - Lindavista Vallejo 3a Sección"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - 8a Ampliación San Miguel"
+    },
+    {
+        "tramo": "Eje 9 Sur - Av. Miguel Ángel de Quevedo - Romero de Terreros"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - Nueva Industrial Vallejo"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Pueblo Sta. Úrsula Xitla"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo López Mateos - 8 de Agosto"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo López Mateos - 8 de Agosto"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo López Mateos - Las Águilas"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - Narciso Mendoza"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - Rinconada Coapa"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - Magistral Coapa"
+    },
+    {
+        "tramo": "Calz. México Xochimilco - Belisario Domínguez Sección XVI"
+    },
+    {
+        "tramo": "Av. Canal de Tezontle - Gabriel Ramos Millán Sección Cuchilla"
+    },
+    {
+        "tramo": "Carretera México Oaxtepec - Pueblo San Lorenzo Tlacoyucan"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Calz. Vallejo - Sta. Cruz de las Salinas"
+    },
+    {
+        "tramo": "Eje 3 Norte - Sta. Apolonia - Barrio Sta. Apolonia"
+    },
+    {
+        "tramo": "Eje 3 Norte - Av. Central - San Juan de Aragón VI Sección"
+    },
+    {
+        "tramo": "Eje 6 Poniente - Calz. Ingenieros Militares - San Joaquín"
+    },
+    {
+        "tramo": "Eje 6 Sur - Playa Pie de la Cuesta - San Andrés Tetepilco"
+    },
+    {
+        "tramo": "Eje 9 Sur - Av. Miguel Ángel de Quevedo - Pueblo de los Reyes"
+    },
+    {
+        "tramo": "Av. Instituto Politécnico Nacional - Barrio la Laguna Ticomán"
+    },
+    {
+        "tramo": "Av. Instituto Politécnico Nacional - Nueva Industrial Vallejo"
+    },
+    {
+        "tramo": "Av. Instituto Politécnico Nacional - Magdalena de las Salinas"
+    },
+    {
+        "tramo": "Nueva Carretera Xochimilco Tulyehualco - Lomas de Tonalco"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo López Mateos - Observatorio"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo López Mateos - Alfonso XIII"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo López Mateos - Merced Gómez"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo López Mateos - Merced Gómez"
+    },
+    {
+        "tramo": "Prolongación Bosques de la Reforma - Bosques de las Lomas"
+    },
+    {
+        "tramo": "Paseo de los Laureles - Bosques de las Lomas"
+    },
+    {
+        "tramo": "Av. Paseo de la Reforma - Lomas de Chapultepec VII Sección"
+    },
+    {
+        "tramo": "Prolongación División del Norte - San Bartolo el Chico"
+    },
+    {
+        "tramo": "Calz. Desierto de los Leones - Pueblo San Bartolo Ameyalco"
+    },
+    {
+        "tramo": "Calz. Tulyehualco Xochimilco - Pueblo Sta. María Nativitas"
+    },
+    {
+        "tramo": "Carretera Picacho Ajusco - Ampliación Fuentes del Pedregal"
+    },
+    {
+        "tramo": "Eje 10 Sur - Carretera A Sta. Catarina - Ampliación Selene"
+    },
+    {
+        "tramo": "Eje 4 Sur - Av. Plutarco Elías Calles - Fraccionamiento Coyuya"
+    },
+    {
+        "tramo": "Eje 5 Sur - Leyes de Reforma - Leyes de Reforma 3a Sección"
+    },
+    {
+        "tramo": "Eje 9 Sur - Av. Miguel Ángel de Quevedo - Barrio Sta. Catarina"
+    },
+    {
+        "tramo": "Eje 9 Sur - Av. Miguel Ángel de Quevedo - Barrio la Concepción"
+    },
+    {
+        "tramo": "Eje 9 Sur - Calz. Taxqueña - Ex-Ejido de San Francisco Culhuacán"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - Defensores de la República"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo López Mateos - Flor de María"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo López Mateos - San Ángel Inn"
+    },
+    {
+        "tramo": "Anillo Periférico - Acueducto de Guadalupe - Guadalupe Proletaria"
+    },
+    {
+        "tramo": "Av. Vito Alessio Robles - Ex-Hacienda de Guadalupe Chimalistac"
+    },
+    {
+        "tramo": "Prolongación División del Norte - San Lorenzo la Cebada"
+    },
+    {
+        "tramo": "Calz. Desierto de los Leones - Pueblo San Mateo Tlaltenango"
+    },
+    {
+        "tramo": "Calz. Gral. Ignacio Zaragoza - Unidad Ejército Constitucionalista"
+    },
+    {
+        "tramo": "Eje 10 Sur - Av. Pedro Enriquez Ureña - Romero de Terreros"
+    },
+    {
+        "tramo": "Eje 4 Norte - Ferrocarriles Nacionales - Reynosa Tamaulipas"
+    },
+    {
+        "tramo": "Eje 4 Sur - Canal de Tezontle - Leyes de Reforma 3a Sección"
+    },
+    {
+        "tramo": "Eje 5 Norte - Calz. San Juan de Aragón - San Pedro el Chico"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - Pueblo Sta. Cruz Meyehualco"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - Pueblo Sta. Martha Acatitla"
+    },
+    {
+        "tramo": "Eje 9 Sur - Av. Miguel Ángel de Quevedo - Barrio del Niño Jesús"
+    },
+    {
+        "tramo": "Av. Insurgentes Norte - Lindavista Sur"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo López Mateos - Ermita Tizapán"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo López Mateos - Pueblo Tizapán"
+    },
+    {
+        "tramo": "Paseo de los Laureles - Lomas de Vista Hermosa"
+    },
+    {
+        "tramo": "Prolongación División del Norte - Potrero San Bernardino"
+    },
+    {
+        "tramo": "Calz. Desierto de los Leones - El Encino del Pueblo Tetelpan"
+    },
+    {
+        "tramo": "Calz. Desierto de los Leones - La Penita del Pueblo Tetelpan"
+    },
+    {
+        "tramo": "Calz. Desierto de los Leones - La Joyita del Pueblo Tetelpan"
+    },
+    {
+        "tramo": "Eje 10 Sur - Av. Pedro Enriquez Ureña - Pueblo de los Reyes"
+    },
+    {
+        "tramo": "Eje 4 Norte - Azcapotzalco la Villa - Estación Pantaco"
+    },
+    {
+        "tramo": "Eje 6 Sur - Av. de las Torres - Miguel de la Madrid Hurtado"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - Pueblo Sta. María Aztahuacan"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - Pueblo Santiago Acahualtepec"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo López Mateos - Pueblo Tlacopac"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - San Jerónimo Aculco"
+    },
+    {
+        "tramo": "Anillo Periférico - Av. Río de los Remedios - Barrio Candelaria Ticomán"
+    },
+    {
+        "tramo": "Anillo Periférico - Tlalnepantla Tenayuca - San José de la Escalera"
+    },
+    {
+        "tramo": "Eje 2 Norte - Av. Biólogo Maximino Martínez - San Salvador Xochimanca"
+    },
+    {
+        "tramo": "Eje 4 Norte - Poniente 128 - Pueblo San Andrés de las Salinas"
+    },
+    {
+        "tramo": "Eje 5 Sur - Prolongación San Antonio - San Pedro de los Pinos"
+    },
+    {
+        "tramo": "Eje 6 Poniente - Calz. Ingenieros Militares - Lomas de Sotelo"
+    },
+    {
+        "tramo": "Eje 6 Sur - Playa Pie de la Cuesta - Reforma Iztaccihuatl Sur"
+    },
+    {
+        "tramo": "Eje 6 Sur - Av. de las Torres - Pueblo Sta. María Aztahuacan"
+    },
+    {
+        "tramo": "Eje 5 Sur - Av. de las Torres - Pueblo Santiago Acahualtepec"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - Lindavista Vallejo 3a Sección"
+    },
+    {
+        "tramo": "Av. Insurgentes Norte - Lindavista Norte"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo López Mateos - Progreso Tizapán"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - San Bartolo el Chico"
+    },
+    {
+        "tramo": "Anillo Periférico - Av. Río de los Remedios - Barrio la Purísima Ticomán"
+    },
+    {
+        "tramo": "Calz. Desierto de los Leones - San Agustín del Pueblo Tetelpan"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Calz. Vallejo - Lindavista Vallejo 1a Sección"
+    },
+    {
+        "tramo": "Eje 10 Sur - Av. Pedro Enriquez Ureña - Barrio del Niño Jesús"
+    },
+    {
+        "tramo": "Eje 4 Norte - Av. 510 - Ex-Ejido San Juan de Aragón Sector 33"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo López Mateos - Lomas de Plateros"
+    },
+    {
+        "tramo": "Vía Expres Tapo - Aeropuerto Internacional de la Cd. de México"
+    },
+    {
+        "tramo": "Calz. Desierto de los Leones - La Herradura del Pueblo Tetelpan"
+    },
+    {
+        "tramo": "Calz. Desierto de los Leones - Tizampampano del Pueblo Tetelpan"
+    },
+    {
+        "tramo": "Calz. Desierto de los Leones - 2a del Moral del Pueblo Tetelpan"
+    },
+    {
+        "tramo": "Carretera Federal México Cuernavaca - Esther Zuno de Echeverría"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Armada de México - Ex-Ejido San Pablo Tepetlapa"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - Ampliación Ricardo Flores Magón"
+    },
+    {
+        "tramo": "Av. Insurgentes Norte - Guadalupe Victoria"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Ferrocarril Hidalgo - Bondojito"
+    },
+    {
+        "tramo": "Eje 4 Norte - Azcapotzalco la Villa - Pueblo Sta. Catarina"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - Ampliación Sta. María Aztahuacan"
+    },
+    {
+        "tramo": "Eje 9 Sur - Av. Miguel Ángel de Quevedo - Cuadrante de San Francisco"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo López Mateos - Sta. María Nonoalco"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo López Mateos - San Jerónimo Lidice"
+    },
+    {
+        "tramo": "Prolongación División del Norte - Ampliación San Marcos Norte"
+    },
+    {
+        "tramo": "Eje 10 Sur - Av. Pedro Enriquez Ureña - Pedregal de Sto. Domingo"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Av. H Congreso de la Unión - Ampliación 20 de Noviembre"
+    },
+    {
+        "tramo": "Eje 9 Sur - Calz. Taxqueña - San Francisco Culhuacán Barrio de Sta. Ana"
+    },
+    {
+        "tramo": "Eje 9 Sur - Calz. Taxqueña - San Francisco Culhuacán Barrio de San Juan"
+    },
+    {
+        "tramo": "Eje 5 Norte - Calz. San Juan de Aragón - Pueblo San Juan de Aragón"
+    },
+    {
+        "tramo": "Eje 6 Poniente - Calz. Ingenieros Militares - Manuel Ávila Camacho"
+    },
+    {
+        "tramo": "Eje 9 Sur - Av. Miguel Ángel de Quevedo - Barrio Oxtopulco Universidad"
+    },
+    {
+        "tramo": "Av. Insurgentes Norte - Residencial Zacatenco"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - Santiago Acahualtepec 2a Ampliación"
+    },
+    {
+        "tramo": "Eje 8 Sur - Calz. Ermita Iztapalapa - Santiago Acahualtepec 1a Ampliación"
+    },
+    {
+        "tramo": "Gob. Agustín Vicente Eguía - San Miguel Chapultepec I Sección"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo López Mateos - José María Pino Suárez"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo López Mateos - San Pedro de los Pinos"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo López Mateos - San Pedro de los Pinos"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo López Mateos - Lomas de San Ángel Inn"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - Rinconada Coapa 1a Sección"
+    },
+    {
+        "tramo": "Anillo Periférico - Canal de San Juan - Unidad Ejército Constitucionalista"
+    },
+    {
+        "tramo": "Carretera Federal México Puebla - San Miguel Teotongo Sección Puente"
+    },
+    {
+        "tramo": "Eje 10 Sur - Carretera Tlaltenco A la México Puebla - Barrio Santiago"
+    },
+    {
+        "tramo": "Eje 4 Norte - Azcapotzalco la Villa - Sta. Cruz de las Salinas"
+    },
+    {
+        "tramo": "Eje 5 Sur - Av. de las Torres - Santiago Acahualtepec 1a Ampliación"
+    },
+    {
+        "tramo": "Eje 6 Sur - Av. de las Torres - Santiago Acahualtepec 2a Ampliación"
+    },
+    {
+        "tramo": "Eje 6 Sur - Av. de las Torres - San Miguel Teotongo Sección Capilla"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Ex-Hacienda de Guadalupe Chimalistac"
+    },
+    {
+        "tramo": "Nueva Carretera Xochimilco Tulyehualco - Pueblo Sta. María Nativitas"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo López Mateos - Ampliación Daniel Garza"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Ing. Eduardo Molina - Penitenciaria"
+    },
+    {
+        "tramo": "Eje 5 Sur - Av. de las Torres - San Miguel Teotongo Sección Mercedes"
+    },
+    {
+        "tramo": "Eje 6 Sur - Av. de las Torres - San Miguel Teotongo Sección Jardines"
+    },
+    {
+        "tramo": "Eje 5 Sur - Av. de las Torres - San Miguel Teotongo Sección Ranchito"
+    },
+    {
+        "tramo": "Eje 9 Sur - Calz. Taxqueña - San Francisco Culhuacán Barrio de la Magdalena"
+    },
+    {
+        "tramo": "Av. Insurgentes Norte - Magdalena de las Salinas"
+    },
+    {
+        "tramo": "Anillo Periférico - Acueducto de Guadalupe - Ampliación Guadalupe Proletaria"
+    },
+    {
+        "tramo": "Carretera Federal México Puebla - San Miguel Teotongo Sección Ranchito"
+    },
+    {
+        "tramo": "Eje 10 Sur - Carretera Tlaltenco A la México Puebla - San Miguel"
+    },
+    {
+        "tramo": "Eje 4 Oriente - Av. Río Churubusco - Gabriel Ramos Millán Sección Cuchilla"
+    },
+    {
+        "tramo": "Eje 6 Sur - Av. de las Torres - San Miguel Teotongo Sección Guadalupe"
+    },
+    {
+        "tramo": "Eje 9 Sur - Calz. Taxqueña - San Francisco Culhuacán Barrio de San Francisco"
+    },
+    {
+        "tramo": "Anillo Periférico - Av. Río de los Remedios - Barrio San Juan y Guadalupe Ticomá"
+    },
+    {
+        "tramo": "Calz. Desierto de los Leones - Lomas de los Ángeles del Pueblo Tetelpan"
+    },
+    {
+        "tramo": "Camino A Sta. Teresa - Parque Nacional del Pedregal Bosque del Pedregal"
+    },
+    {
+        "tramo": "Carretera Federal México Puebla - San Miguel Teotongo Sección Guadalupe"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Ing. Eduardo Molina - Aragón Inguaran"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Ing. Eduardo Molina - Escuela de Tiro"
+    },
+    {
+        "tramo": "Eje 6 Sur - Av. de las Torres - San Miguel Teotongo Sección Acorralado"
+    },
+    {
+        "tramo": "Eje 5 Sur - Av. de las Torres - San Miguel Teotongo Sección las Torres"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo López Mateos - Barrio Sta. María Nonoalco"
+    },
+    {
+        "tramo": "Anillo Periférico - Tlalnepantla Tenayuca - Residencial Acueducto de Guadalupe"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - Ampliación Fuentes del Pedregal"
+    },
+    {
+        "tramo": "Anillo Periférico - Acueducto de Guadalupe - Residencial Acueducto de Guadalupe"
+    },
+    {
+        "tramo": "Eje 10 Sur - Carretera Tlaltenco A la México Puebla - Barrio la Concepción"
+    },
+    {
+        "tramo": "Eje 3 Norte - Ángel Albino Corzo (Oriente 101) - Gertrudis Sánchez 3a Sección"
+    },
+    {
+        "tramo": "Eje 4 Sur - Prolongación Plutarco Elías Calles - Dr. Alfonso Ortiz Tirado"
+    },
+    {
+        "tramo": "Eje 9 Sur - Av. Miguel Ángel de Quevedo - Ex-Hacienda de Guadalupe Chimalistac"
+    },
+    {
+        "tramo": "Eje 6 Oriente - Av. Telecomunicaciones - Unidad Ejército Constitucionalista"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Manuel Ávila Camacho - Polanco I Sección"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo López Mateos - Bosque de Chapultepec I Sección"
+    },
+    {
+        "tramo": "Eje 10 Sur - Carretera Tlaltenco A la México Puebla - Ampliación Sta. Catarina"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Manuel Ávila Camacho - Polanco II Sección"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo López Mateos - Bosque de Chapultepec II Sección"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Manuel Ávila Camacho - Residencial Militar"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Manuel Ávila Camacho - Manuel Ávila Camacho"
+    },
+    {
+        "tramo": "Calz. Desierto de los Leones - Rancho del Carmen del Pueblo San Bartolo Ameyalco"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - Parque Nacional del Pedregal Bosque del Pedregal"
+    },
+    {
+        "tramo": "Calz. Desierto de los Leones - Rancho San Francisco del Pueblo San Bartolo Ameya"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Ing. Eduardo Molina - Ampliación San Juan de Aragón"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Ing. Eduardo Molina - Ampliación Mártires de Río Blanco"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Manuel Ávila Camacho - Lomas de Chapultepec III Sección"
+    },
+    {
+        "tramo": "Av. Pdte Plutarco Elías Calles - Moderna"
+    },
+    {
+        "tramo": "Eje 6 A Poniente - Av. de las Granjas - Pueblo Sta. Bárbara"
+    },
+    {
+        "tramo": "Eje 4 Oriente - Av. Río Churubusco - Granjas México"
+    },
+    {
+        "tramo": "Eje 3 Norte - Av. 608 - San Juan de Aragón V Sección"
+    },
+    {
+        "tramo": "Eje 6 Poniente - Calz. Ingenieros Militares - Periodista"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Ferrocarril Hidalgo (Gral. Mariano Arista) - Martín Carrera"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Bosques de Tetlameya"
+    },
+    {
+        "tramo": "Eje 3 Norte - Av. 608 - San Juan de Aragón"
+    },
+    {
+        "tramo": "Av. Guadalupe I Ramírez - Bosque Residencial del Sur"
+    },
+    {
+        "tramo": "Blv. Nuevo León - Barrio Sta. Martha"
+    },
+    {
+        "tramo": "Blv. Nuevo León - Barrio Sta. Cruz"
+    },
+    {
+        "tramo": "Calz. de las Águilas - Las Águilas 1a Sección"
+    },
+    {
+        "tramo": "Camino A Sta. Fé - Cristo Rey"
+    },
+    {
+        "tramo": "Camino A Sta. Fé - Paraíso"
+    },
+    {
+        "tramo": "Av. División del Norte - Narciso Mendoza"
+    },
+    {
+        "tramo": "Av. Hidalgo - Tabacalera"
+    },
+    {
+        "tramo": "Eje 1 Norte - Hangares de Aviación Fuerza Aérea Mexicana - Aeropuerto Internacio"
+    },
+    {
+        "tramo": "Eje 6 Norte - Av. Villa de Ayala - Campestre Aragón"
+    },
+    {
+        "tramo": "Eje 2 Sur - Av. Álvaro Obregón - Roma Norte"
+    },
+    {
+        "tramo": "Eje 10 Sur - Carretera Tlaltenco A la México Puebla - Zona Rústica"
+    },
+    {
+        "tramo": "Eje 2 Sur - Av. del Taller - Jardín Balbuena"
+    },
+    {
+        "tramo": "San Rafael Atlixco - Barrio Sta. Ana"
+    },
+    {
+        "tramo": "Carretera Federal México Cuernavaca - La Joya"
+    },
+    {
+        "tramo": "Vía Expres Tapo - Arenal Puerto Aéreo"
+    },
+    {
+        "tramo": "Anillo Periférico - Calle 7 - Arenal 3a Sección"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Churubusco - Inpi Picos"
+    },
+    {
+        "tramo": "Eje 5 Norte - Deportivo Reynosa - Pueblo San Martín Xochinahuac"
+    },
+    {
+        "tramo": "Anillo Periférico - Canal de Garay - San Juan Joya"
+    },
+    {
+        "tramo": "Anillo Periférico - Canal de Garay - Presidentes de México"
+    },
+    {
+        "tramo": "Anillo Periférico - Canal de Garay - Francisco Villa"
+    },
+    {
+        "tramo": "Anillo Periférico - Canal de Garay - Los Ángeles"
+    },
+    {
+        "tramo": "Eje 1 Norte - I López Rayón - Morelos"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Churubusco - Prado Churubusco"
+    },
+    {
+        "tramo": "Viaducto Tlalpan - Pueblo Chimalcoyotl"
+    },
+    {
+        "tramo": "Viaducto - Río Becerra - Escandón II Sección"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - Progreso Nacional"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - Guadalupe Proletaria"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - Santiago Atepetlac"
+    },
+    {
+        "tramo": "Eje 1 Norte - Albañiles - Morelos"
+    },
+    {
+        "tramo": "Eje 2 Norte - Manuel González - Atlampa"
+    },
+    {
+        "tramo": "Eje 3 Norte - Manuel Acuña - Pueblo San Francisco Tetecala"
+    },
+    {
+        "tramo": "Eje 3 Norte - Manuel Acuña - Centro de Azcapotzalco"
+    },
+    {
+        "tramo": "Eje 3 Norte - Tochtli - Pueblo San Francisco Tetecala"
+    },
+    {
+        "tramo": "Eje 4 Norte - Ant. Calz. de Guadalupe - Barrio San Andrés"
+    },
+    {
+        "tramo": "Eje 4 Norte - Azcapotzalco la Villa - Barrio San Andrés"
+    },
+    {
+        "tramo": "Eje 5 Norte - Av. Cantera - Villa Gustavo A. Madero"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Calz. Vallejo - Pipsa"
+    },
+    {
+        "tramo": "Eje 3 Poniente - Av. Amores - Del Valle Norte"
+    },
+    {
+        "tramo": "Eje 1 Sur - Av. Chapultepec - Bosque de Chapultepec I Sección"
+    },
+    {
+        "tramo": "Eje 1 Sur - Av. Chapultepec - Centro"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Ferrocarril Hidalgo - Felipe Pescador"
+    },
+    {
+        "tramo": "Eje 1 Sur - Av. Chapultepec - Doctores"
+    },
+    {
+        "tramo": "Eje 1 Sur - Arcos de Belén - Centro"
+    },
+    {
+        "tramo": "Eje 8 Sur - Ampliación Ermita Iztapalapa - Barrio San Pablo"
+    },
+    {
+        "tramo": "Eje 1 Sur - San Pablo - Centro"
+    },
+    {
+        "tramo": "La Viga - Asturias"
+    },
+    {
+        "tramo": "Eje 2 Sur - Querétaro - Roma Norte"
+    },
+    {
+        "tramo": "Eje 2 A Sur - Ramón Aldana - Paulino Navarro"
+    },
+    {
+        "tramo": "Eje 2 A Sur - Francisco J Clavijero - Paulino Navarro"
+    },
+    {
+        "tramo": "Eje 3 Sur - Añil - Granjas México"
+    },
+    {
+        "tramo": "Eje 4 Sur - Tehuantepec - Hipódromo"
+    },
+    {
+        "tramo": "Eje 4 Sur - Av. Te - Granjas México"
+    },
+    {
+        "tramo": "Eje 5 Sur - Av. San Antonio - Del Valle Centro"
+    },
+    {
+        "tramo": "Eje 5 Sur - Ramos Millán - Periodista"
+    },
+    {
+        "tramo": "Eje 5 Sur - Av. Circunvalación - Chinampac de Juárez"
+    },
+    {
+        "tramo": "Eje 6 Sur - Tintoreto - Sta. María Nonoalco"
+    },
+    {
+        "tramo": "Eje 6 Sur - Av. Jalisco - Ampliación Guadalupe del Moral"
+    },
+    {
+        "tramo": "Eje 6 Sur - Av. Luis Méndez - Leyes de Reforma 1a Sección"
+    },
+    {
+        "tramo": "Eje 8 Sur - Ampliación Ermita Iztapalapa - Sta. Isabel Industrial"
+    },
+    {
+        "tramo": "Eje 8 Sur - Ampliación Ermita Iztapalapa - Ampliación Ricardo Flores Magón"
+    },
+    {
+        "tramo": "Eje 8 Sur - Ampliación Ermita Iztapalapa - Barrio San Lucas"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Av. Cafetales - Tenorios"
+    },
+    {
+        "tramo": "Eje 8 Sur - Ampliación Ermita Iztapalapa - El Molino"
+    },
+    {
+        "tramo": "Eje 10 Sur - Av. Universidad - Cd. Universitaria"
+    },
+    {
+        "tramo": "Eje 10 Sur - Av. Copilco - Copilco Universidad"
+    },
+    {
+        "tramo": "Eje 10 Sur - Carretera A Sta. Catarina - San Miguel"
+    },
+    {
+        "tramo": "Eje 10 Sur - Carretera Tlaltenco A la México Puebla - Zona Rústica"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Ferrocarril Hidalgo - Valle Gómez"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Anillo de Circunvalación (Calz. Canal) - Esperanza"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Anillo de Circunvalación (Calz. Canal) - Merced Balbuena"
+    },
+    {
+        "tramo": "Av. Sta. Ana - Culhuacán CTM Sección II"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Calz. de la Viga - Esperanza"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Sur 81 - Cacama"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Canal de Miramontes - San Bartolo el Chico"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Armada de México - Los Cedros"
+    },
+    {
+        "tramo": "Eje 4 Oriente - Av. Río Churubusco - Agrícola Pantitlán"
+    },
+    {
+        "tramo": "Eje 4 Oriente - Av. Río Churubusco - Carlos Zapata Vela"
+    },
+    {
+        "tramo": "Eje 4 Oriente - Av. Río Churubusco - San José Aculco"
+    },
+    {
+        "tramo": "Av. Insurgentes Sur - La Joya"
+    },
+    {
+        "tramo": "Av. Ceylan - Cosmopolita"
+    },
+    {
+        "tramo": "Av. Ejército Nacional Mexicano - Polanco III Sección"
+    },
+    {
+        "tramo": "Av. Horacio - Polanco III Sección"
+    },
+    {
+        "tramo": "Anillo Periférico - Calle 7 - Arenal 2a Sección"
+    },
+    {
+        "tramo": "Anillo Periférico - Calle 7 - Arenal 4a Sección"
+    },
+    {
+        "tramo": "Calz. Gral. Ignacio Zaragoza - Del Parque"
+    },
+    {
+        "tramo": "Eje 5 Norte - Av. 412 - San Juan de Aragón VII Sección"
+    },
+    {
+        "tramo": "Carretera México Oaxtepec - Zona Rústica"
+    },
+    {
+        "tramo": "Carretera Federal México Cuernavaca - El Truenito"
+    },
+    {
+        "tramo": "Vía Expres Tapo - Arenal 3a Sección"
+    },
+    {
+        "tramo": "Canal Nacional - Zona Rústica"
+    },
+    {
+        "tramo": "Eje 5 Norte - Av. 412 - San Juan de Aragón VI Sección"
+    },
+    {
+        "tramo": "San Rafael Atlixco - Zona Rústica"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Consulado - San Simón Tolnahuac"
+    },
+    {
+        "tramo": "Eje 2 Sur - Av. Nuevo León - Roma Norte"
+    },
+    {
+        "tramo": "Eje 4 Sur - Juan Escutia - Hipódromo"
+    },
+    {
+        "tramo": "Av. 602 - Aeropuerto Internacional de la Cd. de México"
+    },
+    {
+        "tramo": "Circuito Interior - Blv. Puerto Aéreo - Aeropuerto Internacional de la Cd. de M"
+    },
+    {
+        "tramo": "Eje 1 Norte - Manuel Lebrija - Ampliación Aviación Civil"
+    },
+    {
+        "tramo": "Cuauhtémoc - Barrio San Pedro"
+    },
+    {
+        "tramo": "Eje 5 Sur - Av. de las Torres - Paraje Zacatepec"
+    },
+    {
+        "tramo": "Eje 5 Sur - Av. de las Torres - Sta. María Aztahuacan"
+    },
+    {
+        "tramo": "Autopista México-Pachuca - San Pedro Zacatenco"
+    },
+    {
+        "tramo": "Camino A Nativitas - Pueblo Sta. María Nativitas"
+    },
+    {
+        "tramo": "Calz. Tulyehualco Xochimilco - Barrio la Planta"
+    },
+    {
+        "tramo": "Eje 3 Norte - Tochtli - Barrio Sta. Apolonia"
+    },
+    {
+        "tramo": "Anillo Periférico - Acueducto de Guadalupe - Siete Maravillas"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - Rinconada Coapa"
+    },
+    {
+        "tramo": "Eje 3 Norte - Av. 16 de Septiembre - Centro de Azcapotzalco"
+    },
+    {
+        "tramo": "Eje 5 Norte - Montevideo - San Bartolo Atepehuacan"
+    },
+    {
+        "tramo": "Av. Acueducto - San Pedro Zacatenco"
+    },
+    {
+        "tramo": "Eje 1 Norte - Albañiles - Azteca"
+    },
+    {
+        "tramo": "Eje 1 Norte - Albañiles - Progresista"
+    },
+    {
+        "tramo": "Eje 1 Norte - Albañiles - Venustiano Carranza"
+    },
+    {
+        "tramo": "Eje 5 Poniente - Dr. Alfonso Caso Andrade - Ampliación Alpes"
+    },
+    {
+        "tramo": "Eje 5 Poniente - Dr. Alfonso Caso Andrade - Las Águilas"
+    },
+    {
+        "tramo": "Eje 3 Norte - Av. Alfredo Robles Domínguez - Vallejo"
+    },
+    {
+        "tramo": "Eje 5 Poniente - Av. Alta Tensión - Merced Gómez"
+    },
+    {
+        "tramo": "Eje 3 Norte - Ángel Albino Corzo (Oriente 101) - Ampliación Mártires de Río Blan"
+    },
+    {
+        "tramo": "Eje 3 Norte - Ángel Albino Corzo (Oriente 101) - La Joyita"
+    },
+    {
+        "tramo": "Eje 3 Norte - Ángel Albino Corzo (Oriente 101) - Gertrudis Sánchez 2a Sección"
+    },
+    {
+        "tramo": "Eje 3 Norte - Ángel Albino Corzo (Oriente 101) - Tablas de San Agustín"
+    },
+    {
+        "tramo": "Eje 6 Sur - Ángel Urraza - Vértiz Narvarte"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Armada de México - Cafetales"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Av. Carlota Armero - Culhuacán CTM Sección VI"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Armada de México - Emiliano Zapata Fraccionamiento Zapata"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Arneses - Barrio San Antonio Culhuacán"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Arneses - Pueblo los Reyes Culhuacán"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Arneses - Minerva"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Arneses - Progreso del Sur"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Arneses - Valle del Sur"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Av. 5 - Escuadrón 201"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Av. 5 - Granjas de San Antonio"
+    },
+    {
+        "tramo": "Eje 3 Norte - Av. 506 - San Juan de Aragón I Sección"
+    },
+    {
+        "tramo": "Eje 4 Norte - Av. 510 - U.H. Ejido San Juan de Aragón"
+    },
+    {
+        "tramo": "Eje 3 Norte - Av. 608 - San Juan de Aragón III Sección"
+    },
+    {
+        "tramo": "Eje 5 Poniente - Av. Alta Tensión - Barrio Alfalfar"
+    },
+    {
+        "tramo": "Eje 5 Poniente - Av. Alta Tensión - La Cascada"
+    },
+    {
+        "tramo": "Eje 5 Poniente - Av. Alta Tensión - Minas Cristo Rey"
+    },
+    {
+        "tramo": "Eje 5 Poniente - Av. Alta Tensión - Molino de Rosas"
+    },
+    {
+        "tramo": "Eje 5 Poniente - Av. Alta Tensión - Olivar del Conde 1a Sección"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Av. Andrés Molina Enriquez - Ampliación Asturias"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Av. Andrés Molina Enriquez - Ampliación Sinatel"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Av. Andrés Molina Enriquez - Asturias"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Av. Andrés Molina Enriquez - Barrio San Pedro"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Av. Andrés Molina Enriquez - Militar Marte"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Av. Andrés Molina Enriquez - Nueva Sta. Anita"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Av. Andrés Molina Enriquez - Reforma Iztaccihuatl Norte"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Av. Andrés Molina Enriquez - Reforma Iztaccihuatl Sur"
+    },
+    {
+        "tramo": "Eje 3 Sur - Av. Baja California - Hipódromo"
+    },
+    {
+        "tramo": "Eje 3 Sur - Av. Baja California - Roma Sur"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Av. Cafetales - Rinconada Coapa 2a Sección"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Av. Canal de Miramontes - Avante"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Av. Canal de Miramontes - Campestre Churubusco"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Av. Canal de Miramontes - Churubusco Country Club"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Av. Canal de Miramontes - Educación"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Av. Canal de Miramontes - El Centinela"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Av. Canal de Miramontes - Emiliano Zapata"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Canal de Miramontes - Los Girasoles"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Canal de Miramontes - Residencial Miramontes"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Canal de Miramontes - Villa Coapa"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Cerro de las Torres - Campestre Churubusco"
+    },
+    {
+        "tramo": "Av. Ceylan - Estación Pantaco"
+    },
+    {
+        "tramo": "Av. Ceylan - Euzkadi"
+    },
+    {
+        "tramo": "Av. Ceylan - Ferreria"
+    },
+    {
+        "tramo": "Av. Ceylan - Industrial Vallejo"
+    },
+    {
+        "tramo": "Av. Ceylan - Potrero del Llano"
+    },
+    {
+        "tramo": "Av. Ceylan - Las Salinas"
+    },
+    {
+        "tramo": "Eje 10 Sur - Av. Copilco - Romero de Terreros"
+    },
+    {
+        "tramo": "Eje 3 Poniente - Av. Coyoacán - Del Valle Centro"
+    },
+    {
+        "tramo": "Eje 4 Sur - Coyoacán - Del Valle Norte"
+    },
+    {
+        "tramo": "Eje 3 Poniente - Av. Coyoacán - Xoco"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Av. Cuauhtémoc - Buenos Aires"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Av. Cuauhtémoc - Doctores"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Av. Cuauhtémoc - Letrán Valle"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Av. Cuauhtémoc - Narvarte Poniente"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Av. Cuauhtémoc - Piedad Narvarte"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Av. Cuauhtémoc - Roma Norte"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Av. Cuauhtémoc - Roma Sur"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Av. Cuauhtémoc - Sta. Cruz Atoyac"
+    },
+    {
+        "tramo": "Eje 3 Norte - Av. Cuitláhuac - Barrio San Bernabé"
+    },
+    {
+        "tramo": "Eje 3 Norte - Calz. Camarones - Claveria"
+    },
+    {
+        "tramo": "Eje 3 Norte - Av. Cuitláhuac - Guadalupe Victoria"
+    },
+    {
+        "tramo": "Eje 3 Norte - Av. Cuitláhuac - Héroe de Nacozari"
+    },
+    {
+        "tramo": "Eje 3 Norte - Av. Cuitláhuac - Jardín Azpeitia"
+    },
+    {
+        "tramo": "Av. Cuitláhuac - Claveria"
+    },
+    {
+        "tramo": "Av. Cuitláhuac - Obrero Popular"
+    },
+    {
+        "tramo": "Av. Cuitláhuac - San Álvaro"
+    },
+    {
+        "tramo": "Av. Cuitláhuac - San Salvador Xochimanca"
+    },
+    {
+        "tramo": "Eje 6 A Poniente - Av. de las Granjas - San Sebastián"
+    },
+    {
+        "tramo": "Eje 6 A Poniente - Av. de las Granjas - Sto. Tomás"
+    },
+    {
+        "tramo": "Eje 6 A Poniente - Av. de las Granjas - El Jaguey"
+    },
+    {
+        "tramo": "Eje 6 A Poniente - Av. de las Granjas - Jardín Azpeitia"
+    },
+    {
+        "tramo": "Eje 6 A Poniente - Av. de las Granjas - Pueblo Sta. Catarina"
+    },
+    {
+        "tramo": "Eje 6 A Poniente - Av. de las Granjas - Sector Naval"
+    },
+    {
+        "tramo": "Eje 6 A Poniente - Av. de las Granjas - Un Hogar Para Cada Trabajador"
+    },
+    {
+        "tramo": "Eje 2 Sur - Av. del Taller - 24 de Abril"
+    },
+    {
+        "tramo": "Eje 2 Sur - Av. del Taller - Álvaro Obregón"
+    },
+    {
+        "tramo": "Eje 2 Sur - Av. del Taller - Del Parque"
+    },
+    {
+        "tramo": "Eje 2 Sur - Av. del Taller - Lorenzo Boturini"
+    },
+    {
+        "tramo": "Eje 3 Sur - Dr. Ignacio Morones Prieto - Buenos Aires"
+    },
+    {
+        "tramo": "Eje 3 Sur - Av. Ferrocarril de Río Frío - Agrícola Oriental"
+    },
+    {
+        "tramo": "Eje 3 Sur - Av. Ferrocarril de Río Frío - El Rodeo"
+    },
+    {
+        "tramo": "Eje 3 Sur - Av. Ferrocarril de Río Frío - Real del Moral"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Ferrocarril Hidalgo - Aragón la Villa"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Ferrocarril Hidalgo - Emiliano Zapata"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Ferrocarril Hidalgo - Estrella"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Ferrocarril Hidalgo - Guadalupe Tepeyac"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Ferrocarril Hidalgo - Villa Gustavo A. Madero"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Ferrocarril Hidalgo - Tres Estrellas"
+    },
+    {
+        "tramo": "Eje 7 Oriente - Av. Guelatao - Ejército de Agua Prieta"
+    },
+    {
+        "tramo": "Eje 7 Oriente - Av. Guelatao - Álvaro Obregón"
+    },
+    {
+        "tramo": "Eje 7 Oriente - Gral. Juan Crisostomo Bonilla - Juan Escutia"
+    },
+    {
+        "tramo": "Eje 7 Oriente - Av. Guelatao - Ejército de Oriente"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Av. H Congreso de la Unión - 10 de Mayo"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Av. H Congreso de la Unión - Aaron Sáenz"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Av. H Congreso de la Unión - Álvaro Obregón"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Av. H Congreso de la Unión - Ampliación Penitenciaria"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Av. H Congreso de la Unión - Ampliación San Juan de Aragón"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Av. H Congreso de la Unión - Bondojito"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Av. H Congreso de la Unión - Jamaica"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Av. H Congreso de la Unión - Janitzio"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Av. H Congreso de la Unión - Lorenzo Boturini"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Av. H Congreso de la Unión - Merced Balbuena"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Av. H Congreso de la Unión - Morelos"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Av. H Congreso de la Unión - Popular Rastro"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Av. H Congreso de la Unión - Pueblo de la Magdalena Mixiuhca"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Av. H Congreso de la Unión - Sta. Anita"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Av. H Congreso de la Unión - Tablas de San Agustín"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Av. H Congreso de la Unión - Tres Estrellas"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Av. H Congreso de la Unión - Valle Gómez"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Ing. Eduardo Molina - 10 de Mayo"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Ing. Eduardo Molina - 5o Tramo 20 de Noviembre"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Ing. Eduardo Molina - 7 de Julio"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Ing. Eduardo Molina - Ampliación 20 de Noviembre"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Ing. Eduardo Molina - Ampliación Emiliano Zapata"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Ing. Eduardo Molina - Ampliación Penitenciaria"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Ing. Eduardo Molina - Constitución de la República"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Ing. Eduardo Molina - Del Obrero"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Ing. Eduardo Molina - Nueva Atzacoalco"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Ing. Eduardo Molina - Faja de Oro"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Ing. Eduardo Molina - Gertrudis Sánchez 1a Sección"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Ing. Eduardo Molina - Granjas Modernas"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Ing. Eduardo Molina - Juan González Romero"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Ing. Eduardo Molina - La Joya"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Ing. Eduardo Molina - Michoacana"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Ing. Eduardo Molina - Morelos"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Ing. Eduardo Molina - Nueva Tenochtitlan"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Ing. Eduardo Molina - Salvador Díaz Mirón"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Ing. Eduardo Molina - San Pedro el Chico"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Ing. Eduardo Molina - El Coyol"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Ing. Eduardo Molina - Vasco de Quiroga"
+    },
+    {
+        "tramo": "Av. Insurgentes Norte - Atlampa"
+    },
+    {
+        "tramo": "Av. Insurgentes Norte - Buenavista"
+    },
+    {
+        "tramo": "Av. Insurgentes Norte - Capultitlan"
+    },
+    {
+        "tramo": "Av. Insurgentes Norte - Guadalupe Insurgentes"
+    },
+    {
+        "tramo": "Av. Insurgentes Norte - San Simón Tolnahuac"
+    },
+    {
+        "tramo": "Av. Insurgentes Norte - Sta. María Insurgentes"
+    },
+    {
+        "tramo": "Av. Insurgentes Norte - Tlacamaca"
+    },
+    {
+        "tramo": "Av. Insurgentes Norte - Nonoalco Tlatelolco"
+    },
+    {
+        "tramo": "Av. Insurgentes Norte - Vallejo"
+    },
+    {
+        "tramo": "Av. Insurgentes Norte - Vallejo Poniente"
+    },
+    {
+        "tramo": "Eje 5 Oriente - Javier Rojo Gómez - Agrícola Oriental"
+    },
+    {
+        "tramo": "Eje 5 Oriente - Javier Rojo Gómez - Barrio San Pablo"
+    },
+    {
+        "tramo": "Eje 5 Oriente - Javier Rojo Gómez - Dr. Alfonso Ortiz Tirado"
+    },
+    {
+        "tramo": "Eje 5 Oriente - Javier Rojo Gómez - Ampliación Guadalupe del Moral"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Calz. México Coyoacán - Gral. Pedro Ma. Anaya"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Calz. México Coyoacán - Xoco"
+    },
+    {
+        "tramo": "Eje 9 Sur - Av. Miguel Ángel de Quevedo - Parque San Andrés"
+    },
+    {
+        "tramo": "Eje 5 Norte - Montevideo - Tepeyac Insurgentes"
+    },
+    {
+        "tramo": "Eje 3 Sur - Av. Morelos - Artes Gráficas"
+    },
+    {
+        "tramo": "Eje 3 Sur - Av. Morelos - Jardín Balbuena"
+    },
+    {
+        "tramo": "Eje 3 Sur - Av. Morelos - Magdalena Mixiuhca"
+    },
+    {
+        "tramo": "Eje 3 Sur - Av. Morelos - Pueblo de la Magdalena Mixiuhca"
+    },
+    {
+        "tramo": "Eje 3 Sur - Av. Morelos - Sevilla"
+    },
+    {
+        "tramo": "Av. Paseo de las Palmas - Lomas de Chapultepec VIII Sección"
+    },
+    {
+        "tramo": "Av. Paseo de las Palmas - Lomas de Chapultepec III Sección"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Patriotismo - Escandón II Sección"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Patriotismo - Insurgentes Mixcoac"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Patriotismo - Sta. María Nonoalco"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Patriotismo - San Pedro de los Pinos"
+    },
+    {
+        "tramo": "Eje 4 Sur - Av. Plutarco Elías Calles - Barrio los Reyes"
+    },
+    {
+        "tramo": "Eje 4 Sur - Av. Plutarco Elías Calles - Barrio San Francisco Xicaltongo"
+    },
+    {
+        "tramo": "Eje 4 Sur - Av. Plutarco Elías Calles - Barrio San Pedro"
+    },
+    {
+        "tramo": "Eje 4 Sur - Av. Plutarco Elías Calles - Gabriel Ramos Millán"
+    },
+    {
+        "tramo": "Eje 4 Sur - Av. Plutarco Elías Calles - Granjas México"
+    },
+    {
+        "tramo": "Eje 4 Sur - Av. Plutarco Elías Calles - Moderna"
+    },
+    {
+        "tramo": "Eje 4 Sur - Av. Plutarco Elías Calles - Nueva Sta. Anita"
+    },
+    {
+        "tramo": "Eje 4 Sur - Av. Plutarco Elías Calles - Gabriel Ramos Millán Sección Tlacotal"
+    },
+    {
+        "tramo": "Eje 4 Sur - Av. Plutarco Elías Calles - Sta. Anita"
+    },
+    {
+        "tramo": "Eje 4 Sur - Av. Plutarco Elías Calles - Tlazintla"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Revolución - 8 de Agosto"
+    },
+    {
+        "tramo": "Eje 4 Poniente - Av. Revolución - Guadalupe Inn"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Revolución - Insurgentes Mixcoac"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Revolución - Mixcoac"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Revolución - Sta. María Nonoalco"
+    },
+    {
+        "tramo": "Eje 4 Poniente - Av. Revolución - San Ángel"
+    },
+    {
+        "tramo": "Eje 4 Poniente - Av. Revolución - San José Insurgentes"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Revolución - San Juan"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Revolución - San Pedro de los Pinos"
+    },
+    {
+        "tramo": "Eje 4 Sur - Av. Te - Ex-Ejido la Magdalena Mixhuca"
+    },
+    {
+        "tramo": "Av. Tezozomoc - Industrial San Antonio"
+    },
+    {
+        "tramo": "Av. Tezozomoc - La Preciosa"
+    },
+    {
+        "tramo": "Av. Tezozomoc - Petrolera"
+    },
+    {
+        "tramo": "Av. Tezozomoc - Pueblo San Miguel Amantla"
+    },
+    {
+        "tramo": "Av. Tezozomoc - Tezozomoc"
+    },
+    {
+        "tramo": "Av. Tezozomoc - Pueblo San Bartolo Cahualtongo"
+    },
+    {
+        "tramo": "Eje 2 Norte - Transvaal - Romero Rubio"
+    },
+    {
+        "tramo": "Eje 2 Norte - Transvaal - 1 de Mayo"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Azúcar - Fraccionamiento Coyuya"
+    },
+    {
+        "tramo": "Barranca del Muerto - Crédito Constructor"
+    },
+    {
+        "tramo": "Barranca del Muerto - Merced Gómez"
+    },
+    {
+        "tramo": "Barranca del Muerto - San José Insurgentes"
+    },
+    {
+        "tramo": "Eje 4 Sur - Benjamín Franklin - Hipódromo"
+    },
+    {
+        "tramo": "Eje 4 Sur - Benjamín Franklin - Hipódromo Condesa"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Boleo - Felipe Pescador"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Boleo - Valle Gómez"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Bucareli - Centro"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Bucareli - Juárez"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Av. Cafetales - Haciendas de Coyoacán"
+    },
+    {
+        "tramo": "Eje 3 Norte - Calz. Camarones - Pueblo Sta. María Malinalco"
+    },
+    {
+        "tramo": "Eje 3 Norte - Calz. Camarones - Sector Naval"
+    },
+    {
+        "tramo": "Eje 3 Norte - Calz. Camarones - Sindicato Mexicano de Electricistas"
+    },
+    {
+        "tramo": "Calz. de Guadalupe - 7 de Noviembre"
+    },
+    {
+        "tramo": "Calz. de Guadalupe - Aragón la Villa"
+    },
+    {
+        "tramo": "Calz. de Guadalupe - Estrella"
+    },
+    {
+        "tramo": "Calz. de Guadalupe - Ex-Hipódromo de Peralvillo"
+    },
+    {
+        "tramo": "Calz. de Guadalupe - Guadalupe Tepeyac"
+    },
+    {
+        "tramo": "Calz. de Guadalupe - Villa Gustavo A. Madero"
+    },
+    {
+        "tramo": "Calz. de Guadalupe - Industrial"
+    },
+    {
+        "tramo": "Calz. de Guadalupe - Maza"
+    },
+    {
+        "tramo": "Calz. de Guadalupe - Peralvillo"
+    },
+    {
+        "tramo": "Calz. de Guadalupe - Tepeyac Insurgentes"
+    },
+    {
+        "tramo": "Calz. de Guadalupe - Valle Gómez"
+    },
+    {
+        "tramo": "Calz. de Guadalupe - Vallejo"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Heroica Escuela Naval Militar - Los Cipreses"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Heroica Escuela Naval Militar - Presidentes Ejidales 1a Sección"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Heroica Escuela Naval Militar - Alianza Popular Revolucionaria"
+    },
+    {
+        "tramo": "La Viga - Ampliación Asturias"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Calz. de la Viga - Artes Gráficas"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Calz. de la Viga - Campamento dos de Octubre"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Calz. de la Viga - El Sifon"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Calz. de la Viga - Granjas Esmeralda"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Calz. de la Viga - Paulino Navarro"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Calz. de la Viga - Prado Churubusco"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Calz. de la Viga - Reforma Iztaccihuatl Sur"
+    },
+    {
+        "tramo": "Calz. de las Águilas - Ampliación las Águilas"
+    },
+    {
+        "tramo": "Calz. de las Águilas - Las Águilas"
+    },
+    {
+        "tramo": "Calz. de las Águilas - Lomas de Guadalupe"
+    },
+    {
+        "tramo": "Calz. de las Águilas - Lomas de las Águilas"
+    },
+    {
+        "tramo": "Calz. de las Águilas - Los Alpes"
+    },
+    {
+        "tramo": "Calz. de las Águilas - Puente Colorado"
+    },
+    {
+        "tramo": "Calz. de las Águilas - San Clemente Sur"
+    },
+    {
+        "tramo": "Eje 7 Poniente - Calz. de las Armas - Ampliación San Pedro Xalpa"
+    },
+    {
+        "tramo": "Eje 7 Poniente - Calz. de las Armas - Ex-Hacienda el Rosario"
+    },
+    {
+        "tramo": "Eje 7 Poniente - Calz. de las Armas - Providencia"
+    },
+    {
+        "tramo": "Eje 7 Poniente - Calz. de las Armas - Prados del Rosario"
+    },
+    {
+        "tramo": "Calz. de los Misterios - Ex-Hipódromo de Peralvillo"
+    },
+    {
+        "tramo": "Calz. de los Misterios - Industrial"
+    },
+    {
+        "tramo": "Calz. de los Misterios - Peralvillo"
+    },
+    {
+        "tramo": "Calz. de los Misterios - Tepeyac Insurgentes"
+    },
+    {
+        "tramo": "Calz. de los Misterios - Vallejo"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Álamos"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Américas Unidas"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Atlántida"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Avante"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - San Diego Churubusco"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Campestre Churubusco"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Churubusco Country Club"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Cd. Jardín"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - El Centinela"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - El Reloj"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Emiliano Zapata"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Ermita"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Viejo Ejido de Sta. Úrsula Coapa"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Josefa Ortiz de Domínguez"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - La Joya"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Nativitas"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Niños Héroes"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Parque San Andrés"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Portales Norte"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Postal"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Pueblo de Sta. Úrsula Coapa"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Tlalpan"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - San Simón Ticumac"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Educación"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Xotepingo"
+    },
+    {
+        "tramo": "Calz. Legaria - 10 de Abril"
+    },
+    {
+        "tramo": "Calz. Legaria - Ampliación Torre Blanca"
+    },
+    {
+        "tramo": "Calz. Legaria - Irrigación"
+    },
+    {
+        "tramo": "Calz. Legaria - México Nuevo"
+    },
+    {
+        "tramo": "Calz. Legaria - Pensil Norte"
+    },
+    {
+        "tramo": "Calz. Legaria - Tacuba"
+    },
+    {
+        "tramo": "Calz. Legaria - San Joaquín"
+    },
+    {
+        "tramo": "Calz. Legaria - Torre Blanca"
+    },
+    {
+        "tramo": "Calz. Legaria - Lomas Hermosa"
+    },
+    {
+        "tramo": "Calz. Legaria - Ventura Pérez de Alva"
+    },
+    {
+        "tramo": "Calz. México Tacuba - Agricultura"
+    },
+    {
+        "tramo": "Calz. México Tacuba - Huichapan"
+    },
+    {
+        "tramo": "Calz. México Tacuba - Tacuba"
+    },
+    {
+        "tramo": "Calz. México Tacuba - Torre Blanca"
+    },
+    {
+        "tramo": "Eje 3 Norte - Calz. San Isidro - Ampliación Petrolera"
+    },
+    {
+        "tramo": "Eje 3 Norte - Calz. San Isidro - Providencia"
+    },
+    {
+        "tramo": "Eje 3 Norte - Calz. San Isidro - Petrolera"
+    },
+    {
+        "tramo": "Eje 3 Norte - Calz. San Isidro - Pueblo San Bartolo Cahualtongo"
+    },
+    {
+        "tramo": "Eje 3 Norte - Calz. San Isidro - Pueblo San Francisco Tetecala"
+    },
+    {
+        "tramo": "Eje 3 Norte - Calz. San Isidro - Pueblo San Juan Tlihuaca"
+    },
+    {
+        "tramo": "Eje 5 Norte - Calz. San Juan de Aragón - 15 de Agosto"
+    },
+    {
+        "tramo": "Eje 5 Norte - Calz. San Juan de Aragón - Ampliación Casas Alemán"
+    },
+    {
+        "tramo": "Eje 5 Norte - Calz. San Juan de Aragón - Constitución de la República"
+    },
+    {
+        "tramo": "Eje 5 Norte - Calz. San Juan de Aragón - D M Nacional"
+    },
+    {
+        "tramo": "Eje 5 Norte - Calz. San Juan de Aragón - El Olivo"
+    },
+    {
+        "tramo": "Eje 5 Norte - Calz. San Juan de Aragón - Granjas Modernas"
+    },
+    {
+        "tramo": "Eje 5 Norte - Calz. San Juan de Aragón - Villa Gustavo A. Madero"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Calz. Vallejo - Ampliación Progreso Nacional"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Calz. Vallejo - Defensores de la República"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Calz. Vallejo - Guadalupe Victoria"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Calz. Vallejo - Héroe de Nacozari"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Calz. Vallejo - Industrial Vallejo"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Calz. Vallejo - Magdalena de las Salinas"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Calz. Vallejo - Nueva Vallejo"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Calz. Vallejo - Porvenir"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Calz. Vallejo - Pro Hogar"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Calz. Vallejo - San José de la Escalera"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Calz. Vallejo - Sta. Rosa"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Calz. Vallejo - Nueva Industrial Vallejo"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Calz. Vallejo - Vallejo Poniente"
+    },
+    {
+        "tramo": "Camino A Sta. Fé - La Conchita"
+    },
+    {
+        "tramo": "Camino A Sta. Fé - Zenon Delgado"
+    },
+    {
+        "tramo": "Eje 4 Oriente - Av. Río Churubusco - El Rodeo"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Av. Canal de Miramontes - Los Cipreses"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Av. Canal de Miramontes - Prados de Coyoacán"
+    },
+    {
+        "tramo": "Eje 2 Norte - Canal del Norte - 5o Tramo 20 de Noviembre"
+    },
+    {
+        "tramo": "Eje 2 Norte - Canal del Norte - Felipe Pescador"
+    },
+    {
+        "tramo": "Eje 2 Norte - Canal del Norte - Janitzio"
+    },
+    {
+        "tramo": "Eje 2 Norte - Canal del Norte - Michoacana"
+    },
+    {
+        "tramo": "Eje 2 Norte - Canal del Norte - Nicolás Bravo"
+    },
+    {
+        "tramo": "Eje 2 Norte - Canal del Norte - Popular Rastro"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Heroica Escuela Naval Militar - San Francisco Culhuacán Barrio d"
+    },
+    {
+        "tramo": "Eje 5 Oriente - Av. Central - Agrícola Pantitlán"
+    },
+    {
+        "tramo": "Eje 3 Norte - Av. Cuitláhuac - Pro Hogar"
+    },
+    {
+        "tramo": "Eje 5 Norte - Deportivo Reynosa - Pueblo Sta. Bárbara"
+    },
+    {
+        "tramo": "Eje 2 Sur - Dr. Olvera - Doctores"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - Álamos"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - Algarin"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - Atenor Salas"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - Buenos Aires"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - Doctores"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - Ex-Hipódromo de Peralvillo"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - Guerrero"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - Independencia"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - Letrán Valle"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - Magdalena de las Salinas"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - Niños Héroes"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - Obrera"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - Peralvillo"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - Postal"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - San Simón Ticumac"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - Vallejo"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - Vértiz Narvarte"
+    },
+    {
+        "tramo": "Eje 5 Poniente - Av. Escuadrón 201 - Cristo Rey"
+    },
+    {
+        "tramo": "Eje 5 Poniente - Av. Escuadrón 201 - Francisco Villa"
+    },
+    {
+        "tramo": "Eje 5 Poniente - Av. Escuadrón 201 - 1a Victoria"
+    },
+    {
+        "tramo": "Eje 2 Norte - Eulalia Guzmán - Atlampa"
+    },
+    {
+        "tramo": "Eje 2 Norte - Eulalia Guzmán - Nueva Sta. María"
+    },
+    {
+        "tramo": "Eje 2 Norte - Eulalia Guzmán - Tlatilco"
+    },
+    {
+        "tramo": "Eje 7 Sur - Extremadura - Insurgentes Mixcoac"
+    },
+    {
+        "tramo": "Eje 5 Norte - Ferrocarriles Nacionales - Pueblo San Martín Xochinahuac"
+    },
+    {
+        "tramo": "Eje 7 Sur - Félix Cuevas - Tlacoquemecatl"
+    },
+    {
+        "tramo": "Eje 2 Poniente - Florencia - Juárez"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Francisco del Paso y Troncoso - Barrio San Miguel"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Francisco del Paso y Troncoso - Barrio los Reyes"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Francisco del Paso y Troncoso - Campamento dos de Octubre"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Ing. Eduardo Molina - Del Parque"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Francisco del Paso y Troncoso - Jardín Balbuena"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Francisco del Paso y Troncoso - Jardines de Churubusco"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Francisco del Paso y Troncoso - Juventino Rosas"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Francisco del Paso y Troncoso - Los Picos de Iztacalco Sección 1"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Francisco del Paso y Troncoso - Magdalena Mixiuhca"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Francisco del Paso y Troncoso - Nueva Rosita"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Francisco del Paso y Troncoso - Pueblo Magdalena Atlazolpa"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Francisco del Paso y Troncoso - Pueblo de la Magdalena Mixiuhca"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Francisco del Paso y Troncoso - Tlazintla"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Francisco del Paso y Troncoso - Infonavit Iztacalco"
+    },
+    {
+        "tramo": "Eje 1 A Sur - Av. Fray Servando Teresa de Mier - Centro"
+    },
+    {
+        "tramo": "Eje 1 A Sur - Av. Fray Servando Teresa de Mier - Del Parque"
+    },
+    {
+        "tramo": "Eje 1 A Sur - Av. Fray Servando Teresa de Mier - Esperanza"
+    },
+    {
+        "tramo": "Eje 1 A Sur - Av. Fray Servando Teresa de Mier - Jardín Balbuena"
+    },
+    {
+        "tramo": "Eje 1 A Sur - Av. Fray Servando Teresa de Mier - Merced Balbuena"
+    },
+    {
+        "tramo": "Eje 2 Poniente - Gabriel Mancera - Del Valle Norte"
+    },
+    {
+        "tramo": "Eje 2 Poniente - Gabriel Mancera - Del Valle Sur"
+    },
+    {
+        "tramo": "Eje 5 Sur - Ramos Millán - Américas Unidas"
+    },
+    {
+        "tramo": "Eje 5 Sur - Ramos Millán - Niños Héroes"
+    },
+    {
+        "tramo": "Av. Jesús Galindo y Villa - Gral. Ignacio Zaragoza"
+    },
+    {
+        "tramo": "Av. Jesús Galindo y Villa - Jardín Balbuena"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Geografos - El Sifon"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Guerrero - Buenavista"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Guerrero - Guerrero"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Prolongación Guerrero - San Simón Tolnahuac"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Prolongación Guerrero - Sta. María Insurgentes"
+    },
+    {
+        "tramo": "Av. Heliópolis - Del Recreo"
+    },
+    {
+        "tramo": "Eje 1 Norte - Héroes de Granaditas - Morelos"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Heroica Escuela Naval Militar - San Francisco Culhuacán Barrio d"
+    },
+    {
+        "tramo": "Eje 6 Sur - Holbein - Cd. de los Deportes"
+    },
+    {
+        "tramo": "Eje 6 Sur - Holbein - Noche Buena"
+    },
+    {
+        "tramo": "Av. Insurgentes Norte - Industrial"
+    },
+    {
+        "tramo": "Av. Insurgentes Norte - Peralvillo"
+    },
+    {
+        "tramo": "Av. Insurgentes Norte - Tepeyac Insurgentes"
+    },
+    {
+        "tramo": "Eje 1 Norte - José Antonio Alzate - Sta. María la Ribera"
+    },
+    {
+        "tramo": "Eje 8 Sur - José María Rico - Acacias"
+    },
+    {
+        "tramo": "Eje 3 Sur - José Peon Contreras - Algarin"
+    },
+    {
+        "tramo": "Eje 2 Sur - Juan Escutia - Condesa"
+    },
+    {
+        "tramo": "Eje 2 Norte - Manuel González - Ex-Hipódromo de Peralvillo"
+    },
+    {
+        "tramo": "Eje 2 Norte - Manuel González - San Simón Tolnahuac"
+    },
+    {
+        "tramo": "Eje 2 Norte - Manuel González - Nonoalco Tlatelolco"
+    },
+    {
+        "tramo": "Eje 3 Poniente - Medellín - Piedad Narvarte"
+    },
+    {
+        "tramo": "Eje 3 Poniente - Medellín - Roma Norte"
+    },
+    {
+        "tramo": "Eje 3 Poniente - Medellín - Roma Sur"
+    },
+    {
+        "tramo": "Av. Miguel Bernard - Residencial la Escalera"
+    },
+    {
+        "tramo": "Eje 1 Norte - Manuel Lebrija - Aviación Civil"
+    },
+    {
+        "tramo": "Eje 2 Poniente - Monterrey - Piedad Narvarte"
+    },
+    {
+        "tramo": "Eje 2 Poniente - Monterrey - Roma Norte"
+    },
+    {
+        "tramo": "Eje 2 Poniente - Monterrey - Roma Sur"
+    },
+    {
+        "tramo": "Eje 1 Norte - Mosqueta - Buenavista"
+    },
+    {
+        "tramo": "Eje 1 Norte - Mosqueta - Guerrero"
+    },
+    {
+        "tramo": "Eje 7 Sur - Municipio Libre - Ampliación Sinatel"
+    },
+    {
+        "tramo": "Eje 7 Sur - Municipio Libre - Portales Oriente"
+    },
+    {
+        "tramo": "Eje 7 Sur - Municipio Libre - San Andrés Tetepilco"
+    },
+    {
+        "tramo": "Eje 7 Sur - Municipio Libre - Sta. Cruz Atoyac"
+    },
+    {
+        "tramo": "Eje 3 Norte - Av. Noe - Guadalupe Tepeyac"
+    },
+    {
+        "tramo": "Av. Paseo de la Reforma - Centro"
+    },
+    {
+        "tramo": "Av. Paseo de la Reforma - Cuauhtémoc"
+    },
+    {
+        "tramo": "Av. Paseo de la Reforma - Guerrero"
+    },
+    {
+        "tramo": "Av. Paseo de la Reforma - Juárez"
+    },
+    {
+        "tramo": "Av. Paseo de la Reforma - Lomas de Chapultepec III Sección"
+    },
+    {
+        "tramo": "Av. Paseo de la Reforma - Lomas de Chapultepec VI Sección"
+    },
+    {
+        "tramo": "Av. Paseo de la Reforma - Lomas de Reforma"
+    },
+    {
+        "tramo": "Av. Paseo de la Reforma - Real de las Lomas"
+    },
+    {
+        "tramo": "Av. Paseo de la Reforma - Tabacalera"
+    },
+    {
+        "tramo": "Eje 5 Sur - Playa Villa del Mar - Militar Marte"
+    },
+    {
+        "tramo": "Eje 5 Norte - Poniente 140 - Industrial Vallejo"
+    },
+    {
+        "tramo": "Eje 5 Sur - Purísima - Apatlaco"
+    },
+    {
+        "tramo": "Eje 5 Sur - Purísima - U.H. los Picos VI-B"
+    },
+    {
+        "tramo": "Eje 5 Sur - Purísima - San José Aculco"
+    },
+    {
+        "tramo": "Eje 1 Norte - I López Rayón - Centro"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Revolución - Tacubaya"
+    },
+    {
+        "tramo": "Av. Ricardo Flores Magón - Atlampa"
+    },
+    {
+        "tramo": "Av. Ricardo Flores Magón - Buenavista"
+    },
+    {
+        "tramo": "Av. Ricardo Flores Magón - Guerrero"
+    },
+    {
+        "tramo": "Av. Ricardo Flores Magón - Sta. María la Ribera"
+    },
+    {
+        "tramo": "Av. Ricardo Flores Magón - Nonoalco Tlatelolco"
+    },
+    {
+        "tramo": "Eje 4 Oriente - Av. Río Churubusco - Adolfo López Mateos"
+    },
+    {
+        "tramo": "Eje 4 Oriente - Av. Río Churubusco - Ampliación Aviación Civil"
+    },
+    {
+        "tramo": "Eje 4 Oriente - Av. Río Churubusco - Cuchilla Agrícola Oriental"
+    },
+    {
+        "tramo": "Eje 4 Oriente - Av. Río Churubusco - Ex-Ejido la Magdalena Mixhuca"
+    },
+    {
+        "tramo": "Eje 3 Poniente - Río Mississippi - Cuauhtémoc"
+    },
+    {
+        "tramo": "Eje 2 Poniente - Río Tiber - Cuauhtémoc"
+    },
+    {
+        "tramo": "Eje 3 Norte - Av. Alfredo Robles Domínguez - Guadalupe Insurgentes"
+    },
+    {
+        "tramo": "Eje 3 Norte - Av. Alfredo Robles Domínguez - Industrial"
+    },
+    {
+        "tramo": "Eje 3 Poniente - Salamanca - Roma Norte"
+    },
+    {
+        "tramo": "Eje 5 Poniente - Sur 122 - Cove"
+    },
+    {
+        "tramo": "Camino de los Toros - Daniel Garza"
+    },
+    {
+        "tramo": "Eje 3 Poniente - Av. Thiers - Anzurez"
+    },
+    {
+        "tramo": "Eje 3 Norte - Tochtli - Industrial San Antonio"
+    },
+    {
+        "tramo": "Eje 3 Norte - Sta. Apolonia - Pueblo San Francisco Tetecala"
+    },
+    {
+        "tramo": "Eje 6 Sur - Trabajadores Sociales - Barrio San Ignacio"
+    },
+    {
+        "tramo": "Eje 6 Sur - Trabajadores Sociales - Barrio Sta. Bárbara"
+    },
+    {
+        "tramo": "Eje 6 Sur - Trabajadores Sociales - Pueblo Aculco"
+    },
+    {
+        "tramo": "Eje 2 Norte - Transvaal - Ampliación Simón Bolívar"
+    },
+    {
+        "tramo": "Eje 2 Norte - Transvaal - Aquiles Serdán"
+    },
+    {
+        "tramo": "Eje 2 Norte - Transvaal - Simón Bolívar"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Vidal Alcocer - Morelos"
+    },
+    {
+        "tramo": "Calz. de los Misterios - Villa Gustavo A. Madero"
+    },
+    {
+        "tramo": "Eje 5 Poniente - Sur 122 - Real del Monte"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Moderna"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Viaducto Piedad"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Iztaccihuatl"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Portales Oriente"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Del Lago"
+    },
+    {
+        "tramo": "Av. Heliópolis - Claveria"
+    },
+    {
+        "tramo": "Barranca del Muerto - Guadalupe Inn"
+    },
+    {
+        "tramo": "Barranca del Muerto - Los Alpes"
+    },
+    {
+        "tramo": "Calz. del Hueso - Villa Quietud"
+    },
+    {
+        "tramo": "Calz. del Hueso - Belisario Domínguez"
+    },
+    {
+        "tramo": "Calz. del Hueso - Viejo Ejido de Sta. Úrsula Coapa"
+    },
+    {
+        "tramo": "Calz. del Hueso - Los Sauces"
+    },
+    {
+        "tramo": "Calz. del Hueso - Los Girasoles"
+    },
+    {
+        "tramo": "Calz. del Hueso - Ex-Ejido de Sta. Úrsula Coapa"
+    },
+    {
+        "tramo": "Calz. del Hueso - Floresta Coyoacán"
+    },
+    {
+        "tramo": "Calz. del Hueso - Residencial Miramontes"
+    },
+    {
+        "tramo": "Calz. del Hueso - Tenorios"
+    },
+    {
+        "tramo": "Calz. del Hueso - Haciendas de Coyoacán"
+    },
+    {
+        "tramo": "Calz. del Hueso - Rinconada Coapa 2a Sección"
+    },
+    {
+        "tramo": "Calz. del Hueso - El Mirador"
+    },
+    {
+        "tramo": "Calz. del Hueso - Sta. Cecilia"
+    },
+    {
+        "tramo": "Av. Universidad - Acacias"
+    },
+    {
+        "tramo": "Av. Universidad - Vértiz Narvarte"
+    },
+    {
+        "tramo": "Av. Universidad - Xoco"
+    },
+    {
+        "tramo": "Av. Universidad - Pueblo Axotla"
+    },
+    {
+        "tramo": "Av. Universidad - Florida"
+    },
+    {
+        "tramo": "Av. Universidad - Ex-Hacienda de Guadalupe Chimalistac"
+    },
+    {
+        "tramo": "Av. Universidad - Narvarte Oriente"
+    },
+    {
+        "tramo": "Av. Universidad - Letrán Valle"
+    },
+    {
+        "tramo": "Av. Universidad - Sta. Cruz Atoyac"
+    },
+    {
+        "tramo": "Eje 10 Sur - Av. Universidad - Copilco Universidad"
+    },
+    {
+        "tramo": "Av. Universidad - Del Carmen"
+    },
+    {
+        "tramo": "Av. Universidad - Romero de Terreros"
+    },
+    {
+        "tramo": "Av. Universidad - Narvarte Poniente"
+    },
+    {
+        "tramo": "Dr. José María Vértiz - Letrán Valle"
+    },
+    {
+        "tramo": "Dr. José María Vértiz - Independencia"
+    },
+    {
+        "tramo": "Dr. José María Vértiz - Vértiz Narvarte"
+    },
+    {
+        "tramo": "Dr. José María Vértiz - Buenos Aires"
+    },
+    {
+        "tramo": "Dr. José María Vértiz - Doctores"
+    },
+    {
+        "tramo": "Dr. José María Vértiz - Piedad Narvarte"
+    },
+    {
+        "tramo": "Dr. José María Vértiz - Portales Norte"
+    },
+    {
+        "tramo": "Cumbres de Maltrata - Américas Unidas"
+    },
+    {
+        "tramo": "Cumbres de Maltrata - Independencia"
+    },
+    {
+        "tramo": "Cumbres de Maltrata - Del Lago"
+    },
+    {
+        "tramo": "Cumbres de Maltrata - Narvarte Poniente"
+    },
+    {
+        "tramo": "Cumbres de Maltrata - San Simón Ticumac"
+    },
+    {
+        "tramo": "Cumbres de Maltrata - Niños Héroes"
+    },
+    {
+        "tramo": "Av. Texcoco - Ampliación CTM Aragón"
+    },
+    {
+        "tramo": "Av. Texcoco - Ermita Zaragoza"
+    },
+    {
+        "tramo": "Av. Texcoco - Pueblo San Lorenzo Xicoténcatl"
+    },
+    {
+        "tramo": "Av. Texcoco - CTM Aragón"
+    },
+    {
+        "tramo": "Av. Texcoco - San Juan de Aragón IV Sección"
+    },
+    {
+        "tramo": "Av. Texcoco - San Juan de Aragón V Sección"
+    },
+    {
+        "tramo": "Av. Texcoco - Sta. Martha Acatitla Norte"
+    },
+    {
+        "tramo": "Av. Texcoco - Juan Escutia"
+    },
+    {
+        "tramo": "Camino A Nativitas - Barrio Xaltocan"
+    },
+    {
+        "tramo": "Camino A Sta. Teresa - Zacayucan Peña Pobre"
+    },
+    {
+        "tramo": "Camino A Sta. Teresa - Sta. Teresa"
+    },
+    {
+        "tramo": "Camino A Sta. Teresa - Villa Olímpica"
+    },
+    {
+        "tramo": "Camino A Sta. Teresa - Parque del Pedregal"
+    },
+    {
+        "tramo": "Camino A Sta. Teresa - Fuentes del Pedregal"
+    },
+    {
+        "tramo": "Av. Constituyentes - Belem de las Flores"
+    },
+    {
+        "tramo": "Av. Constituyentes - Bosque de Chapultepec III Sección"
+    },
+    {
+        "tramo": "Eje 3 Sur - Calz. Chabacano - Ampliación Asturias"
+    },
+    {
+        "tramo": "Calz. de las Águilas - Ampliación Alpes"
+    },
+    {
+        "tramo": "Calz. Gral. Ignacio Zaragoza - Agrícola Oriental"
+    },
+    {
+        "tramo": "Calz. Gral. Ignacio Zaragoza - Pueblo Sta. Martha Acatitla"
+    },
+    {
+        "tramo": "Av. Constituyentes - Daniel Garza"
+    },
+    {
+        "tramo": "Eje 1 Sur - José María Izazaga - Centro"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - Jardines del Pedregal de San Áng"
+    },
+    {
+        "tramo": "Anillo Periférico - Canal de San Juan - Tepalcates"
+    },
+    {
+        "tramo": "Anillo Periférico - Canal de San Juan - Agrícola Oriental"
+    },
+    {
+        "tramo": "Anillo Periférico - Canal de San Juan - Juan Escutia"
+    },
+    {
+        "tramo": "Calz. Gral. Ignacio Zaragoza - Moctezuma 1a Sección"
+    },
+    {
+        "tramo": "Calz. Gral. Ignacio Zaragoza - Pueblo San Lorenzo Xicoténcatl"
+    },
+    {
+        "tramo": "Calz. Gral. Ignacio Zaragoza - Tepalcates"
+    },
+    {
+        "tramo": "Calz. Gral. Ignacio Zaragoza - Chinampac de Juárez"
+    },
+    {
+        "tramo": "Av. Observatorio - 16 de Septiembre"
+    },
+    {
+        "tramo": "Viaducto - Río Becerra - Ampliación Nápoles"
+    },
+    {
+        "tramo": "Eje 4 Sur - Xola - Álamos"
+    },
+    {
+        "tramo": "Eje 6 Sur - Tintoreto - Cd. de los Deportes"
+    },
+    {
+        "tramo": "Eje 10 Sur - Av. San Jerónimo - Jardines del Pedregal"
+    },
+    {
+        "tramo": "Viaducto Tlalpan - Barrio del Niño Jesús"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Av. H Congreso de la Unión - Sevilla"
+    },
+    {
+        "tramo": "Viaducto - Río de la Piedad - Sta. Anita"
+    },
+    {
+        "tramo": "Av. Observatorio - Cove"
+    },
+    {
+        "tramo": "Av. Universidad - Barrio Oxtopulco Universidad"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Del Carmen"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Portales Sur"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Belisario Domínguez Sección XVI"
+    },
+    {
+        "tramo": "Av. Constituyentes - Lomas Altas"
+    },
+    {
+        "tramo": "Viaducto - Río de la Piedad - Gral. Ignacio Zaragoza"
+    },
+    {
+        "tramo": "Viaducto - Río de la Piedad - Agrícola Oriental"
+    },
+    {
+        "tramo": "Calz. Gral. Ignacio Zaragoza - Valentín Gómez Farías"
+    },
+    {
+        "tramo": "Viaducto - Río de la Piedad - Magdalena Mixiuhca"
+    },
+    {
+        "tramo": "Av. Observatorio - Las Américas"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Azúcar - Granjas México"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Consulado - Arenal"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Consulado - San Juan de Aragón II Sección"
+    },
+    {
+        "tramo": "Eje 2 Norte - Canal del Norte - Emilio Carranza"
+    },
+    {
+        "tramo": "Eje 4 Sur - Xola - Narvarte Poniente"
+    },
+    {
+        "tramo": "Av. Pacífico - Pueblo de los Reyes"
+    },
+    {
+        "tramo": "Eje 5 Sur - Prolongación San Antonio - Carola"
+    },
+    {
+        "tramo": "Eje 6 Sur - Trabajadores Sociales - Pueblo Magdalena Atlazolpa"
+    },
+    {
+        "tramo": "Av. Paseo de la Reforma - Lomas Altas"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Calz. de la Viga - Merced Balbuena"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Churubusco - Portales Sur"
+    },
+    {
+        "tramo": "Eje 8 Sur - José María Rico - Actipan"
+    },
+    {
+        "tramo": "Anillo Periférico - Canal de Garay - Casa Blanca"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - Arenal Tepepan"
+    },
+    {
+        "tramo": "Calz. Gral. Ignacio Zaragoza - 7 de Julio"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Churubusco - San José Aculco"
+    },
+    {
+        "tramo": "Calz. Acoxpa - Residencial Villa Coapa"
+    },
+    {
+        "tramo": "Eje 7 Sur - Municipio Libre - Residencial Emperadores"
+    },
+    {
+        "tramo": "La Viga - Nueva Sta. Anita"
+    },
+    {
+        "tramo": "La Viga - Jamaica"
+    },
+    {
+        "tramo": "Calz. del Hueso - Vergel Coapa"
+    },
+    {
+        "tramo": "Av. Paseo de la Reforma - Morelos"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Churubusco - Infonavit Iztacalco"
+    },
+    {
+        "tramo": "Calz. Acoxpa - Villa Lázaro Cárdenas"
+    },
+    {
+        "tramo": "Calz. Acoxpa - Vergel del Sur"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Pueblo San Lorenzo Huipulco"
+    },
+    {
+        "tramo": "Calz. Gral. Ignacio Zaragoza - Federal"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Toriello Guerra"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Tlalpan Centro"
+    },
+    {
+        "tramo": "Viaducto - Río de la Piedad - Granjas México"
+    },
+    {
+        "tramo": "Eje 4 Sur - Napoleón - Moderna"
+    },
+    {
+        "tramo": "Calz. Gral. Ignacio Zaragoza - Jardín Balbuena"
+    },
+    {
+        "tramo": "Av. Paseo de la Reforma - Lomas de Chapultepec IV Sección"
+    },
+    {
+        "tramo": "Calz. Gral. Ignacio Zaragoza - Sta. Martha Acatitla Norte"
+    },
+    {
+        "tramo": "Calz. Acoxpa - Villa Coapa"
+    },
+    {
+        "tramo": "Calz. Gral. Ignacio Zaragoza - Juan Escutia"
+    },
+    {
+        "tramo": "Viaducto - Río Becerra - San Pedro de los Pinos"
+    },
+    {
+        "tramo": "Calz. Gral. Ignacio Zaragoza - Agrícola Pantitlán"
+    },
+    {
+        "tramo": "Calz. Gral. Ignacio Zaragoza - Ampliación Aviación Civil"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Av. H Congreso de la Unión - Felipe Ángeles"
+    },
+    {
+        "tramo": "Calz. Gral. Ignacio Zaragoza - Puebla"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Churubusco - Ermita"
+    },
+    {
+        "tramo": "Eje 3 Norte - Av. Cuitláhuac - Aguilera"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Av. H Congreso de la Unión - 7 de Noviembre"
+    },
+    {
+        "tramo": "Calz. Gral. Ignacio Zaragoza - Sta. Cruz Aviación"
+    },
+    {
+        "tramo": "Eje 2 A Sur - Manuel Payno - Obrera"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Consulado - 7 de Noviembre"
+    },
+    {
+        "tramo": "Camino A Sta. Teresa - Rincón del Pedregal"
+    },
+    {
+        "tramo": "Anillo Periférico - Canal de Garay - José López Portillo"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Consulado - Fernando Casas Alemán"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Villa de Cortés"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Churubusco - Ampliación Sinatel"
+    },
+    {
+        "tramo": "Anillo Periférico - Canal de Garay - El Vergel"
+    },
+    {
+        "tramo": "Calz. del Hueso - Granjas Coapa"
+    },
+    {
+        "tramo": "Eje 2 Poniente - Gabriel Mancera - Del Valle Centro"
+    },
+    {
+        "tramo": "Circuito Interior - Blv. Puerto Aéreo - Valentín Gómez Farías"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Churubusco - Carlos Zapata Vela"
+    },
+    {
+        "tramo": "Av. Paseo de la Reforma - Lomas de Chapultepec V Sección"
+    },
+    {
+        "tramo": "Camino de los Toros - América"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Jesús Galindo y Villa - Jardín Balbuena"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Consulado - Aquiles Serdán"
+    },
+    {
+        "tramo": "Cumbres de Maltrata - Periodista"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - Portales Sur"
+    },
+    {
+        "tramo": "Calz. Gral. Ignacio Zaragoza - Gral. Ignacio Zaragoza"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - Parque del Pedregal"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - Jardines en la Montaña"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - Isidro Fabela"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - Comuneros de Sta. Úrsula"
+    },
+    {
+        "tramo": "Carretera Federal México Toluca - Lomas de Bezares"
+    },
+    {
+        "tramo": "Carretera Federal México Toluca - Cuajimalpa de Morelos"
+    },
+    {
+        "tramo": "Carretera Federal México Toluca - Memetla"
+    },
+    {
+        "tramo": "Carretera Federal México Toluca - Lomas de Sta. Fé"
+    },
+    {
+        "tramo": "Viaducto - Río de la Piedad - Jardín Balbuena"
+    },
+    {
+        "tramo": "Anillo Periférico - Canal de Garay - Puente Blanco"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Manuel Ávila Camacho - Irrigación"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Manuel Ávila Camacho - Periodista"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - Residencial Villa Coapa"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - Granjas Coapa"
+    },
+    {
+        "tramo": "Eje 6 Poniente - Calz. Ingenieros Militares - San Lorenzo Tlatenango"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Zacahuitzco"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Azúcar - La Cruz"
+    },
+    {
+        "tramo": "Av. 602 - San Juan de Aragón III Sección"
+    },
+    {
+        "tramo": "Av. Constituyentes - 16 de Septiembre"
+    },
+    {
+        "tramo": "Eje 10 Sur - Av. San Jerónimo - Barrio la Otra Banda"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - Olímpica"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Manuel Ávila Camacho - Reforma Social"
+    },
+    {
+        "tramo": "Prolongación 5 de Mayo - Lomas de Tarango"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Mixcoac - Florida"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Churubusco - El Prado"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Miravalle"
+    },
+    {
+        "tramo": "Molinos - Mixcoac"
+    },
+    {
+        "tramo": "Anillo Periférico - Canal de Garay - La Era"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - San Bartolo el Chico"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - Pueblo Sta. María Tepepan"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Consulado - Peñón de los Baños"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - Insurgentes Cuicuilco"
+    },
+    {
+        "tramo": "Av. Observatorio - Observatorio"
+    },
+    {
+        "tramo": "Av. Observatorio - Daniel Garza"
+    },
+    {
+        "tramo": "Av. Observatorio - Hidalgo"
+    },
+    {
+        "tramo": "Av. Tezozomoc - Barrio Sta. Lucía"
+    },
+    {
+        "tramo": "Eje 3 Sur - José Peon Contreras - Obrera"
+    },
+    {
+        "tramo": "Eje 3 Norte - Calz. Camarones - Del Recreo"
+    },
+    {
+        "tramo": "Eje 3 Norte - Av. Cuitláhuac - Victoria de las Democracias"
+    },
+    {
+        "tramo": "Eje 3 Norte - Av. Cuitláhuac - Ampliación Cosmopolita"
+    },
+    {
+        "tramo": "Eje 3 Norte - Av. Cuitláhuac - Liberación"
+    },
+    {
+        "tramo": "Eje 3 Norte - Av. Cuitláhuac - Potrero del Llano"
+    },
+    {
+        "tramo": "Viaducto - Río de la Piedad - Puebla"
+    },
+    {
+        "tramo": "Eje 3 Sur - Dr. Ignacio Morones Prieto - Doctores"
+    },
+    {
+        "tramo": "Eje 3 Norte - Ángel Albino Corzo (Oriente 101) - San Juan de Aragón I Sección"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - Guadalupe"
+    },
+    {
+        "tramo": "Anillo Periférico - Pueblo San Lorenzo Huipulco - Pueblo San Lorenzo Huipulco"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - Toriello Guerra"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - Bosques de Tetlameya"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - San Jerónimo Aculco"
+    },
+    {
+        "tramo": "Viaducto - Río Becerra - Nápoles"
+    },
+    {
+        "tramo": "Eje 4 Sur - Av. Te - Gabriel Ramos Millán Sección Bramadero"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - Cantil del Pedregal"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Mixcoac - Actipan"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Churubusco - Del Carmen"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Churubusco - Unidad Modelo"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Consulado - La Joya"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Calz. de la Viga - Barrio la Asunción"
+    },
+    {
+        "tramo": "Av. Constituyentes - América"
+    },
+    {
+        "tramo": "Calz. Gral. Ignacio Zaragoza - 4 Arboles"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - Pueblo Quieto"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Churubusco - El Sifon"
+    },
+    {
+        "tramo": "Viaducto Tlalpan - Pueblo San Lorenzo Huipulco"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Mixcoac - Crédito Constructor"
+    },
+    {
+        "tramo": "Eje 3 Poniente - Sevilla - Juárez"
+    },
+    {
+        "tramo": "Eje 1 Norte - Hangares de Aviación Fuerza Aérea Mexicana - Federal"
+    },
+    {
+        "tramo": "Viaducto Tlalpan - Arenal Tepepan"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Churubusco - Gabriel Ramos Millán Sección Bramadero"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Consulado - La Malinche"
+    },
+    {
+        "tramo": "Av. Tláhuac - Barrio de Guadalupe"
+    },
+    {
+        "tramo": "Eje 10 Sur - Av. San Jerónimo - Pueblo Tizapán"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Churubusco - Escuadrón 201"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Canal de Miramontes - Jardines de Coyoacán"
+    },
+    {
+        "tramo": "Prolongación 5 de Mayo - Merced Gómez"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Consulado - Peralvillo"
+    },
+    {
+        "tramo": "Av. Constituyentes - Ampliación Daniel Garza"
+    },
+    {
+        "tramo": "Eje 3 Sur - Av. Ferrocarril de Río Frío - Cuchilla del Moral"
+    },
+    {
+        "tramo": "Eje 6 Oriente - Av. Telecomunicaciones - Chinampac de Juárez"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Vía Láctea - Prado Churubusco"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Consulado - Valle Gómez"
+    },
+    {
+        "tramo": "Vía Tapo - Cuchilla del Tesoro"
+    },
+    {
+        "tramo": "Eje 5 Sur - Purísima - Nueva Rosita"
+    },
+    {
+        "tramo": "Eje 2 Sur - Av. Yucatán - Roma Norte"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Jesús Galindo y Villa - Gral. Ignacio Zaragoza"
+    },
+    {
+        "tramo": "Av. Balderas - Centro"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Ferrocarril Hidalgo - 7 de Noviembre"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Churubusco - San Diego Churubusco"
+    },
+    {
+        "tramo": "Circuito Interior - Blv. Puerto Aéreo - Moctezuma 2a Sección"
+    },
+    {
+        "tramo": "Eje 7 A Sur - Oriente 172 - Banjidal"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Churubusco - Pueblo Aculco"
+    },
+    {
+        "tramo": "Carretera Federal México Toluca - San Gabriel"
+    },
+    {
+        "tramo": "Eje 4 Sur - Chilpancingo - Roma Sur"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Espartaco"
+    },
+    {
+        "tramo": "Calz. San Antonio Abad - Obrera"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Consulado - Ampliación del Gas"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - San Mateo"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Consulado - Nueva Tenochtitlan"
+    },
+    {
+        "tramo": "Eje 1 Norte - Talleres Gráficos - Agrícola Pantitlán"
+    },
+    {
+        "tramo": "Alfonso Reyes - Hipódromo Condesa"
+    },
+    {
+        "tramo": "Av. Gran Canal - El Coyol"
+    },
+    {
+        "tramo": "Av. Insurgentes Norte - Sta. María la Ribera"
+    },
+    {
+        "tramo": "Av. Insurgentes Norte - Sta. Isabel Tola"
+    },
+    {
+        "tramo": "Calz. de las Águilas - Villa Verdun"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Barrio del Niño Jesús"
+    },
+    {
+        "tramo": "Calz. Gral. Ignacio Zaragoza - El Paraíso"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Consulado - 5o Tramo 20 de Noviembre"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Consulado - Vallejo"
+    },
+    {
+        "tramo": "Dr. José María Vértiz - Narvarte Oriente"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Canal de Miramontes - Narciso Mendoza"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Av. del Trabajo - Morelos"
+    },
+    {
+        "tramo": "Eje 1 Sur - Av. Chapultepec - Juárez"
+    },
+    {
+        "tramo": "Eje 1 Sur - Av. Chapultepec - Roma Norte"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Calz. de la Viga - El Retoño"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Calz. de la Viga - Barrio Zapotla"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Calz. de la Viga - Héroes de Churubusco"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Calz. de la Viga - Pueblo Mexicaltzingo"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Calz. de la Viga - Sector Popular"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Calz. de la Viga - Militar Marte"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Calz. de la Viga - Barrio San Francisco Xicaltongo"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Calz. de la Viga - Unidad Modelo"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Calz. de la Viga - Barrio Santiago Sur"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Heroica Escuela Naval Militar - Paseos de Taxqueña"
+    },
+    {
+        "tramo": "Eje 3 Poniente - Av. Coyoacán - Del Valle Sur"
+    },
+    {
+        "tramo": "Eje 4 Norte - Av. 510 - Pueblo San Juan de Aragón"
+    },
+    {
+        "tramo": "Eje 4 Norte - Ahuehuetes - Pasteros"
+    },
+    {
+        "tramo": "Eje 4 Norte - Av. Fortuna - Churubusco Tepeyac"
+    },
+    {
+        "tramo": "Eje 4 Norte - Poniente 128 - Nueva Vallejo"
+    },
+    {
+        "tramo": "Eje 4 Norte - Azcapotzalco la Villa - El Jaguey"
+    },
+    {
+        "tramo": "Eje 4 Norte - Azcapotzalco la Villa - Sto. Tomás"
+    },
+    {
+        "tramo": "Eje 4 Norte - Azcapotzalco la Villa - Barrio Huautla de las Salinas"
+    },
+    {
+        "tramo": "Eje 4 Norte - Azcapotzalco la Villa - Las Salinas"
+    },
+    {
+        "tramo": "Eje 4 Norte - Esperanza - Sta. Inés"
+    },
+    {
+        "tramo": "Eje 4 Norte - Euzkaro - Industrial"
+    },
+    {
+        "tramo": "Eje 4 Norte - Refinería Azcapotzalco - Reynosa Tamaulipas"
+    },
+    {
+        "tramo": "Eje 4 Norte - Av. Talismán - Aragón Inguaran"
+    },
+    {
+        "tramo": "Eje 4 Norte - Av. Talismán - Gertrudis Sánchez 1a Sección"
+    },
+    {
+        "tramo": "Eje 4 Norte - Av. Talismán - Gertrudis Sánchez 2a Sección"
+    },
+    {
+        "tramo": "Eje 4 Norte - Av. Talismán - San Pedro el Chico"
+    },
+    {
+        "tramo": "Eje 4 Norte - Av. Talismán - Ampliación San Juan de Aragón"
+    },
+    {
+        "tramo": "Eje 4 Norte - Av. Talismán - Tres Estrellas"
+    },
+    {
+        "tramo": "Eje 4 Oriente - Av. Río Churubusco - Paseos de Churubusco"
+    },
+    {
+        "tramo": "Eje 4 Sur - Benjamín Franklin - Escandón I Sección"
+    },
+    {
+        "tramo": "Eje 6 Sur - Av. de las Torres - Paraje Zacatepec"
+    },
+    {
+        "tramo": "Eje 6 Sur - Av. de las Torres - Monte Albán"
+    },
+    {
+        "tramo": "Eje 6 Sur - Trabajadores Sociales - Jardines de Churubusco"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Av. Andrés Molina Enriquez - Barrio Santiago Sur"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Av. Andrés Molina Enriquez - Viaducto Piedad"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Churubusco - Granjas México"
+    },
+    {
+        "tramo": "Viaducto - Río de la Piedad - La Cruz"
+    },
+    {
+        "tramo": "Viaducto - Río de la Piedad - Viaducto Piedad"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Churubusco - El Retoño"
+    },
+    {
+        "tramo": "Viaducto Tlalpan - Villa Tlalpan"
+    },
+    {
+        "tramo": "Viaducto Tlalpan - La Joya"
+    },
+    {
+        "tramo": "Carretera Federal México Cuernavaca - Pueblo San Andrés Totoltepec"
+    },
+    {
+        "tramo": "Carretera Federal México Toluca - Granjas Palo Alto"
+    },
+    {
+        "tramo": "Av. Tláhuac - Pueblo Sta. María Tomatlán"
+    },
+    {
+        "tramo": "Av. Sta. Ana - Culhuacán CTM Croc"
+    },
+    {
+        "tramo": "Anillo Periférico - Canal de Garay - Año de Juárez"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Churubusco - Sector Popular"
+    },
+    {
+        "tramo": "Eje 7 A Sur - Oriente 172 - Justo Sierra"
+    },
+    {
+        "tramo": "Av. Paseo de la Reforma - Lomas de Bezares"
+    },
+    {
+        "tramo": "Eje 2 Sur - José T Cuellar - Obrera"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Av. H Congreso de la Unión - Michoacana"
+    },
+    {
+        "tramo": "Av. Tláhuac - Lomas Estrella"
+    },
+    {
+        "tramo": "Anillo Periférico - Canal de Garay - Cerro de la Estrella"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Patriotismo - San Juan"
+    },
+    {
+        "tramo": "Eje 3 Norte - Calz. San Isidro - Pueblo San Pedro Xalpa"
+    },
+    {
+        "tramo": "Anillo Periférico - Av. Río de los Remedios - Nueva Atzacoalco"
+    },
+    {
+        "tramo": "Eje 2 A Sur - Dr. Balmis - Doctores"
+    },
+    {
+        "tramo": "Economía - Federal"
+    },
+    {
+        "tramo": "Eje 1 Norte - Norte 17 - Moctezuma 2a Sección"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Calz. de la Viga - Apatlaco"
+    },
+    {
+        "tramo": "Calz. Gral. Ignacio Zaragoza - Ejército de Oriente"
+    },
+    {
+        "tramo": "Carretera Federal México Cuernavaca - Pueblo San Pedro Mártir"
+    },
+    {
+        "tramo": "Av. Vito Alessio Robles - Florida"
+    },
+    {
+        "tramo": "Calz. Gral. Ignacio Zaragoza - Ermita Zaragoza"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Calz. de la Viga - Lorenzo Boturini"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Churubusco - Gral. Pedro Ma. Anaya"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Canal de Miramontes - Residencial Acoxpa"
+    },
+    {
+        "tramo": "Anillo Periférico - Canal de Garay - La Esperanza"
+    },
+    {
+        "tramo": "Calz. México Xochimilco - Arenal de Guadalupe"
+    },
+    {
+        "tramo": "Av. Tláhuac - Barrio Sta. Ana Poniente"
+    },
+    {
+        "tramo": "Av. Puente de Alvarado - Buenavista"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Churubusco - Churubusco Country Club"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Av. Canal de Miramontes - Jardines de Coyoacán"
+    },
+    {
+        "tramo": "Eje 6 Sur - Trabajadores Sociales - Barrio San José"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Mixcoac - San José Insurgentes"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - San Jerónimo Lidice"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Ing. Eduardo Molina - Venustiano Carranza"
+    },
+    {
+        "tramo": "Eje 3 Sur - Calz. Chabacano - Vista Alegre"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Av. H Congreso de la Unión - Mártires de Río Blanco"
+    },
+    {
+        "tramo": "Av. Oaxaca - Roma Norte"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Av. Andrés Molina Enriquez - San Andrés Tetepilco"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Av. H Congreso de la Unión - Del Parque"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - Héroes de Padierna"
+    },
+    {
+        "tramo": "Eje 2 Norte - Canal del Norte - 20 de Noviembre"
+    },
+    {
+        "tramo": "Av. Tláhuac - La Esperanza"
+    },
+    {
+        "tramo": "Calz. Desierto de los Leones - Atlamaya"
+    },
+    {
+        "tramo": "Av. del Imán - Pedregal de Carrasco"
+    },
+    {
+        "tramo": "Av. del Imán - Joyas del Pedregal"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Canal de Miramontes - Alianza Popular Revolucionaria"
+    },
+    {
+        "tramo": "Eje 2 Sur - Av. Yucatán - Hipódromo"
+    },
+    {
+        "tramo": "Carretera Federal México Toluca - Cooperativa Palo Alto"
+    },
+    {
+        "tramo": "Carretera Federal México Toluca - Locaxco"
+    },
+    {
+        "tramo": "Carretera Federal México Toluca - El Molinito"
+    },
+    {
+        "tramo": "Carretera Federal México Toluca - Contadero"
+    },
+    {
+        "tramo": "Carretera Federal México Toluca - Lomas de Vista Hermosa"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Revolución - Escandón I Sección"
+    },
+    {
+        "tramo": "Carretera Federal México Cuernavaca - Pueblo San Miguel Xicalco"
+    },
+    {
+        "tramo": "Av. Tláhuac - Sta. Cecilia"
+    },
+    {
+        "tramo": "Carretera Federal México Cuernavaca - Pueblo Chimalcoyotl"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Patriotismo - Escandón I Sección"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Ing. Eduardo Molina - 20 de Noviembre"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Consulado - Simón Bolívar"
+    },
+    {
+        "tramo": "Eje 5 Sur - Purísima - El Triunfo"
+    },
+    {
+        "tramo": "Eje 5 Sur - Prolongación Marcelino Buendía - Renovación"
+    },
+    {
+        "tramo": "Eje 3 Sur - Av. Ferrocarril de Río Frío - Dr. Alfonso Ortiz Tirado"
+    },
+    {
+        "tramo": "Av. Tláhuac - Pueblo San Francisco Tlaltenco"
+    },
+    {
+        "tramo": "Viaducto Tlalpan - Viejo Ejido de Sta. Úrsula Coapa"
+    },
+    {
+        "tramo": "Anillo Periférico - Canal de Garay - San Juan Estrella"
+    },
+    {
+        "tramo": "Av. Universidad - Barrio Sta. Catarina"
+    },
+    {
+        "tramo": "Eje 2 Sur - Av. del Taller - Artes Gráficas"
+    },
+    {
+        "tramo": "Calz. Acoxpa - Pueblo San Lorenzo Huipulco"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - Rincón del Pedregal"
+    },
+    {
+        "tramo": "Barranca del Muerto - Florida"
+    },
+    {
+        "tramo": "Anillo Periférico - Av. Río de los Remedios - San Felipe de Jesús"
+    },
+    {
+        "tramo": "Anillo Periférico - Calle 7 - Agrícola Pantitlán"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Churubusco - Ampliación Gabriel Ramos Millán"
+    },
+    {
+        "tramo": "Av. Tláhuac - Cerro de la Estrella"
+    },
+    {
+        "tramo": "Circuito Interior - Blv. Puerto Aéreo - Industrial Puerto Aéreo"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Consulado - Héroes de Cerro Prieto"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Consulado - Pensador Mexicano"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Consulado - Sta. María Insurgentes"
+    },
+    {
+        "tramo": "Av. Tláhuac - Granjas Estrella"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Consulado - La Raza"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Calz. Vallejo - Pueblo San Andrés de las Salinas"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Churubusco - Gabriel Ramos Millán"
+    },
+    {
+        "tramo": "Eje 4 Norte - Azcapotzalco la Villa - Industrial Vallejo"
+    },
+    {
+        "tramo": "Eje 4 Norte - Av. Fortuna - Magdalena de las Salinas"
+    },
+    {
+        "tramo": "Av. Gran Canal - Ampliación Casas Alemán"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Ferrocarril Hidalgo - Granjas Modernas"
+    },
+    {
+        "tramo": "Av. Tláhuac - Año de Juárez"
+    },
+    {
+        "tramo": "Eje 3 Norte - Ángel Albino Corzo (Oriente 101) - Belisario Domínguez"
+    },
+    {
+        "tramo": "Av. Gran Canal - Gertrudis Sánchez 2a Sección"
+    },
+    {
+        "tramo": "Viaducto Tlalpan - San Buenaventura"
+    },
+    {
+        "tramo": "Av. Gran Canal - San Pedro el Chico"
+    },
+    {
+        "tramo": "Av. Gran Canal - San Felipe de Jesús"
+    },
+    {
+        "tramo": "Viaducto Tlalpan - Villa Lázaro Cárdenas"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Calz. Vallejo - Pueblo San Francisco Xocotitla"
+    },
+    {
+        "tramo": "Calz. México Xochimilco - Pueblo San Lorenzo Huipulco"
+    },
+    {
+        "tramo": "Eje 1 Norte - Hangares de Aviación Fuerza Aérea Mexicana - 4 Arboles"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Consulado - Felipe Ángeles"
+    },
+    {
+        "tramo": "Av. Tláhuac - Sta. Isabel Industrial"
+    },
+    {
+        "tramo": "Carretera Federal México Toluca - El Molino"
+    },
+    {
+        "tramo": "Eje 1 Norte - Av. Xochimilco - Agrícola Pantitlán"
+    },
+    {
+        "tramo": "Anillo Periférico - Av. Río de los Remedios - Juan González Romero"
+    },
+    {
+        "tramo": "Eje 1 Norte - Av. del Trabajo - Morelos"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Calz. de la Viga - Barrio Santiago Norte"
+    },
+    {
+        "tramo": "Calz. Legaria - Deportivo Pensil"
+    },
+    {
+        "tramo": "Eje 4 Sur - San Rafael Atlixco - Real del Moral"
+    },
+    {
+        "tramo": "Calz. Gral. Ignacio Zaragoza - Sta. Martha Acatitla Sur"
+    },
+    {
+        "tramo": "Calz. Legaria - Legaria"
+    },
+    {
+        "tramo": "Anillo Periférico - Av. Río de los Remedios - Sta. María Ticomán"
+    },
+    {
+        "tramo": "Eje 1 A Sur - Av. 8 Gral. Francisco Morazan - Gral. Ignacio Zaragoza"
+    },
+    {
+        "tramo": "Puente de la Morena - Escandón I Sección"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - Belisario Domínguez Sección XVI"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Ferrocarril Hidalgo (Gral. Mariano Arista) - 15 de Agosto"
+    },
+    {
+        "tramo": "Eje 10 Sur - Carretera A Sta. Catarina - Pueblo San Francisco Tlaltenco"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Boleo - Nicolás Bravo"
+    },
+    {
+        "tramo": "Carretera Federal México Toluca - Paseo de las Lomas"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Mixcoac - Insurgentes Mixcoac"
+    },
+    {
+        "tramo": "Av. Parque Vía - Cuauhtémoc"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Ferrocarril Hidalgo (Gral. Mariano Arista) - Constitución de la"
+    },
+    {
+        "tramo": "Eje 4 Sur - Rafael Donde - Del Valle Norte"
+    },
+    {
+        "tramo": "Calz. México Xochimilco - Amsa"
+    },
+    {
+        "tramo": "Av. Tláhuac - La Nopalera"
+    },
+    {
+        "tramo": "Av. Tláhuac - El Triángulo"
+    },
+    {
+        "tramo": "Av. Tláhuac - El Rosario"
+    },
+    {
+        "tramo": "Eje 2 Norte - Canal del Norte - Ampliación Michoacana"
+    },
+    {
+        "tramo": "Eje 2 Norte - Canal del Norte - Morelos"
+    },
+    {
+        "tramo": "Eje 3 Norte - Av. Cuitláhuac - Porvenir"
+    },
+    {
+        "tramo": "Eje 4 Norte - Av. Fortuna - Valle del Tepeyac"
+    },
+    {
+        "tramo": "Eje 4 Norte - Ant. Calz. de Guadalupe - Barrio San Marcos"
+    },
+    {
+        "tramo": "Eje 4 Norte - Ant. Calz. de Guadalupe - Barrio Nuevo Barrio San Rafael"
+    },
+    {
+        "tramo": "Eje 4 Norte - Refinería Azcapotzalco - Barrio San Andrés"
+    },
+    {
+        "tramo": "Eje 4 Norte - Refinería Azcapotzalco - Sta. Inés"
+    },
+    {
+        "tramo": "Eje 5 Norte - Deportivo Reynosa - Nueva el Rosario"
+    },
+    {
+        "tramo": "Av. Miguel Bernard - Nueva Industrial Vallejo"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Consulado - Ex-Escuela de Tiro"
+    },
+    {
+        "tramo": "Av. Gran Canal - Nueva Atzacoalco"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Mixcoac - Acacias"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - Lindavista Vallejo 2a Sección"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - Centro"
+    },
+    {
+        "tramo": "Autopista Mexico-Pachuca - Ampliación Gabriel Hernández"
+    },
+    {
+        "tramo": "Autopista México-Pachuca - Sta. Isabel Tola"
+    },
+    {
+        "tramo": "Autopista Mexico-Pachuca - CTM Atzacoalco"
+    },
+    {
+        "tramo": "Eje 6 A Poniente - Av. de las Granjas - Libertad"
+    },
+    {
+        "tramo": "Av. Gran Canal - 25 de Julio"
+    },
+    {
+        "tramo": "Av. Gran Canal - Héroes de Chapultepec"
+    },
+    {
+        "tramo": "Av. Gran Canal - D M Nacional"
+    },
+    {
+        "tramo": "Av. Gran Canal - La Esmeralda"
+    },
+    {
+        "tramo": "Av. Industria Militar - Residencial Militar"
+    },
+    {
+        "tramo": "Av. Tláhuac - 12 de Diciembre"
+    },
+    {
+        "tramo": "Av. Tláhuac - Ampliación los Olivos"
+    },
+    {
+        "tramo": "Av. Tláhuac - Ampliación los Reyes"
+    },
+    {
+        "tramo": "Av. Tláhuac - Barrio San Antonio Culhuacán"
+    },
+    {
+        "tramo": "Av. Tláhuac - Barrio San Lorenzo"
+    },
+    {
+        "tramo": "Av. Tláhuac - Estrella Culhuacán"
+    },
+    {
+        "tramo": "Av. Tláhuac - Fuego Nuevo"
+    },
+    {
+        "tramo": "Av. Tláhuac - Los Olivos"
+    },
+    {
+        "tramo": "Av. Tláhuac - Lomas de San Lorenzo"
+    },
+    {
+        "tramo": "Av. Tláhuac - Pueblo los Reyes Culhuacán"
+    },
+    {
+        "tramo": "Av. Tláhuac - Ojo de Agua"
+    },
+    {
+        "tramo": "Av. Tláhuac - Pueblo Culhuacán"
+    },
+    {
+        "tramo": "Av. Tláhuac - El Vergel"
+    },
+    {
+        "tramo": "Av. Tláhuac - Zacatenco"
+    },
+    {
+        "tramo": "Calz. Acoxpa - Viejo Ejido de Sta. Úrsula Coapa"
+    },
+    {
+        "tramo": "Calz. Acoxpa - Prado Coapa 2a Sección"
+    },
+    {
+        "tramo": "La Viga - Barrio San Francisco Xicaltongo"
+    },
+    {
+        "tramo": "La Viga - Sta. Anita"
+    },
+    {
+        "tramo": "Calz. de las Águilas - Flor de María"
+    },
+    {
+        "tramo": "Calz. de las Águilas - Lomas Axomiatla"
+    },
+    {
+        "tramo": "Calz. de Tlalpan - Albert"
+    },
+    {
+        "tramo": "Calz. del Hueso - Ex-Hacienda Coapa"
+    },
+    {
+        "tramo": "Calz. Gral. Ignacio Zaragoza - Industrial Puerto Aéreo"
+    },
+    {
+        "tramo": "Camino A Nativitas - San Jerónimo"
+    },
+    {
+        "tramo": "Camino A Sta. Fé - Arturo Martínez"
+    },
+    {
+        "tramo": "Carretera Federal México Puebla - Ampliación Emiliano Zapata"
+    },
+    {
+        "tramo": "Carretera Federal México Puebla - Lomas de Zaragoza"
+    },
+    {
+        "tramo": "Carretera Federal México Puebla - Campestre Potrero"
+    },
+    {
+        "tramo": "Carretera Federal México Toluca - Abdias García Soto"
+    },
+    {
+        "tramo": "Carretera Federal México Toluca - Campestre Palo Alto"
+    },
+    {
+        "tramo": "Carretera Federal México Toluca - El Yaqui"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Patriotismo - Cd. de los Deportes"
+    },
+    {
+        "tramo": "Circuito Interior - Blv. Puerto Aéreo - Sta. Cruz Aviación"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Churubusco - Granjas de San Antonio"
+    },
+    {
+        "tramo": "Circuito Interior - Av. Río Consulado - Ampliación Simón Bolívar"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Canal de Miramontes - Vergel Coapa"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Canal de Miramontes - Ex-Hacienda Coapa"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Av. Centenario - Juan González Romero"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Av. Centenario - CTM el Risco"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Ferrocarril Hidalgo - La Joyita"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Boleo - Valle Gómez"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Calz. Vallejo - Barrio Coltongo"
+    },
+    {
+        "tramo": "Eje 1 Poniente - Calz. Vallejo - La Raza"
+    },
+    {
+        "tramo": "Eje 1 Sur - Arcos de Belén - Doctores"
+    },
+    {
+        "tramo": "Eje 1 A Sur - Av. Fray Servando Teresa de Mier - Aeronáutica Militar"
+    },
+    {
+        "tramo": "Eje 10 Sur - Av. Universidad - Copilco el Bajo"
+    },
+    {
+        "tramo": "Eje 10 Sur - Canoa - Pueblo Tizapán"
+    },
+    {
+        "tramo": "Eje 10 Sur - Carretera A Sta. Catarina - Guadalupe Tlaltenco"
+    },
+    {
+        "tramo": "Eje 10 Sur - Carretera A Sta. Catarina - Selene"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Calz. de la Viga - Barrio Sta. Cruz"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Calz. de la Viga - El Triunfo"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Calz. de la Viga - Pueblo San Juanico Nextipac"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Av. H Congreso de la Unión - Aragón Inguaran"
+    },
+    {
+        "tramo": "Eje 2 Oriente - Av. H Congreso de la Unión - Belisario Domínguez"
+    },
+    {
+        "tramo": "Eje 1 Oriente - Ferrocarril Hidalgo (Gral. Mariano Arista) - Salvador Díaz Mirón"
+    },
+    {
+        "tramo": "Eje 2 Sur - Av. Álvaro Obregón - Hipódromo"
+    },
+    {
+        "tramo": "Av. Álvaro Obregón - Roma Norte"
+    },
+    {
+        "tramo": "Eje 2 Sur - Av. del Taller - Aaron Sáenz"
+    },
+    {
+        "tramo": "Eje 2 Sur - Av. Nuevo León - Condesa"
+    },
+    {
+        "tramo": "Eje 2 Sur - Av. Nuevo León - Hipódromo"
+    },
+    {
+        "tramo": "Eje 2 Sur - Av. del Taller - Tránsito"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Arneses - Barrio Tula"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Av. Carlota Armero - San Francisco Culhuacán Barrio de San Franc"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Armada de México - Alianza Popular Revolucionaria"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Av. Carlota Armero - Culhuacán CTM Sección Piloto"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Av. Carlota Armero - Culhuacán CTM Sección V"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Av. Carlota Armero - Culhuacán CTM Sección VII"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Av. Cafetales - Culhuacán CTM Sección X"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Ing. Eduardo Molina - Ampliación Michoacana"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Ing. Eduardo Molina - Gertrudis Sánchez 2a Sección"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Ing. Eduardo Molina - La Malinche"
+    },
+    {
+        "tramo": "Eje 3 Oriente - Francisco del Paso y Troncoso - Purísima Atlazolpa"
+    },
+    {
+        "tramo": "Eje 3 Sur - Vainilla - Granjas México"
+    },
+    {
+        "tramo": "Eje 4 Norte - Refinería Azcapotzalco - Barrio San Marcos"
+    },
+    {
+        "tramo": "Eje 4 Norte - Refinería Azcapotzalco - Pueblo San Andrés"
+    },
+    {
+        "tramo": "Eje 4 Norte - Refinería Azcapotzalco - Pueblo Sto. Domingo"
+    },
+    {
+        "tramo": "Eje 4 Norte - Av. Talismán - Estrella"
+    },
+    {
+        "tramo": "Eje 4 Poniente - Av. Revolución - Los Alpes"
+    },
+    {
+        "tramo": "Eje 4 Sur - San Rafael Atlixco - El Rodeo"
+    },
+    {
+        "tramo": "Av. Canal de Tezontle - Leyes de Reforma 3a Sección"
+    },
+    {
+        "tramo": "Eje 4 Sur - Canal de Tezontle - Cuchilla del Moral"
+    },
+    {
+        "tramo": "Eje 5 Norte - Av. 412 - Villa de Aragón"
+    },
+    {
+        "tramo": "Eje 5 Norte - Calz. San Juan de Aragón - Indeco"
+    },
+    {
+        "tramo": "Eje 5 Norte - Calz. San Juan de Aragón - Héroes de Chapultepec"
+    },
+    {
+        "tramo": "Eje 5 Oriente - Javier Rojo Gómez - Cuchilla del Moral"
+    },
+    {
+        "tramo": "Eje 5 Sur - Av. Circunvalación - Ejército de Agua Prieta"
+    },
+    {
+        "tramo": "Eje 5 Sur - Prolongación Marcelino Buendía - Chinampac de Juárez"
+    },
+    {
+        "tramo": "Eje 6 Poniente - Calz. Ingenieros Militares - Argentina Poniente"
+    },
+    {
+        "tramo": "Eje 6 Sur - Ángel Urraza - Independencia"
+    },
+    {
+        "tramo": "Eje 6 Sur - Av. Jalisco - Leyes de Reforma 1a Sección"
+    },
+    {
+        "tramo": "Eje 6 Sur - Av. Jalisco - Leyes de Reforma 2a Sección"
+    },
+    {
+        "tramo": "Eje 6 Sur - Trabajadores Sociales - Barrio San Pedro"
+    },
+    {
+        "tramo": "Eje 7 Oriente - Av. Guelatao - Chinampac de Juárez"
+    },
+    {
+        "tramo": "Eje 7 Poniente - Calz. de las Armas - Pueblo San Pedro Xalpa"
+    },
+    {
+        "tramo": "Eje 7 Sur - Municipio Libre - Justo Sierra"
+    },
+    {
+        "tramo": "Eje 7 A Sur - Oriente 172 - Sinatel"
+    },
+    {
+        "tramo": "Eje Central - Lázaro Cárdenas - Periodista"
+    },
+    {
+        "tramo": "Av. Parque Vía - San Rafael"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - Arenal de Guadalupe"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - El Caracol"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - Pedregal de Carrasco"
+    },
+    {
+        "tramo": "Anillo Periférico - Blv. Adolfo Ruiz Cortines - Jardines del Pedregal"
+    },
+    {
+        "tramo": "Anillo Periférico - Av. Río de los Remedios - CTM el Risco"
+    }
+]

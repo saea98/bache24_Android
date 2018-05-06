@@ -1,0 +1,126 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.cmi.bache24.ui.fragment.NewsFragment"
+    android:orientation="vertical"
+    android:background="@color/window_background">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/layout_tweets_container"
+        android:visibility="gone">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:background="@color/text.background.color"
+            android:paddingBottom="10dp"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:paddingTop="10dp">
+
+            <!--<ImageView
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:id="@+id/image_profile_picture"
+                android:src="@drawable/button_normal"
+                android:scaleType="centerCrop"
+                />-->
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:id="@+id/image_profile_picture"
+                android:src="@drawable/user_registro"
+                android:scaleType="centerCrop"
+                />
+
+            <RelativeLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_gravity="center_vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="@string/news.twitter.name"
+                    android:id="@+id/textview_displayname"
+                    android:textColor="@color/text.color"
+                    android:textAllCaps="false"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerVertical="true"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="@string/news.twitter.username"
+                    android:id="@+id/textview_username"
+                    android:textColor="@color/text.color"
+                    android:textAllCaps="false"
+                    android:layout_below="@+id/textview_displayname"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_centerVertical="true" />
+
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/layout_history"
+            android:visibility="visible">
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/tweet_list"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@+id/selector_container"
+                android:visibility="visible" />
+
+            <!--<ListView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/tweet_list"></ListView>-->
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:gravity="center_horizontal"
+        android:id="@+id/layout_tweets_loader">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Cargando noticias"
+            android:id="@+id/textView34"
+            android:textColor="@color/gray_a" />
+
+        <ProgressBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/progressBar2"
+            android:indeterminate="false"
+            android:layout_marginTop="10dp" />
+    </LinearLayout>
+
+</RelativeLayout>
+

@@ -1,0 +1,741 @@
+<resources>
+    <string name="app_name">Bache 24</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Perfil</string>
+    <string name="login.subtitle">CD<b>MX</b></string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+    <string name="login.start.session.label">Inicia sesión</string>
+    <string name="login.forgot.password.label"><u>¿Olvidaste tu contraseña?</u></string>
+    <string name="login.email.placeholder">E-mail</string>
+    <string name="login.password.placeholder">Contraseña</string>
+    <string name="login.start.session.button.label">Entrar</string>
+    <string name="login.register.invitation.label">¿Aún no tienes cuenta? Regístrate</string>
+    <string name="login.register.facebook.button.label">Ingresa con Facebook</string>
+    <string name="login.register.twitter.button.label">Ingresa con Twitter</string>
+    <string name="login.register.email.button.label">Registrarme con E-mail</string>
+    <!--<string name="login.cmdx.description">Programa de baches \nde la ciudad de México</string>-->
+    <string name="login.cmdx.description">Programa de bacheo de la ciudad de México</string>
+    <string name="login.username.label">Usuario</string>
+
+    <string name="title_activity_report">ReportActivity</string>
+    <string name="title_activity_report_detail">ReportDetailActivity</string>
+    <string name="title_activity_user_history">UserHistoryActivity</string>
+
+    <string name="facebook_app_id">1527315194226582</string>
+    <string name="google_maps_key">AIzaSyAOsxPM4tP2kCoXtXlv4bjgC1SGZL3hK7E</string>
+
+    <string name="new.report.title"><b>BACHE-24</b> CD<b>MX</b></string>
+    <string name="new.report.button.title">Reportar un bache</string>
+
+    <string name="report.detail.title">Reportar bache</string>
+    <string name="report.detail.address.label">Ubicación</string>
+    <string name="report.detail.comments.label">Comentarios</string>
+    <string name="report.detail.optional.label">*Opcional</string>
+    <string name="report.detail.button.send">Enviar reporte</string>
+    <string name="report.detail.button.cancel">Cancelar</string>
+    <string name="report.detail.invalid.or.incomplete">Datos incompletos o inválidos, no se puede enviar el reporte</string>
+
+    <string name="menu.program.description">Descripción del programa</string>
+    <string name="menu.bache">¿Qué es un bache?</string>
+    <string name="menu.faqs">Preguntas frecuentes</string>
+    <string name="menu.payment">Pago de daño</string>
+    <string name="menu.news">Noticias</string>
+    <string name="menu.contact">Contacto</string>
+    <string name="menu.privacy">Aviso de Privacidad</string>
+    <string name="menu.terms">Términos de Uso</string>
+    <string name="menu.terms.2">Términos y Condiciones</string>
+    <string name="menu.primary.routes">Vialidades primarias</string>
+
+
+    <string name="menu.reports">Reportes</string>
+    <string name="menu.configuration">Configuración</string>
+    <string name="menu.about">Información de B-24</string>
+
+
+    <string name="title_activity_register">Registro de usuario nuevo</string>
+    <string name="register.add.picture">Subir foto</string>
+    <string name="register.label.name">Nombre</string>
+    <string name="register.label.email">E-mail</string>
+    <string name="register.label.phone">Teléfono</string>
+    <string name="register.label.password">Contraseña</string>
+    <string name="register.label.termsandconditions">He leído y acepto los <b><u>Términos y condiciones de
+    de uso</u></b>, así como la <b><u>Política de privacidad</u></b> de B-24</string>
+    <string name="register.button.session.label">Iniciar sesión</string>
+
+    <string name="report.dialog.title">Reporte enviado</string>
+    <string name="report.out.of.range.dialog.title">Reporte no enviado</string>
+    <string name="report.dialog.message1">¡Gracias por contribuir a mejorar nuestra CDMX! </string>
+    <string name="report.dialog.message2">Tu reporte ha sido enviado y está en espera de verificación.</string>
+    <!--<string name="report.dialog.message3">Te enviaremos un FOLIO DE REPORTE y estatus en las siguientes 24 hrs*</string>-->
+    <string name="report.dialog.message3">Tu FOLIO DE REPORTE es</string>
+    <string name="report.dialog.message4">Tu solicitud ha sido registrada con el folio número</string>
+
+    <string name="button.accept.label">Aceptar</string>
+
+    <string name="userprofile.history.button">Historial</string>
+    <string name="userprofile.profile.button">Perfil</string>
+
+    <string name="history.report.reportid.label">Reporte</string>
+    <string name="history.report.status.waiting">En espera de atención</string>
+    <string name="history.report.status.solved">Atendido</string>
+    <string name="history.report.status.no.valid">No aplica</string>
+    <string name="history.report.status.date">Última actualización</string>
+    <string name="title_activity_information">InformationActivity</string>
+    <string name="title_activity_faq">FaqActivity</string>
+    <string name="title_activity_news">NewsActivity</string>
+    <string name="title_activity_contact">ContactActivity</string>
+
+    <string name="lorem.ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam condimentum justo sed tellus faucibus congue. Mauris accumsan massa at velit ornare sollicitudin. Donec viverra, nisl et lacinia ultrices, metus sapien rutrum ante, at vehicula mauris justo nec risus. Nam euismod, metus nec hendrerit fringilla, magna odio dictum augue, in laoreet diam ligula nec ipsum. Nunc vel consectetur leo, non feugiat est. Sed pharetra quam imperdiet, finibus ex non, tristique enim. Pellentesque interdum aliquam diam, eget pellentesque ipsum. Nunc lobortis neque tristique, auctor mauris non, hendrerit purus. Proin eu egestas nisl, eu viverra justo. Nulla turpis ligula, egestas ac gravida non, aliquam ut enim. Nam sed lectus ac est varius commodo eu aliquam lectus. Quisque convallis nisl ac lorem posuere volutpat. Maecenas egestas purus massa, ac gravida dolor rutrum ac.
+
+Sed eget pharetra nibh. Proin porttitor ultrices accumsan. Aliquam vehicula tortor at odio egestas, eget cursus leo pretium. Morbi non pretium orci, tincidunt sodales urna. Ut dapibus lacinia iaculis. Vivamus varius eros in lorem laoreet, quis pretium est convallis. Praesent mollis ut metus vitae elementum. Duis et rhoncus ligula. Quisque tincidunt pharetra nunc at imperdiet. Etiam vitae urna commodo, aliquet dolor eu, imperdiet urna.</string>
+
+    <string name="information.title.description">Descripción</string>
+    <string name="information.title.bache">¿Qué es un bache?</string>
+    <!--<string name="information.title.faqs">FAQ\'S</string>-->
+    <string name="information.title.faqs">Preguntas frecuentes</string>
+    <string name="information.title.news">Noticias</string>
+    <string name="information.title.information">Información</string>
+    <string name="information.title.privacy">Aviso</string>
+
+    <string name="faq.subtitle">Preguntas frecuentes</string>
+
+    <string name="news.twitter.name">Bache 24 CDMX</string>
+    <string name="news.twitter.username">\@b24CDMX</string>
+
+    <string name="contact.send.message.label">Envíanos un mensaje</string>
+    <string name="contact.send.message.label.sub">Mensaje</string>
+
+    <string name="contact.send.message.send.button">Enviar</string>
+    <string name="title_activity_tutorial">TutorialActivity</string>
+    <string name="tutorial.button.text">Continuar</string>
+    <string name="title_activity_report_status_detail">ReportStatusDetailActivity</string>
+
+    <string name="report.status.detail.status.label">Reporte atendido por el programa Bache 24.</string>
+    <string name="report.status.detail.status.label.solved">En menos de 24 horas, Bache 24 reparó mi bache. Ayúdanos mejorando nuestra CDMX descargando la app en...</string>
+    <string name="button.like">Me gusta</string>
+    <string name="button.share">Compartir</string>
+    <!--<string name="report.status.detail.footer.message">Gracias por ser parte del programa Bache 24,\n
+        comparte tu experiencia con otras personas\n para tener más reportes.</string>-->
+
+    <!--<string name="report.status.detail.footer.message.solved">Gracias por ser parte del programa Bache 24,\n
+        comparte tu experiencia con otras personas\n para tener más reportes.</string>-->
+
+    <string name="report.status.detail.footer.message.solved">¡Tu solicitud ya ha sido atendida!\n
+        Comparte tu experiencia y ayúdanos a mejorar nuestra CDMX.</string>
+
+    <!--<string name="report.status.detail.footer.message.pending">Gracias por ser parte del programa Bache 24,\n
+        estamos atendiendo tu reporte.</string>-->
+    <string name="report.status.detail.footer.message.pending">Estamos atendiendo tu reporte. \n¡Gracias por formar parte del programa!</string>
+
+    <!--<string name="report.status.detail.footer.message.invalid">Gracias por ser parte del programa Bache 24.</string>-->
+    <!--<string name="report.status.detail.footer.message.invalid">Gracias por se parte del programa Bache 24. Tu reporte no corresponde a una vía primaria del programa Bache 24. Para poder dar seguimiento a tu reporte, por favor comunícate al <u>072</u>.</string>-->
+    <string name="report.status.detail.footer.message.invalid">Tu solicitud no pertenece al programa Bache 24 ya que no se encuentra en una vía primaria. \n¡Gracias por contribuir a mejorar nuestra ciudad!</string>
+
+    <!--<string name="report.status.detail.footer.message.fake">El equipo de Bache 24 ha atendido e \nidentificado este reporte como falso. Te \ncomentamos que las cuentas con 5 \nreportes falsos serán bloqueadas permanentemente. \n¡Gracias por contribuir a mejorar nuestra ciudad!</string>-->
+    <string name="report.status.detail.footer.message.fake">Tu solicitud ya ha sido atendida y se identificó como falso. Te comentamos que las cuentas con 5 reportes falsos serán bloqueadas permanentemente. \n¡Gracias por contribuir a mejorar nuestra CDMX!</string>
+
+    <string name="comments.dialog.title">Envíanos comentarios</string>
+    <string name="comments.dialog.subtitle">¿Crees que debemos mejorar algo?\n¿Tienes algún comentario acerca de B-24?\nEscríbenos.</string>
+
+    <string name="close.sesion">Cerrar sesión</string>
+    <string name="profile.enable.notifications">Activar notificaciones</string>
+    <string name="profile.edit">Editar</string>
+    <string name="profile.save">Guardar</string>
+    <string name="profile.logout.title">¿Deseas cerrar tu sesión?</string>
+    <string name="profile.logout.message">Puedes volver en cualquier momento</string>
+    <string name="profile.logout.accept">Sí, cerrar sesión</string>
+    <string name="profile.logout.cancel">Cancelar</string>
+
+    <!--<string name="report.dialog.invalid">Tu reporte no pertenece al programa de B-24 debido a que no se encuentra en una vía primaria. Ha sido canalizado al área correspondiente.</string>-->
+    <string name="report.dialog.invalid">Tu reporte no pertenece al programa de B-24 debido a que no se encuentra en una vía primaria.</string>
+    <!--<string name="report.dialog.invalid.moreinfo"><u>Da clic para saber más de B-24</u></string>-->
+    <!--<string name="report.dialog.invalid.moreinfo">Para poder dar seguimiento a tu reporte,\n por favor comunícate al <u>072</u></string>-->
+    <string name="report.dialog.invalid.moreinfo">Tu solicitud no pertenece al programa Bache 24 ya que no se encuentra en una vía primaria, te invitamos a comunicarte al 072 para reasignar tu reporte.\n¡Gracias por contribuir a mejorar nuestra ciudad!</string>
+
+    <string name="title_activity_recover_password">Recuperar contraseña</string>
+    <string name="recover.password.title">Recupera tu contraseña</string>
+    <string name="recover.password.description">Ingresa tu mail con el que te registraste y \nte enviaremos una nueva contraseña</string>
+    <string name="recover.password.text">E-mail de registro</string>
+    <string name="recover.password.send">Recuperar contraseña</string>
+    <string name="recover.password.enter.new.password">Ingresa tu nueva contraseña</string>
+    <string name="recover.password.return">Regresar</string>
+    <string name="recover.password.description.2">Revisa tu correo e ingresa la nueva contraseña \nque te hemos enviado.</string>
+
+    <string name="edit.user.change.picture">Cambiar</string>
+    <string name="edit.user.change.password.label">Cambiar contraseña</string>
+    <string name="edit.user.change.password.old">Contraseña actual</string>
+    <string name="edit.user.change.password.new">Contraseña nueva</string>
+    <string name="edit.user.change.social">Conéctate con tus redes sociales</string>
+
+    <string-array name="streets_array">
+        <item>Abarrotes y Víveres</item>
+        <item>Alfonso Reyes</item>
+        <item>Anillo Periférico</item>
+        <item>Antonio Delfín Madrigal</item>
+        <item>Ave 602</item>
+        <item>Aquiles Serdán</item>
+        <item>Camino Real A Toluca</item>
+        <item>Canal de Chalco</item>
+        <item>Canal de Tezontle</item>
+        <item>Carlos Lazo</item>
+        <item>Ceylan</item>
+        <item>Constituyentes</item>
+        <item>Contreras</item>
+        <item>del Conscripto</item>
+        <item>del Imán</item>
+        <item>División del Norte</item>
+        <item>Ejército Nacional Mexicano</item>
+        <item>Gavilán</item>
+        <item>Gran Canal</item>
+        <item>Guadalupe I Ramírez</item>
+        <item>Heliópolis</item>
+        <item>Insurgentes Norte</item>
+        <item>Insurgentes Sur</item>
+        <item>Luis Cabrera</item>
+        <item>M Othón de Mendizabal</item>
+        <item>Marina Nacional</item>
+        <item>Miguel Bernard</item>
+        <item>Moliere</item>
+        <item>México</item>
+        <item>Nuevo León</item>
+        <item>Observatorio</item>
+        <item>Oceanía</item>
+        <item>Paseo de la Reforma</item>
+        <item>Paseo de las Palmas</item>
+        <item>Puente de Alvarado</item>
+        <item>Ribera de San Cosme</item>
+        <item>Río de Tacubaya</item>
+        <item>Río San Joaquín</item>
+        <item>San Bernabé</item>
+        <item>Sta. Ana</item>
+        <item>Texcoco</item>
+        <item>Tláhuac</item>
+        <item>Universidad</item>
+        <item>Vasco de Quiroga</item>
+        <item>Vito Alessio Robles</item>
+        <item>Zacatepetl</item>
+        <item>Blv. Miguel de Cervantes Saavedra</item>
+        <item>Bosque de la Reforma</item>
+        <item>Calz Acoxpa</item>
+        <item>Calz Chivatito</item>
+        <item>Calz de las Águilas</item>
+        <item>Calz de Tlalpan</item>
+        <item>Calz Desierto de los Leones</item>
+        <item>Calz Gral. Ignacio Zaragoza</item>
+        <item>Calz Gral. Mariano Escobedo</item>
+        <item>Calz Legaria</item>
+        <item>Calz México Tacuba</item>
+        <item>Calz México Xochimilco</item>
+        <item>Calz Sta. Catarina</item>
+        <item>Calz Ticomán</item>
+        <item>Camino A Sta. Fé</item>
+        <item>Camino A Sta. Teresa</item>
+        <item>Canal Nacional</item>
+        <item>Carretera Federal México Puebla</item>
+        <item>Carretera Federal México Toluca</item>
+        <item>Carretera Picacho Ajusco</item>
+        <item>Circuito Interior</item>
+        <item>Cumbres de Maltrata</item>
+        <item>Dr. José María Vértiz</item>
+        <item>Eje 1 A Sur</item>
+        <item>Eje 1 Norte</item>
+        <item>Eje 1 Oriente</item>
+        <item>Eje 1 Poniente</item>
+        <item>Eje 1 Sur</item>
+        <item>Eje 10 Sur</item>
+        <item>Eje 2 A Sur</item>
+        <item>Eje 2 Norte</item>
+        <item>Eje 2 Oriente</item>
+        <item>Eje 2 Poniente</item>
+        <item>Eje 2 Sur</item>
+        <item>Eje 3 Norte</item>
+        <item>Eje 3 Oriente</item>
+        <item>Eje 3 Poniente</item>
+        <item>Eje 3 Sur</item>
+        <item>Eje 4 Norte</item>
+        <item>Eje 4 Oriente</item>
+        <item>Eje 4 Poniente</item>
+        <item>Eje 4 Sur</item>
+        <item>Eje 5 Norte</item>
+        <item>Eje 5 Oriente</item>
+        <item>Eje 5 Poniente</item>
+        <item>Eje 5 Sur</item>
+        <item>Eje 6 A Poniente</item>
+        <item>Eje 6 Poniente</item>
+        <item>Eje 6 Sur</item>
+        <item>Eje 7 A Sur</item>
+        <item>Eje 7 Oriente</item>
+        <item>Eje 7 Poniente</item>
+        <item>Eje 7 Sur</item>
+        <item>Eje 8 Sur</item>
+        <item>Eje 9 Sur</item>
+        <item>Eje Central</item>
+        <item>Iztaccihuatl</item>
+        <item>Mazatlán</item>
+        <item>Paseo del Pedregal</item>
+        <item>Prolongación División del Norte</item>
+        <item>Rómulo O\'Farril</item>
+        <item>San Rafael Atlixco</item>
+        <item>Viaducto</item>
+        <item>Viaducto Tlalpan</item>
+        <item>Vía Tapo</item>
+    </string-array>
+
+    <!-- REAL -->
+    <string name="parse.app.id">44URvb7AMQ55GCPsc6s58AZOFYPWJWW34OIcDwnY</string>
+    <string name="parse.client.key">JDXuA8JtHyAYiyiG3BbZIF5OATp2hTVbaSY3StWe</string>
+
+    <!-- PROPIO -->
+    <!--<string name="parse.app.id">VvZkFCSg3L2dG5UmSJEtxTRIEGrTNX8Y7Tyd7h7d</string>
+    <string name="parse.client.key">SnB5PhFIHPvOnpBs9sZlB5OxIGbDcZ4JK9zHRWoz</string>-->
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_troop_main">TroopMainActivity</string>
+    <string name="title_activity_select_report">SelectReportActivity</string>
+
+    <string name="troop.report.alert.title">¡Alerta!</string>
+
+    <string name="troop.report.title1">Atender reporte</string>
+    <string name="troop.report.title2">Canalizar reporte</string>
+    <string name="troop.report.title4">Reporte falso</string>
+    <string name="troop.report.title5">Reporte No Aplica</string>
+
+    <string name="troop.report.title6">Reporte Pendiente</string>
+    <string name="troop.report.title7">Reporte Reasignado</string>
+
+    <string name="troop.report.message1">El reporte será marcado como \nATENDIDO, se le enviará una notificación al ciudadano</string>
+    <string name="troop.report.message2">El reporte será marcado como NO ES UN BACHE por que no es parte del programa Bache 24 y se preparará su canalización correspondiente.</string>
+    <string name="troop.report.message4">El reporte será marcado como BACHE NO ENCONTRADO por no identificar ningún problema en el área.</string>
+
+    <string name="troop.report.message5">El reporte será marcado como NO APLICA por ser una vialidad secundaria.</string>
+
+    <string name="troop.report.release">El reporte será liberado para que otra cuadrilla pueda atenderlo.</string>
+
+    <string name="troop.report.message.question">¿Estas seguro de que deseas continuar?</string>
+
+    <string name="troop.report.title3">Atender</string>
+    <string name="troop.report.message3">Para continuar ingresa el número de \nbaches que vas a atender:</string>
+
+    <string name="privacy.text">La información contenida en esta aplicación, así como la contenida en los documentos anexos, puede contener datos personales, por lo que su difusión es responsabilidad de quien los transmite y quien los recibe, en términos de lo dispuesto por las fracciones II y VII del artículo 4, último párrafo del artículo 8, artículo 36 párrafo II, 38 fracción I y demás aplicables de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal.\n\nLos Datos Personales se encuentran protegidos por la Ley de Protección de Datos Personales del Distrito Federal, por lo que su difusión se encuentra tutelada en sus artículos 2, 5, 16, 21, 41 y demás relativos y aplicables; debiendo sujetarse en su caso, a las disposiciones relativas a la creación, modificación o supresión de datos personales previstos. Asimismo, deberá estarse a lo señalado en los numerales 1, 3, 12, 18, 19, 20, 21, 23, 24, 29, 35 y demás aplicables de los Lineamientos para la Protección de Datos Personales en el Distrito Federal.\n\nEn el uso de las tecnologías de la información y comunicaciones del Gobierno del Distrito Federal, deberá observarse puntualmente lo dispuesto por la Ley Gobierno Electrónico del Distrito Federal, la ley para hacer de la Ciudad de México una Ciudad Más Abierta, el apartado 10 de la Circular Uno vigente y las Normas Generales que deberán observarse en materia de Seguridad de la Información en la Administración Pública del Distrito Federal.</string>
+
+    <!--<string name="privacy.text1">La información contenida en esta aplicación, así como la contenida en los documentos anexos, puede contener datos personales, por lo que su difusión es responsabilidad de quien los transmite y quien los recibe, en términos de lo dispuesto por las fracciones II y VII del artículo 4, último párrafo del artículo 8, artículo 36 párrafo II, 38 fracción I y demás aplicables de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal. \n\n</string>
+    <string name="privacy.text2">Los Datos Personales se encuentran protegidos por la Ley de Protección de Datos Personales del Distrito Federal, por lo que su difusión se encuentra tutelada en sus artículos 2, 5, 16, 21, 41 y demás relativos y aplicables; debiendo sujetarse en su caso, a las disposiciones relativas a la creación, modificación o supresión de datos personales previstos. Asimismo, deberá estarse a lo señalado en los numerales 1, 3, 12, 18, 19, 20, 21, 23, 24, 29, 35 y demás aplicables de los Lineamientos para la Protección de Datos Personales en el Distrito Federal.\n\n</string>
+    <string name="privacy.text3">En el uso de las tecnologías de la información y comunicaciones del Gobierno del Distrito Federal, deberá observarse puntualmente lo dispuesto por la Ley Gobierno Electrónico del Distrito Federal, la ley para hacer de la Ciudad de México una Ciudad Más Abierta, el apartado 10 de la Circular Uno vigente y las Normas Generales que deberán observarse en materia de Seguridad de la Información en la Administración Pública del Distrito Federal”</string>-->
+
+    <string name="tutorial.text.0">El programa de Bache-24 consiste en dar atención prioritaria a baches ubicados en vías primarias, pero para eso necesitamos tu ayuda.</string>
+    <string name="tutorial.text.1">¿Qué es un bache?</string>
+
+    <string name="tutorial.text.2">Es el deterioro, hoyo o falta de una parte de la carpeta asfáltica, generado por filtraciones de agua, desgaste vehicular, deficiencias del suelo o pérdida de material asfáltico.</string>
+
+    <string name="tutorial.text.3">¿Qué no es un bache?</string>
+
+    <string name="tutorial.text.4">ZANJA: Excavación larga y estrecha en la carpeta asfáltica realizada con fines de construcción de la red hidráulica (agua potable y drenaje), instalaciones subterráneas (cablevisión, gas natural, canalizaciones eléctricas, alumbrado público, CFE), entre otros.</string>
+    <string name="tutorial.text.5">HUNDIMIENTO: Desnivel de la carpeta asfáltica provocado por asentamientos del subsuelo.</string>
+    <string name="tutorial.text.6">SOCAVÓN: Oquedad o cavidad causada por fugas de agua o asentamientos en el subsuelo, provocando una apertura en la carpeta asfáltica.</string>
+    <string name="tutorial.text.7">CORTE: Trabajos realizados en la carpeta asfáltica por empresas telefónicas, CFE, SACMEX, tuberías, gas natural, o conexiones particulares al drenaje o toma de agua potable.</string>
+    <string name="tutorial.text.8">ACOCODRILADO: Conjunto de grietas en un área de la carpeta asfáltica generada por el deterioro de la misma.</string>
+    <string name="tutorial.text.9">RODERA: Hundimiento o surco en la carpeta asfáltica generado por el paso de vehículos pesados.</string>
+    <string name="tutorial.text.10">VIALIDADES EN OBRA: Son aquellas vialidades donde se están ejecutando trabajos de construcción, reparación o mantenimiento, ya sea por algún área del Gobierno de la CDMX o alguna empresa particular.</string>
+
+    <string name="tutorial.text.11">¿Cómo se reporta?</string>
+    <string name="tutorial.text.12A">Toca el botón</string>
+    <string name="tutorial.text.12B">en el mapa.</string>
+    <string name="tutorial.text.13">Mueve el mapa hasta posicionar el indicador amarillo en donde se encuentra el bache. La dirección se llenará automáticamente</string>
+    <string name="tutorial.text.14">Toma fotos del bache (puedes agregar hasta cuatro fotos por reporte).</string>
+    <string name="tutorial.text.15">Envía tu reporte y espera noticias pronto.</string>
+
+    <string name="faq.title.1">¿Qué puedo reportar aquí?</string>
+    <string name="faq.title.2">¿En cuánto tiempo se atenderá mi solicitud?</string>
+    <string name="faq.title.3">¿Cómo funciona esta aplicación?</string>
+    <string name="faq.title.4">¿Qué pasa con las coladeras destapadas?</string>
+    <string name="faq.title.5">¿Por qué razón no podría ser atendida mi solicitud en 24 horas?</string>
+    <string name="faq.title.6">¿Qué sucede si mi solicitud no se encuentra en vías primarias?</string>
+
+    <string name="faq.question.1">Sólo baches, que son considerados como el deterioro, hoyo o desnivel de una parte de la carpeta asfáltica de rodamiento generado por filtraciones de agua, desgaste vehicular, deficiencias del suelo o perdida de material asfáltico.</string>
+    <string name="faq.question.2">Una vez validada la solicitud será atendida en un periodo de 24 horas.</string>
+    <string name="faq.question.3">Debes de realizar los siguientes pasos: \n - Localiza el bache en el mapa  \n - Revisa que la ubicación sea correcta (calle, número cercano, Colonia, etc) \n - Sube fotografías y añade comentarios para que tu solicitud sea más precisa \n - Envía tu reporte y anote el número de folio \n - Espera a que éste sea atendido \n ¡Gracias por contribuir al mejoramiento de nuestra ciudad!</string>
+    <string name="faq.question.4">En caso de faltar tapas en coladeras o registros de drenaje, la solicitud se turnara al área correspondiente ya que no es parte del programa Bache 24, marca al <b>072</b> y te informaremos con oportunidad.</string>
+    <string name="faq.question.5">Puede suceder que una solicitud no sea atendida en el periodo previsto debido a cuestiones climatológicas como lluvia intensa, suspensión de trabajos por contingencia ambiental, fenómenos Socio-Organizativos, entre otros. Por lo cual será reprogramada para su atención urgente una vez eliminados los impedimentos.</string>
+    <string name="faq.question.6">La solicitud se canalizará a la Delegación correspondiente para que sea atendida.</string>
+
+    <string name="program.description.1">Las lluvias, las filtraciones de agua, las obras públicas o privadas y el desgaste natural por el uso cotidiano aunado a los millones de vehículos que circulan a diario por las vías de esta Ciudad son factores determinantes en el deterioro de la carpeta asfáltica de la Ciudad de México.\n\n</string>
+    <string name="program.description.2">Debido a eso, el Jefe de Gobierno de la Ciudad de México, Dr. Miguel Ángel Mancera impulsó el programa Bache 24, que tiene como objetivo atender en un plazo no mayor a 24 horas, los reportes realizados por los ciudadanos con respecto a baches ubicados en la red vial primaria, la cual está integrada por 169 vialidades (incluidos eje viales, calzadas, avenidas principales, así como vías de acceso a la ciudad).\n\n</string>
+    <string name="program.description.3">Este programa busca garantizar la seguridad vial y peatonal de los habitantes de la Ciudad de México a través de un sistema de bacheo eficiente.\n\n</string>
+    <string name="program.description.4">Gracias a un sistema de captura, monitoreo y supervisión; se dará seguimiento a las solicitudes de bacheo en un tiempo menor a 24 horas concluyendo con un reporte al usuario que haya levantado la solicitud.\n\n</string>
+    <string name="program.description.5">El programa tiene una vigencia de 365 días del año, las 24 horas del día.</string>
+
+    <string name="localization.enable">Activa la función Localización para que "B-24 CDMX" pueda determinar tu ubicación \nLa Ubicación se utiliza para localizarte en el mapa</string>
+    <string name="localization.settings">Configuración</string>
+    <string name="localization.cancel">Cancelar</string>
+
+    <string name="internet.unavailable">Parece que no hay conexión a internet</string>
+    <string name="internet.unavailable.button">OK</string>
+
+    <string name="troop.report.timeout">Este reporte tiene más de 24 hrs.</string>
+
+    <string name="troop.report.remaining.time">Restan <b> %%d:%%d </b>para resolver el reporte.</string>
+
+    <string name="troop.report.remaining.time.1">Restan</string>
+    <string name="troop.report.remaining.time.2">para resolver el reporte.</string>
+    <string name="troop.report.status.1">Urgente</string>
+    <string name="troop.report.status.2">Normal</string>
+    <string name="title_activity_legals">LegalsActivity</string>
+    <string name="callable.text">Llamar al 072</string>
+    <string name="share.text">bit.ly/1JTS11R</string>
+
+    <!-- FASE 2 -->
+
+    <string name="driver.title">¡Atención!</string>
+
+    <string name="driver.message">Está prohibido manipular dispositivos móviles mientras conduces.\n(Art. 38 del RTDF)</string>
+
+
+    <string name="driver.message.2">¿Estas seguro de que deseas continuar?</string>
+    <string name="driver.option.1">No</string>
+    <string name="driver.option.2">Si</string>
+    <string name="driver.option.continue">Enterado</string>
+
+    <string name="register.activation">Por seguridad, te hemos enviado un correo para \nactivar tu cuenta. Al activarla, te pedimos inicies sesión para empezar a contribuir a mejorar nuestra ciudad.</string>
+    <string name="register.title.2">Activa tu cuenta</string>
+
+    <string name="report.detail.notifications.text">Notificaciones</string>
+    <string name="title_activity_wrong_report">WrongReportActivity</string>
+    <string name="title_activity_fake_report">FakeReportActivity</string>
+    <string name="report.type.wrong">Reporte erroneo</string>
+    <string name="report.type.fake">Reporte falso</string>
+    <string name="report.type.valid">Atender reporte</string>
+
+    <string name="valid.report.subtitle.1">Adjunta 3 fotos de supervisión</string>
+    <string name="valid.report.comments.1">Escribe los comentarios de supervisión</string>
+    <string name="valid.report.subtitle.2">Adjunta 3 fotos de atención</string>
+    <string name="valid.report.comments.2">Escribe los comentarios de atención</string>
+    <string name="valid.report.mts">Mts<sup><small>2</small></sup> reparados:</string>
+    <string name="valid.report.material.label">Material:</string>
+    <string name="valid.report.section">Tramo:</string>
+    <string name="valid.report.orientation">Sentido:</string>
+    <string name="valid.report.physical.place">Lugar físico:</string>
+    <string name="valid.report.select.comment">Selecciona un comentario</string>
+    <string name="valid.report.supervision">Supervisión:</string>
+    <string name="valid.report.attention">Atención:</string>
+
+    <string-array name="report_material_types">
+        <item>Material en frío</item>
+        <item>Emulsión asfáltica y agregado</item>
+    </string-array>
+
+    <string name="user.banned.title">Cuenta bloqueada</string>
+    <string name="user.banned.message">El equipo de Bache 24 ha \natendido e identificado como \nfalsos 5 reportes, por lo que \ntu cuenta ha sido bloqueada \npermanentemente.</string>
+
+    <string name="terms.text">Su privacidad y confianza son muy importantes para nosotros. Por ello, queremos asegurarnos de que conozca como salvaguardamos la integridad, privacidad y protección de sus Datos Personales.\nConsideramos que por ser una Entidad de la Administración Pública del Distrito Federal, con facultades y también responsabilidades tenemos la obligación legal y social de cumplir con las medidas legales y de seguridad suficientes para proteger aquellos Datos Personales que se hayan recabado para las finalidades que se describen en el presente aviso de privacidad.\nSe da a conocer el presente aviso de privacidad en estricto acatamiento a los artículos tercero transitorio, 16 y 17 de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, publicada en el Diario Oficial de la Federación el día 5 de julio del año 2010, ordenamiento legal que tiene por objeto la protección de los datos personales en posesión de los particulares, con la finalidad de regular su tratamiento legítimo, controlado e informado, a efecto de garantizar la privacidad y el derecho a la autodeterminación informativa de las personas, así como de su Reglamento, publicado en el Diario Oficial de la Federación el 21 de diciembre de 2011 y los Lineamientos del Aviso de Privacidad, publicados en el mismo medio informativo el 17 de enero de 2013. Derivado de lo antes expuesto, Usted tendrá pleno control y decisión sobre sus Datos Personales, por ello, le recomendamos leer atentamente la siguiente información.\n1. Definiciones.\nDe acuerdo con la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, su Reglamento, los Lineamientos del Aviso de Privacidad y con el presente aviso, se entenderá por:\n   I. Datos Personales: Cualquier información concerniente a una persona física identificada o identificable.\n   II. Datos Personales sensibles: Aquellos datos personales que afecten a la esfera más íntima de su titular, o cuya utilización indebida pueda dar origen a discriminación o conlleve un riesgo grave para éste. En particular, se consideran sensibles aquellos que puedan revelar aspectos como origen racial, étnico, estado de salud presente y futura, información genética, creencias religiosas, filosóficas y morales, afiliación sindical, opiniones políticas, preferencia sexual.\n   III. Derechos ARCO: Derechos de acceso, rectificación, cancelación y oposición previstos en la Ley Federal de Protección de Datos Personales en Posesión de los Particulares.\n   IV. Ley: Ley Federal de Protección de Datos Personales en Posesión de los Particulares.\n   V. Lineamientos: Lineamientos del Aviso de Privacidad.\n   VI. Reglamento: Reglamento de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares.\n   VII. Remisión: La comunicación de datos personales entre el responsable y el encargado, dentro o fuera del territorio mexicano.\n   VIII. Responsable: El Gobierno de la Ciudad de México, La Dirección General de Servicios Urbanos y las Direcciones y Subdirecciones de Área que conforman la misma y las cuales se verán involucradas en la implementación del programa “BACHE 24”, mencionando a la Dirección de Mantenimiento de Infraestructura Urbana, la Subdirección de Mantenimiento e Infraestructura Vial y la Subdirección de Mobiliario Urbano, que llevaran a cabo el tratamiento de sus datos personales.\n   IX. Titular: La persona física a quien corresponden los datos personales.\n2. IDENTIDAD Y DOMICILIO DEL RESPONSABLE.\nEl presente Aviso de Privacidad (en lo sucesivo referido como “Aviso”) establece los términos y condiciones en virtud de los cuales el Gobierno de la Ciudad de México a través de la Dirección General de Servicios Urbanos de la Secretaría de Obras y Servicios (en adelante “LA DGSU”), en conjunto con las Direcciones y Subdirecciones de Área que la conforman, con domicilio para oír y recibir notificaciones en Avenida Río Churubusco, número 1155, Colonia Licenciado Carlos Zapata Vela, Delegación Iztacalco, C.P. 08040, en esta Ciudad de México; en su carácter de Responsable (o el Encargado que designe), serán los Responsables del almacenamiento, uso, manejo, aprovechamiento y disposición de los datos personales que recabe de los Ciudadanos y que se encuentren ligados a la aplicación electrónica denominada “BACHE 24”.\n3. CONSENTIMIENTO DEL TITULAR.\nPara efectos de lo dispuesto en la Ley Federal de Protección de Datos Personales en Posesión de los\nParticulares (la “LFPDP”) y demás legislación aplicable, el Titular manifiesta:\n   I. Que el presente Aviso le ha sido dado a conocer por el Responsable.\n   II. Que otorga su consentimiento respecto del tratamiento de sus datos personales, para todo lo relacionado con la ejecución de la aplicación electrónica denominada “BACHE 24”.\n4. INFORMACIÓN PROPORCIONADA POR EL TITULAR.\nEl Gobierno de la Ciudad de México recolectara los datos personales de manera indirecta a través de la aplicación de acceso público electrónica denominada “BACHE 24” y, recabara entre otros los siguientes datos:\n   • Nombre completo.\n   • Fecha de nacimiento.\n   • Registro Federal de Contribuyentes.\n   • Clave Única de Registro de Población.\n   • Nacionalidad.\n   • Sexo y Estado Civil.\n   • Correo electrónico.\n   • Domicilio y Número de Teléfono.\n   • Ocupación.  \n5. POLÍTICA DE DATOS SENSIBLES.\nEl responsable dentro de sus políticas comerciales no solicita ninguna información que bajo la Ley se entiende como datos sensibles, tales como religión, preferencias sexuales, opiniones políticas, datos financieros y/o patrimoniales y, toda vez que el Gobierno de la Ciudad de México fomenta la diversidad, prohíbe cualquier acto discriminatorio o la solicitud de cualquier información que pudiese implicar un acto discriminatorio.\n6. FINALIDAD DE LOS DATOS PERSONALES.\nLos datos personales que recaba el Gobierno de la Ciudad de México, serán protegidos, incorporados y tratados en la aplicación electrónica denominada “BACHE 24” y, tienen como finalidad capturar los reportes y solicitudes de la ciudadanía relacionadas con la funcionalidad de la vía pública y movilidad, así como el deterioro del pavimento, asignar un número de folio e identificar al peticionario para dar seguimiento y atención a su solicitud.\nEl tratamiento de los Datos Personales proporcionados por el Titular al Responsable se limitará al cumplimiento de las finalidades previstas en el presente aviso de privacidad y a fines distintos que resulten compatibles o análogos a los establecidos en dicho aviso, sin que para ello se requiera obtener nuevamente el consentimiento del Titular.\nEl Titular manifiesta que los Datos Personales proporcionados al Responsable son veraces y se hace responsable de comunicar a éste cualquier modificación a los mismos a través de los formatos designados para ello.\n7. VIDEO Y FOTOGRAFIA.\nEl Gobierno de la Ciudad de México, no será responsable en caso de que el Ciudadano al momento de captar la fotografía o video grabar el bache, no tome las medidas precautorias necesarias y suficientes para la obtención de las mismas, no responsabilizándose además por las infracciones de tránsito a que se pueda hacer acreedor por el mal uso de medios electrónicos.\nPara el caso de que el Titular remita a través de la aplicación electrónica denominada “BACHE 24” información falsa respecto de la vialidad a reportar, la solicitud no será procedente, dándose por concluido el folio generado.\n8. PROCEDIMIENTO PARA EJERCER LOS DERECHOS ARCO Y REVOCACIÓN DEL CONSENTIMIENTO. El Titular tiene, en todo momento, derecho de ACCEDER, RECTIFICAR y cancelar sus datos, así como de OPONERSE al tratamiento de los mismos o REVOCAR el consentimiento que haya proporcionado presentando una solicitud en el formato que para tal fin le entregaremos a petición expresa, misma que debe contener la información y documentación siguiente:\n   I.Nombre del Titular y domicilio u otro medio para comunicarle la respuesta a su solicitud;\n   II.Los documentos vigentes que acrediten su identidad (copia simple en formato impreso o electrónico de su credencial de elector, pasaporte o Visa) o, en su caso, la representación legal del Titular (copia simple en formato impreso o electrónico de la carta poder simple con firma autógrafa del Titular, el mandatario y sus correspondientes identificaciones oficiales vigentes – credencial de elector, pasaporte o Visa);\n   III.La descripción clara y precisa de los datos respecto de los que busca ejercer alguno de los Derechos ARCO, y\n   IV.Cualquier otro elemento o documento que facilite la localización de los datos personales del Titular.\nEl Gobierno de la Ciudad de México, responderá al Titular en un plazo máximo de veinte días hábiles, contados desde la fecha en que se recibió la solicitud a efecto de que, si resulta procedente, haga efectiva la misma dentro de los quince días hábiles siguientes a que se comunique la respuesta. En todos los casos, la respuesta se dará por la misma vía por la que haya presentado su solicitud o en su caso por cualquier otro medio acordado con el Titular. Los plazos antes referidos podrán ser ampliados en términos de la LFPDP.\n9. CAMBIOS AL AVISO.\nEl Gobierno de la Ciudad de México, se reserva el derecho de actualizar periódicamente el presente Aviso para reflejar los cambios en sus prácticas de información. Es responsabilidad del Titular revisar el contenido del Aviso de privacidad. El Responsable entenderá que de no expresar lo contrario, significa que el Titular ha leído, entendido y acordado los términos ahí expuestos, lo que constituye su consentimiento a los cambios y/o actualizaciones respecto al tratamiento de sus datos personales.\nAsí mismo, en términos del párrafo segundo, del artículo 14 del Reglamento y al artículo Vigésimo quinto de los Lineamientos, se informa a los Titulares de los Datos Personales que tendrán un plazo de cinco días hábiles, contados a partir del día siguiente a que se hayan registrado en la aplicación electrónica denominada “BACHE 24”, para que, de ser el caso, manifiesten su negativa para el tratamiento de sus Datos Personales con respecto a las finalidades descritas en el presente aviso de privacidad que no sean necesarias, ni dieron origen a la relación jurídica con el Responsable a través de una solicitud a dicha negativa a la dirección de correo electrónico efrancoo@df.gob.mx.</string>
+
+    <string name="terms.text.priority">Sólo aplica para vialidades primarias</string>
+
+
+    <string-array name="motivos_array">
+        <item>Seleccionar</item>
+        <item>Accesorios de infraestructura</item>
+        <item>Adopta banqueta</item>
+        <item>Adopta una área verde</item>
+        <item>Adopta un camellón</item>
+        <item>Apoyos logísticos para eventos públicos</item>
+        <item>Asesoría empresarial</item>
+        <item>Asistencia social</item>
+        <item>Balizamiento y/o pintura</item>
+        <item>Banquetas y/o guarniciones</item>
+        <item>Coladeras (colocación y/o mantenimiento)</item>
+        <item>Corte de raíz</item>
+        <item>Desazolve</item>
+        <item>Falta de agua</item>
+        <item>Fuga de agua</item>
+        <item>Limpieza de calles</item>
+        <item>Luminarias descompuestas</item>
+        <item>Luminarias faltantes</item>
+        <item>Mantenimiento a áreas verdes</item>
+        <item>Mantenimiento a ciclopistas</item>
+        <item>Mantenimiento a edificios</item>
+        <item>Mantenimiento al alumbrado público</item>
+        <item>Mantenimiento a puentes</item>
+        <item>Obra Inconclusa</item>
+        <item>Poda de árboles</item>
+        <item>Protección civil</item>
+        <item>Recolección de basura</item>
+        <item>Recorridos turísticos</item>
+        <item>Reencarpetado</item>
+        <item>Retiro de ambulantes</item>
+        <item>Semáforos descompuestos</item>
+        <item>Señalización y/o nomenclatura</item>
+        <item>Suministro de agua</item>
+        <item>Verificaciones</item>
+        <item>Vigilancia policiaca</item>
+        <item>Retiro de vehículos</item>
+    </string-array>
+
+    <string name="comment.title">Todo bien</string>
+    <string name="comment.message">Gracias por tu comentario</string>
+
+    <string name="button.yes">Si</string>
+    <string name="button.no">No</string>
+    <string name="report.sent">El reporte se ha generado con número</string>
+
+    <string name="out.of.range">Tu solicitud no pertenece al programa de Bache 24 ya que no se encuentra en la CDMX. ¡Gracias por contribuir a mejorar nuestra ciudad!</string>
+
+    <string name="already.reported">Tu solicitud ya fue reportada por otro \nciudadano y está siendo atendida por el programa Bache 24. ¡Gracias por contribuir a mejorar nuestra CDMX!</string>
+
+    <!--<string name="report.dialog.invalid.moreinfo.part.1">Tu solicitud no pertenece al programa Bache 24 ya que no se encuentra en una vía primaria, te invitamos a comunicarte al 072 para dar el seguimiento de tu reporte con el folio número</string>-->
+
+    <string name="report.dialog.invalid.moreinfo.part.1">El programa Bache 24 atiende vialidades primarias. Tu solicitud corresponde a una vía secundaria de la delegación</string>
+
+    <!--<string name="report.dialog.invalid.moreinfo.part.2">en la delegación</string>-->
+    <string name="report.dialog.invalid.moreinfo.part.2">por lo que se canaliza al 072 donde podrás dar seguimiento con el folio</string>
+
+    <string name="report.dialog.invalid.moreinfo.detail">Tu solicitud no pertenece al programa Bache 24. Te invitamos a comunicarte al 072 para el seguimiento de tu reporte con el folio número</string>
+
+    <string name="multiple.devices.dialog.title">Varias cuentas activas</string>
+    <string name="multiple.devices.dialog.message">Has abierto tu cuenta en otro dispositivo. \nPara ingresar nuevamente, inicia sesión.</string>
+
+    <string name="address.not.found">No pudimos encontrar la dirección, inténtalo de nuevo.</string>
+    <string name="address.not.found.short">Intenta de nuevo</string>
+
+    <string name="register.label.lastname">Apellido Paterno</string>
+    <string name="register.label.lastname.2">Apellido Materno</string>
+    <string name="register.hint.optional">Opcional</string>
+    <string name="title_activity_access">AccessActivity</string>
+
+    <string name="access.title">Regístrate y comienza a reportar un bache</string>
+    <string name="access.has.account"><u>¿Ya tienes cuenta? Inicia sesión</u></string>
+    <string name="login.activate.account.title">Activa tu cuenta e inicia sesión</string>
+    <string name="access.registration.link"><u>¿No tienes cuenta? Regístrate</u></string>
+    <string name="report.button.text">\"Reportar un bache\"</string>
+
+    <string name="report.dialog.text.temp">Tu solicitud ha sido registrada. En breve te daremos respuesta.</string>
+    <string name="report.dialog.text.temp.short">Solicitud registrada</string>
+
+    <string name="report.detail.status.wrong.part.1">Este programa atiende exclusivamente la reparación de baches. Tu solicitud corresponde a</string>
+    <string name="report.detail.status.wrong.part.2">por lo que se canaliza al 072 donde podrás dar seguimiento con el folio</string>
+    <string name="title_activity_image_viewer">ImageViewerActivity</string>
+
+    <string name="report.current.address.title">El bache se encuentra en:</string>
+    <string name="report.current.address.title.searching">Buscando...</string>
+
+    <string name="report.address.label">Dirección del bache</string>
+    <string name="report.comments.label">Comentarios y referencias del lugar (Opcional)</string>
+    <string name="report.pictures.label">Fotos del bache y de las referencias (Opcional)</string>
+
+    <string name="first.report.tutorial.title">¡Bienvenido a Bache 24!</string>
+    <string name="first.report.tutorial.message">Mueve el mapa hasta posicionar el indicador amarillo en donde se encuentra el bache. La dirección se llenará automáticamente.</string>
+    <string name="report.address.text">Dirección</string>
+    <string name="report.google.maps.address">Dirección de Google Maps</string>
+    <string name="report.citizen.address">Dirección del ciudadano</string>
+
+    <string name="troop.report.primary.title">Vía primaria: </string>
+    <string name="troop.report.origin.title">Recibido de</string>
+
+    <string name="troop.report.select.status.ok">Atender reporte</string>
+    <string name="troop.report.select.status.wrong">Erróneo</string>
+    <string name="troop.report.select.status.invalid">No aplica</string>
+    <string name="troop.report.select.status.false">Falso</string>
+
+    <string name="alert.restrictions.title">¡Atención!</string>
+    <!--<string name="alert.restrictions.message"><b>Este programa solo aplica para vialidades primarias.</b></string>-->
+    <string name="alert.restrictions.message">Este programa solo aplica para vías primarias. \n\n ¿QUÉ SON LAS VÍAS PRIMARIAS?\n Ejes viales y vías con mayor afluencia\n\n ¿QUÉ SON LAS VÍAS SECUNDARIAS?\n Calles al interior de las colonias</string>
+    <string name="alert.restrictions.go.to.details">Ver lista</string>
+    <string name="alert.restrictions.ok">Enterado</string>
+
+    <string name="alert.payment.message">¿Se <b>DAÑÓ</b> tu auto por caer en un <b>BACHE</b> o <b>ALCANTARILLA</b> en la CDMX? \n\n¡Recibir tu pago ahora es más fácil! \n\nPermanece en el lugar del daño y llama al ajustador de seguros \n<b>072</b></string>
+    <string name="alert.payment.more.info">Más Info.</string>
+
+    <string name="primary.routes">
+Abarrotes y Víveres\nAlfonso Reyes\nAnillo Periférico\nAntonio Delfín Madrigal\nAv. 602\nAv. Aquiles Serdán\nAv. Camino Real A Toluca\nAv. Canal de Chalco\nAv. Canal de Tezontle\nAv. Carlos Lazo\nAv. Ceylan\nAv. Constituyentes\nAv. Contreras\nAv. del Conscripto\nAv. del Imán\nAv. del Imán\nAv. División del Norte\nAv. Ejército Nacional Mexicano\nAv. Gavilán\nAv. Gran Canal\nAv. Guadalupe I Ramírez\nAv. Heliópolis\nAv. Insurgentes Norte\nAv. Insurgentes Sur\nAv. Luis Cabrera\nAv. M Othón de Mendizabal\nAv. Marina Nacional\nAv. México\nAv. Miguel Bernard\nAv. Moliere\nAv. Nuevo León\nAv. Observatorio\nAv. Oceanía\nAv. Paseo de la Reforma\nAv. Puente de Alvarado\nAv. Ribera de San Cosme\nAv. Río de Tacubaya\nAv. Río San Joaquín\nAv. San Bernabé\nAv. Sta. Ana\nAv. Texcoco\nAv. Tláhuac\nAv. Universidad\nAv. Vasco de Quiroga\nAv. Vito Alessio Robles\nAv. Zacatepetl\nBlv. Miguel de Cervantes Saavedra\nBosque de la Reforma\nCalz. Acoxpa\nCalz. Chivatito\nCalz. de las Águilas\nCalz. de Tlalpan\nCalz. Desierto de los Leones\nCalz. Gral. Ignacio Zaragoza\nCalz. Gral. Mariano Escobedo\nCalz. Legaria\nCalz. México Tacuba\nCalz. México Xochimilco\nCalz. Sta. Catarina\nCalz. Ticomán\nCamino A Sta. Fé\nCamino A Sta. Teresa\nCanal Nacional\nCarretera Federal México Puebla\nCarretera Federal México Toluca\nCarretera Picacho Ajusco\nCircuito Interior\nCumbres de Maltrata\nDr. José María Vértiz\nEje 1 A Sur\nEje 1 Norte\nEje 1 Oriente\nEje 1 Poniente\nEje 1 Sur\nEje 10 Sur\nEje 2 A Sur\nEje 2 Norte\nEje 2 Oriente\nEje 2 Poniente\nEje 2 Sur\nEje 3 Norte\nEje 3 Oriente\nEje 3 Poniente\nEje 3 Sur\nEje 4 Norte\nEje 4 Oriente\nEje 4 Poniente\nEje 4 Sur\nEje 5 Norte\nEje 5 Oriente\nEje 5 Poniente\nEje 5 Sur\nEje 6 A Poniente\nEje 6 Poniente\nEje 6 Sur\nEje 7 A Sur\nEje 7 Oriente\nEje 7 Poniente\nEje 7 Sur\nEje 8 Sur\nEje 9 Sur\nEje Central\nIztaccihuatl\nMazatlán\nPaseo del Pedregal\nProlongación División del Norte\nRómulo O\'Farril\nSan Rafael Atlixco\nVía Tapo\nViaducto\nViaducto Tlalpan
+    </string>
+
+    <string-array name="report_orientation_list">
+        <item>Seleccionar</item>
+        <item>AMBOS</item>
+        <item>NTE - OTE</item>
+        <item>NTE - PTE</item>
+        <item>NTE - SUR</item>
+        <item>OTE - NTE</item>
+        <item>OTE - SUR</item>
+        <item>OTE - PTE</item>
+        <item>PTE - NTE</item>
+        <item>PTE - OTE</item>
+        <item>PTE - SUR</item>
+        <item>SUR - NTE</item>
+        <item>SUR - OTE</item>
+        <item>SUR - PTE</item>
+    </string-array>
+
+    <string-array name="report_physical_places_list">
+        <item>Seleccionar</item>
+        <item>ARROYO CENTRAL</item>
+        <item>ARROYO LATERAL</item>
+        <item>CONTRA FLUJO</item>
+        <item>BANQUETA</item>
+        <item>CAMELLÓN LATERAL</item>
+        <item>CAMELLÓN CENTRAL</item>
+        <item>PUENTE VEHICULAR</item>
+        <item>PUENTE PEATONAL</item>
+        <item>BAJO PUENTE</item>
+    </string-array>
+
+    <string name="valid.report.default.supervision.comment">Se acude a sitio indicado encontrando afectación.</string>
+    <string name="valid.report.default.attention.comment">Ticket atendido por DMIU. Se atiende solicitud con personal, maquinaria y elementos necesarios para dejar en buen estado la vialidad. Este ticket fue atendido por el programa #Bache24</string>
+    <string name="wrong.report.default.comment">Se acude a sitio indicado encontrando que la afectación es </string>
+    <string name="false.report.default.comment">Se acude a sitio indicado No encontrando afectación, por lo que damos por atendido el ticket.</string>
+
+    <string name="report.attention.alert.title.0">Reporte dado de baja</string>
+
+    <string name="report.attention.alert.title.1">Reporte Atendido</string>
+    <string name="report.attention.alert.title.2">Reporte No Aplica</string>
+    <string name="report.attention.alert.title.3">Reporte Erróneo</string>
+    <string name="report.attention.alert.title.4">Reporte Falso</string>
+
+    <string name="report.attention.alert.title.5">Reporte Pendiente</string>
+    <string name="report.attention.alert.title.6">Reporte Reasignado</string>
+
+    <string name="report.attention.alert.status.1">ATENDIDO</string>
+    <string name="report.attention.alert.status.2">NO APLICA</string>
+    <string name="report.attention.alert.status.3">NO ES UN BACHE</string>
+    <string name="report.attention.alert.status.4">BACHE NO ENCONTRADO</string>
+
+    <string name="report.attention.alert.status.5">PENDIENTE DE SOLUCIÓN</string>
+    <string name="report.attention.alert.status.6">REASIGNADO</string>
+
+    <string name="report.attention.alert.message.ok">Todo bien</string>
+
+    <string name="report.attention.alert.message.agu.1">El reporte</string>
+    <string name="report.attention.alert.message.agu.2">se dió de baja como</string>
+    <string name="report.attention.alert.message.agu.3">pero se registró un error al enviar las fotos al sistema de AGU.</string>
+
+    <string name="new.version.title">¡Nueva versión disponible!</string>
+    <string name="new.version.message">Por favor descarga la nueva versión en Google Play</string>
+    <string name="new.version.download">Descargar</string>
+    <string name="login.contact"><u>¿No puedes iniciar sesión? Contáctanos</u></string>
+    <string name="report.detail.contact.label">Contáctanos</string>
+
+    <string name="report.detail.message.status.1">Tu solicitud ha sido registrada. En breve te daremos respuesta. ¡Gracias por contribuir a mejorar nuestra CDMX!</string>
+    <string name="report.detail.message.status.2">Estamos revisando tu solicitud. En breve te daremos respuesta. ¡Gracias por contribuir a mejorar nuestra CDMX!</string>
+    <string name="report.detail.message.status.3">¡Tu solicitud ya ha sido atendida! Comparte tu experiencia y ayúdanos a mejorar nuestra CDMX.</string>
+    <string name="report.detail.message.status.4"></string>
+    <string name="report.detail.message.status.5">Tu solicitud ya ha sido atendida y no se encontró el bache reportado. Te comentamos que las cuentas con 5 reportes atendidos como “Bache no encontrado” serán bloqueadas permanentemente. ¡Gracias por contribuir a mejorar nuestra CDMX!</string>
+    <string name="report.detail.message.status.6"></string>
+    <string name="report.detail.message.status.7.1">¡Tu solicitud ya se revisó pero no se logró atender por</string>
+    <string name="report.detail.message.status.7.2">! En breve te daremos respuesta. ¡Gracias por contribuir a mejorar nuestra CDMX!</string>
+    <string name="report.detail.message.status.8"></string>
+    <string name="contact.text">¿Tienes alguna duda? Contáctanos</string>
+
+    <string name="location.permission.denied">Los permisos de ubicación para Bache-24 están desactivados, por favor actívalos en los Ajustes de la aplicación.</string>
+
+    <string name="select.report.app.1">No es un bache</string>
+    <string name="select.report.app.2">Bache no encontrado</string>
+    <string name="select.report.app.3">Pendiente de solución</string>
+
+    <string name="select.report.agu.1">Reasignar</string>
+    <string name="select.report.agu.2">Pendiente</string>
+
+    <string name="squad.report.title.status.3">Atender reporte</string>
+    <string name="squad.report.title.status.5">Bache no encontrado</string>
+    <string name="squad.report.title.status.6">No es un bache</string>
+    <string name="squad.report.title.status.7">Pendiente de solución</string>
+    <string name="title_activity_pending_report">PendingReportActivity</string>
+    <string name="title_activity_reallocate_report">ReallocateReportActivity</string>
+
+
+    <string name="squad.report.pending.comment">Justificación:</string>
+    <string name="squad.report.pending.date">Fecha de compromiso:</string>
+
+    <string name="squad.report.reallocate.comment">Comentarios:</string>
+    <string name="squad.report.reallocate.to">Reasignar a:</string>
+
+    <string name="troop.report.message.5">El reporte será marcado como PENDIENTE DE SOLUCIÓN.</string>
+    <string name="troop.report.message.6">El reporte será marcado como REASIGNADO.</string>
+
+    <string name="troop.report.attended">Este reporte ya fue dado de baja.</string>
+
+    <string name="error_dialog_title">Error</string>
+
+    <string name="release_report">Liberar reporte</string>
+
+    <string name="title.notification">Nuevo Mensaje</string>
+
+    <string name="report.update.address">Cambiar dirección</string>
+
+    <string name="report.save.local">Guardar bache</string>
+
+    <string name="report.detail.temp.cancel">Cancelar</string>
+    <string name="report.detail.temp.delete">Borrar</string>
+
+    <string name="invalid.report.confirm">¿Deseas continuar con el reporte?</string>
+
+    <string name="squad.search.report.by.ticket">Ingresa número de reporte</string>
+
+    <string name="payment.text.1">Pago de Daño por Baches y Coladeras</string>
+    <string name="payment.text.2">Si caíste en un bache o alcantarilla de la CDMX, comunícate al: </string>
+    <string name="payment.number">072</string>
+    <string name="payment.number.2">1557-5027</string>
+    <string name="payment.text.3">Recibir tu pago ya es más fácil, el tiempo de resolución será de 10 días máximo con estos sencillos 3 pasos:</string>
+    <string name="payment.instrucction.1">1.- Orillate y llama al ajustador de seguros.</string>
+    <string name="payment.instrucction.2">2.- Recibe tu cédula de daño.</string>
+    <string name="payment.instrucction.3">3.- Espera la llamada de la oficialía mayor y ve a recoger tu pago.</string>
+
+    <string name="payment.text.4">Recibe más información en <b>cdmx.gob.mx</b>.</string>
+
+    <string-array name="reallocate_to_list">
+        <item>Seleccionar</item>
+        <item>AUTORIDAD DEL CENTRO HISTÓRICO</item>
+        <item>AUTORIDAD DEL ESPACIO PÚBLICO</item>
+        <item>COMISIÓN FEDERAL DE ELECTRICIDAD</item>
+        <item>DELEGACIÓN ÁLVARO OBREGÓN</item>
+        <item>DELEGACIÓN AZCAPOTZALCO</item>
+        <item>DELEGACIÓN BENITO JUÁREZ</item>
+        <item>DELEGACIÓN COYOACÁN</item>
+        <item>DELEGACIÓN CUAJIMALPA</item>
+        <item>DELEGACIÓN CUAUHTÉMOC</item>
+        <item>DELEGACIÓN GUSTAVO A. MADERO</item>
+        <item>DELEGACIÓN IZTACALCO</item>
+        <item>DELEGACIÓN IZTAPALAPA</item>
+        <item>DELEGACIÓN MAGDALENA CONTRERAS</item>
+        <item>DELEGACIÓN MIGUEL HIDALGO</item>
+        <item>DELEGACIÓN MILPA ALTA</item>
+        <item>DELEGACIÓN TLÁHUAC</item>
+        <item>DELEGACIÓN TLALPAN</item>
+        <item>DELEGACIÓN VENUSTIANO CARRANZA</item>
+        <item>DELEGACIÓN XOCHIMILCO</item>
+        <item>FIBRA ÓPTICA</item>
+        <item>GAS NATURAL</item>
+        <item>IMAGEN Y MOBILIARIO URBANO</item>
+        <item>INSTITUTO DE VERIFICACION ADMINISTRATIVA DF</item>
+        <item>INSTITUTO PARA LA SEGURIDAD DE LAS CONSTRUCCIONES</item>
+        <item>MOBILIARIO TELEFÓNICO</item>
+        <item>PROCURADURIA SOCIAL DEL D.F.</item>
+        <item>SECRETARIA DE CULTURA</item>
+        <item>SECRETARIA DE MEDIO AMBIENTE</item>
+        <item>SECRETARIA DE MOVILIDAD</item>
+        <item>SECRETARIA DE OBRAS Y SERVICIOS</item>
+        <item>SECRETARIA DE PROTECCIÓN CIVIL</item>
+        <item>SECRETARIA DE SEGURIDAD PÚBLICA</item>
+        <item>SISTEMA DE AGUAS DE LA CIUDAD DE MÉXICO</item>
+        <item>SISTEMA DE TRANSPORTE COLECTIVO METRO</item>
+        <item>SISTEMA DE TRANSPORTE ELECTRICOS</item>
+        <item>TELÉFONOS DE MÉXICO</item>
+    </string-array>
+
+    <string-array name="pending_list">
+        <item>Seleccionar</item>
+        <item>Manifestación social</item>
+        <item>Inundación/encharcamiento</item>
+        <item>Contingencia ambiental</item>
+        <item>Corriente de agua</item>
+        <item>Tráfico intenso</item>
+        <item>Solicitud en área de entrada/salida de área de urgencias</item>
+        <item>Vehículos estacionados en el lugar del bache</item>
+        <item>Área de entrada y salida vehicular constante</item>
+        <item>Presencia de tianguis y/o ambulantaje</item>
+        <item>Otro</item>
+    </string-array>
+
+    <string name="fbi">151898938567</string>
+
+</resources>

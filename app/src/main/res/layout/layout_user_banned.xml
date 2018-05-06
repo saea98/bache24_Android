@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/activity_horizontal_margin"
+    android:gravity="center_horizontal"
+    android:background="@color/window_background">
+
+    <TextView
+        android:id="@+id/textView81"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/user.banned.title"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/primary"
+        android:textStyle="bold"
+        android:textAllCaps="true"/>
+
+    <TextView
+        android:id="@+id/textView82"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="@string/user.banned.message"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/gray_a"
+        android:gravity="center" />
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="45dp"
+        android:text="OK"
+        android:id="@+id/button_ok"
+        android:textColor="@color/text.color.white"
+        android:background="@drawable/button_selector"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:textAllCaps="true"
+        android:layout_gravity="center_horizontal"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="30dp" />
+
+</LinearLayout>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="primary">#ff1382c7</color>-->
+    <color name="primary">#ffec2697</color>
+    <color name="primary_dark">#ffcbcbcb</color>
+    <color name="window_background">#FFFFFF</color>
+    <color name="text.color">#ff484848</color>
+    <color name="text.hint.color">#ffcbcbcb</color>
+    <color name="text.color.white">#FFFFFF</color>
+    <color name="text.background.color">#ffe1e1e1</color>
+    <color name="input.border">#ff393939</color>
+    <color name="gray_a">#6B6B6B</color>
+    <color name="gray.background">#ffebebeb</color>
+    <color name="black">#000000</color>
+
+    <color name="dark_pink">#ffcd247f</color>
+
+    <color name="fb.button.color">#4a60e9</color>
+    <color name="fb.button.color.dark">#2233da</color>
+
+    <color name="tw.button.color">#5bb8e3</color>
+    <color name="tw.button.color.dark">#2f92d0</color>
+
+    <color name="pager.indicator.gray.1">#ff868686</color>
+    <color name="pager.indicator.gray.2">#ffbfbfbf</color>
+
+    <color name="button.cancel.normal">#ff4c4c4c</color>
+
+
+    <color name="text.color.carousel">#ff151515</color>
+    <color name="menu.background">#f0e6e6e6</color>
+
+    <color name="login.button.blue">#ff108cd5</color>
+    <color name="login.button.blue.dark">#ff1a648b</color>
+
+    <color name="login.button.pink">#fffb0064</color>
+    <color name="login.button.pink.dark">#ffc80064</color>
+    <color name="text.color.gray">#ff5a5a5a</color>
+
+    <color name="primary_idiomas">#fffb0064</color>
+    <color name="primary_dark_idiomas">#ffc80064</color>
+
+    <color name="pin.yellow">#ffdf960a</color>
+    <color name="pin.gray">#ff343434</color>
+
+    <color name="color.urgent">#d50000</color>
+    <color name="color.normal">#3e9b1a</color>
+
+    <color name="ligh.gray">#615A57</color>
+</resources>

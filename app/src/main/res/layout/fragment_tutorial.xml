@@ -1,0 +1,487 @@
+<!--
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.cmi.bache24.ui.fragment.TutorialFragment">
+
+    <ImageView
+        android:id="@+id/imageview_tutorial"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true" />
+
+</RelativeLayout>
+-->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.cmi.bache24.ui.fragment.TutorialFragment">
+
+    <ImageView
+        android:id="@+id/imageview_tutorial"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"
+        android:paddingLeft="25dp"
+        android:paddingRight="25dp"
+        android:id="@+id/layout_tutorial_1">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="@string/tutorial.text.0"
+            android:id="@+id/textView40"
+            android:layout_gravity="center_horizontal"
+            android:textColor="@color/text.color.gray"
+            android:visibility="gone"
+            android:textSize="17sp"
+            fontPath="fonts/HelveticaNeueLight.ttf"/>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="16dp"
+            android:paddingTop="10dp">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView5"
+                android:src="@drawable/carita_feliz" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/tutorial.text.1"
+                android:id="@+id/textView42"
+                android:textColor="@color/primary"
+                android:textAllCaps="true"
+                android:gravity="center"
+                android:layout_marginLeft="20dp"
+                android:textStyle="bold"
+                android:textSize="17sp"
+                fontPath="fonts/HelveticaNeueBold.ttf"/>
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="@string/tutorial.text.2"
+            android:id="@+id/textView41"
+            android:lineSpacingExtra="5dp"
+            android:textColor="@color/text.color.gray"
+            android:textSize="17sp"
+            fontPath="fonts/HelveticaNeueLight.ttf"/>
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollview_tutorial_2"
+        android:fillViewport="true"
+        android:visibility="gone">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="visible"
+            android:gravity="center"
+            android:paddingLeft="25dp"
+            android:paddingRight="25dp"
+            android:id="@+id/linearLayout9" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/tutorial.text.0"
+                android:id="@+id/textView43"
+                android:layout_gravity="center_horizontal"
+                android:textColor="@color/text.color.gray"
+                android:visibility="gone"
+                android:textSize="17sp"
+                fontPath="fonts/HelveticaNeueLight.ttf"/>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="10dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="16dp"
+                android:paddingTop="10dp">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/imageView12"
+                    android:src="@drawable/carita_fuchi" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="@string/tutorial.text.3"
+                    android:id="@+id/textView44"
+                    android:textColor="@color/primary"
+                    android:textAllCaps="true"
+                    android:gravity="center"
+                    android:layout_marginLeft="20dp"
+                    android:textStyle="bold"
+                    android:textSize="17sp"
+                    fontPath="fonts/HelveticaNeueBold.ttf"/>
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/tutorial.text.4"
+                android:id="@+id/textView45"
+                android:lineSpacingExtra="5dp"
+                android:textColor="@color/text.color.gray"
+                android:textSize="17sp"
+                fontPath="fonts/HelveticaNeueLight.ttf"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/tutorial.text.5"
+                android:id="@+id/textView46"
+                android:lineSpacingExtra="5dp"
+                android:textColor="@color/text.color.gray"
+                android:layout_marginTop="20dp"
+                android:textSize="17sp"
+                fontPath="fonts/HelveticaNeueLight.ttf"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/tutorial.text.6"
+                android:id="@+id/textView47"
+                android:lineSpacingExtra="5dp"
+                android:textColor="@color/text.color.gray"
+                android:layout_marginTop="20dp"
+                android:textSize="17sp"
+                fontPath="fonts/HelveticaNeueLight.ttf"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/tutorial.text.7"
+                android:id="@+id/textView48"
+                android:lineSpacingExtra="5dp"
+                android:textColor="@color/text.color.gray"
+                android:layout_marginTop="20dp"
+                android:textSize="17sp"
+                fontPath="fonts/HelveticaNeueLight.ttf"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/tutorial.text.8"
+                android:id="@+id/textView49"
+                android:textColor="@color/text.color.gray"
+                android:layout_marginTop="20dp"
+                android:textSize="17sp"
+                fontPath="fonts/HelveticaNeueLight.ttf"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/tutorial.text.9"
+                android:id="@+id/textView50"
+                android:lineSpacingExtra="5dp"
+                android:textColor="@color/text.color.gray"
+                android:layout_marginTop="20dp"
+                android:textSize="17sp"
+                fontPath="fonts/HelveticaNeueLight.ttf"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/tutorial.text.10"
+                android:id="@+id/textView51"
+                android:lineSpacingExtra="5dp"
+                android:textColor="@color/text.color.gray"
+                android:layout_marginTop="20dp"
+                android:textSize="17sp"
+                fontPath="fonts/HelveticaNeueLight.ttf"/>
+        </LinearLayout>
+    </ScrollView>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollview_tutorial_3"
+        android:fillViewport="true"
+        android:visibility="visible">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="visible"
+            android:paddingLeft="25dp"
+            android:paddingRight="25dp"
+            android:id="@+id/linearLayout8">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="10dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:paddingTop="10dp" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/imageView13"
+                    android:src="@drawable/carita_foto" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="@string/tutorial.text.11"
+                    android:id="@+id/textView53"
+                    android:textColor="@color/primary"
+                    android:textAllCaps="true"
+                    android:gravity="center"
+                    android:layout_marginLeft="20dp"
+                    android:textStyle="bold"
+                    android:textSize="17sp"
+                    fontPath="fonts/HelveticaNeueBold.ttf"/>
+            </LinearLayout>
+
+            <RelativeLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp">
+
+                <TextView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="1"
+                    android:id="@+id/textView59"
+                    android:background="@drawable/tutorial_number_background"
+                    android:layout_gravity="top"
+                    android:textAlignment="center"
+                    android:layout_marginRight="10dp"
+                    android:gravity="center"
+                    android:lineSpacingExtra="5dp"
+                    android:textColor="@color/text.color.white"
+                    android:textSize="17sp"
+                    fontPath="fonts/HelveticaNeueLight.ttf"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="@string/tutorial.text.12A"
+                    android:id="@+id/textView52"
+                    android:layout_gravity="center_vertical"
+                    android:textColor="@color/text.color.gray"
+                    android:lineSpacingExtra="5dp"
+                    android:visibility="visible"
+                    android:layout_toRightOf="@+id/textView59"
+                    android:layout_toEndOf="@+id/textView59"
+                    android:textSize="17sp"
+                    fontPath="fonts/HelveticaNeueLight.ttf"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="@string/report.button.text"
+                    android:id="@+id/textView95"
+                    android:layout_gravity="center_vertical"
+                    android:textColor="@color/primary"
+                    android:lineSpacingExtra="5dp"
+                    android:visibility="gone"
+                    android:layout_alignTop="@+id/textView52"
+                    android:layout_toRightOf="@+id/textView52"
+                    android:layout_toEndOf="@+id/textView52"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:textSize="17sp"
+                    fontPath="fonts/HelveticaNeueLight.ttf"/>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/imageView15"
+                    android:src="@drawable/reportar_bache_tutorial"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="@string/tutorial.text.12B"
+                    android:id="@+id/textView58"
+                    android:layout_gravity="center_vertical"
+                    android:textColor="@color/text.color.gray"
+                    android:lineSpacingExtra="5dp"
+                    android:visibility="gone"
+                    android:layout_alignTop="@+id/textView95"
+                    android:layout_toRightOf="@+id/textView95"
+                    android:layout_toEndOf="@+id/textView95"
+                    android:textSize="17sp"
+                    fontPath="fonts/HelveticaNeueLight.ttf"/>
+
+            </RelativeLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="2"
+                    android:id="@+id/textView57"
+                    android:background="@drawable/tutorial_number_background"
+                    android:layout_gravity="top"
+                    android:textAlignment="center"
+                    android:layout_marginRight="10dp"
+                    android:gravity="center"
+                    android:textColor="@color/text.color.white" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="@string/tutorial.text.13"
+                    android:id="@+id/textView54"
+                    android:textColor="@color/text.color.gray"
+                    android:lineSpacingExtra="5dp"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp"
+                    android:textSize="17sp"
+                    fontPath="fonts/HelveticaNeueLight.ttf"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp">
+
+                <TextView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="3"
+                    android:id="@+id/textView60"
+                    android:background="@drawable/tutorial_number_background"
+                    android:layout_gravity="top"
+                    android:textAlignment="center"
+                    android:layout_marginRight="10dp"
+                    android:gravity="center"
+                    android:textColor="@color/text.color.white"
+                    android:textSize="17sp"
+                    fontPath="fonts/HelveticaNeueLight.ttf"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="@string/tutorial.text.14"
+                    android:id="@+id/textView55"
+                    android:lineSpacingExtra="5dp"
+                    android:textColor="@color/text.color.gray"
+                    android:textSize="17sp"
+                    fontPath="fonts/HelveticaNeueLight.ttf"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp">
+
+                <TextView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="4"
+                    android:id="@+id/textView61"
+                    android:background="@drawable/tutorial_number_background"
+                    android:layout_gravity="top"
+                    android:textAlignment="center"
+                    android:layout_marginRight="10dp"
+                    android:gravity="center"
+                    android:textColor="@color/text.color.white"
+                    android:textSize="17sp"
+                    fontPath="fonts/HelveticaNeueLight.ttf"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="@string/tutorial.text.15"
+                    android:id="@+id/textView56"
+                    android:lineSpacingExtra="5dp"
+                    android:textColor="@color/text.color.gray"
+                    android:textSize="17sp"
+                    fontPath="fonts/HelveticaNeueLight.ttf"/>
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView16"
+                android:src="@drawable/tutorial_abajo"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_gravity="center_horizontal" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

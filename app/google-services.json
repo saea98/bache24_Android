@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "151898938567",
+    "firebase_url": "https://bache-24-85d73.firebaseio.com",
+    "project_id": "bache-24-85d73",
+    "storage_bucket": "bache-24-85d73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151898938567:android:6eb92d01ee08d417",
+        "android_client_info": {
+          "package_name": "com.cmi.bache24"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151898938567-9mkqouq8d6asqrcej4v8mc15jmsb57pp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cmi.bache24",
+            "certificate_hash": "05532E72CBBC713B37CB66973AD7FFC54CB87F30"
+          }
+        },
+        {
+          "client_id": "151898938567-1ub7t0v8jtu6jr757p6tuleopqg9vln0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc0pkFHE9P9eVPDAyUKcFSRJU_O0TnSvY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151898938567-85em3q843f2o00a2vmvter70gn3inguk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cmi.bache24"
+              }
+            },
+            {
+              "client_id": "151898938567-1ub7t0v8jtu6jr757p6tuleopqg9vln0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

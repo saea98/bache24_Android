@@ -1,0 +1,171 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!--<ScrollView
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:fillViewport="true"
+        android:scrollbars="none">-->
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:weightSum="1"
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:paddingTop="20dp"
+                android:id="@+id/linearLayout6">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.7"
+                    android:gravity="top"
+                    android:layout_gravity="center">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="110dp"
+                        android:id="@+id/imageView"
+                        android:src="@drawable/logo_gde_"
+                        android:adjustViewBounds="true"
+                        android:layout_centerInParent="true" />
+                </RelativeLayout>
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.3"
+                    android:paddingRight="10dp"
+                    android:gravity="center_vertical">
+
+                    <LinearLayout
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/app_name"
+                            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                            android:textColor="@color/primary"
+                            android:textAllCaps="true"
+                            android:textSize="25dp"
+                            android:textStyle="bold"
+                            fontPath="fonts/HelveticaNeueBold.ttf"/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/login.subtitle"
+                            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                            android:textColor="@color/primary"
+                            android:textAllCaps="false"
+                            android:textSize="25dp"
+                            android:layout_marginLeft="5dp"
+                            fontPath="fonts/HelveticaNeueMedium.ttf"/>
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="@string/login.cmdx.description"
+                        android:id="@+id/textView6"
+                        android:textColor="@color/text.color"
+                        android:textAllCaps="true"
+                        android:layout_marginTop="5dp"
+                        android:textSize="17dp"
+                        fontPath="fonts/HelveticaNeueLight.ttf"/>
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:weightSum="1"
+                android:layout_above="@+id/linearLayout5"
+                android:layout_below="@+id/linearLayout6">
+
+                <android.support.v4.view.ViewPager
+                    xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:id="@+id/tutorial_pager"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:id="@+id/linearLayout5"
+                android:gravity="center"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:paddingBottom="20dp">
+
+                <!--<Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="45dp"
+                    android:text="New Button"
+                    android:id="@+id/button2" />-->
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:text="@string/tutorial.button.text"
+                    android:id="@+id/button_next"
+                    android:textColor="@color/text.color.white"
+                    android:background="@drawable/button_selector"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp" />
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp"
+                    android:layout_marginTop="10dp"
+                    android:gravity="center">
+
+                    <ImageView
+                        android:layout_width="7dp"
+                        android:layout_height="7dp"
+                        android:id="@+id/image_indicator_1"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/circular_shape_pager_selected" />
+
+                    <ImageView
+                        android:layout_width="7dp"
+                        android:layout_height="7dp"
+                        android:id="@+id/image_indicator_2"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="15dp"
+                        android:src="@drawable/circular_shape_pager_deselected" />
+
+                    <ImageView
+                        android:layout_width="7dp"
+                        android:layout_height="7dp"
+                        android:id="@+id/image_indicator_3"
+                        android:src="@drawable/circular_shape_pager_deselected" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </RelativeLayout>
+    <!--</ScrollView>-->
+</LinearLayout>

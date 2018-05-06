@@ -1,0 +1,100 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.cmi.bache24.ui.fragment.troop.TroopMainFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/layout_map">
+
+        <fragment
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/map_report"
+            android:name="com.google.android.gms.maps.MapFragment"/>
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:id="@+id/image_location"
+            android:src="@drawable/location"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="20dp"
+            android:layout_marginRight="20dp" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/layout_list"
+        android:layout_below="@+id/selector_container">
+
+        <EditText
+            android:id="@+id/edit_text_report_ticket"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:hint="@string/squad.search.report.by.ticket"
+            android:layout_marginRight="32dp"
+            android:layout_marginLeft="32dp"
+            style="@style/WhiteEditText"/>
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/report_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/edit_text_report_ticket"
+            android:layout_marginTop="16dp"/>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:id="@+id/selector_container"
+        android:layout_marginTop="16dp"
+        android:weightSum="1"
+        android:layout_marginBottom="16dp">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mapa"
+            android:id="@+id/button_map"
+            android:textColor="@color/text.color.white"
+            android:background="@drawable/btn_activo"
+            android:textAllCaps="false"
+            android:layout_marginRight="5dp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lista"
+            android:id="@+id/button_list"
+            android:textColor="@color/primary"
+            android:background="@drawable/btn_inactivo"
+            android:textAllCaps="false"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"/>
+
+        <ImageButton
+            android:id="@+id/image_button_search_report"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_search_black"
+            android:layout_gravity="center"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/search_report_button_selector"/>
+    </LinearLayout>
+
+    <include
+        layout="@layout/progress_layout"
+        android:id="@+id/progress_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</RelativeLayout>

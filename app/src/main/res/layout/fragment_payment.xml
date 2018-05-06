@@ -1,0 +1,161 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.cmi.bache24.ui.fragment.PaymentFragment"
+    android:orientation="vertical"
+    android:background="@color/window_background">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:background="@color/text.background.color"
+        android:paddingBottom="10dp"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="10dp">
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="match_parent"
+            android:id="@+id/image_profile_picture"
+            android:src="@drawable/logo_gde_"
+            android:scaleType="centerInside"
+            />
+
+        <RelativeLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/new.report.title"
+                android:id="@+id/textview_full_username"
+                android:textColor="@color/primary"
+                android:textAllCaps="false"
+                android:layout_alignParentTop="true"
+                android:layout_marginBottom="10dp"
+                fontPath="fonts/HelveticaNeueMedium.ttf"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/login.cmdx.description"
+                android:id="@+id/textview_address"
+                android:textColor="@color/text.color"
+                android:textAllCaps="true"
+                android:layout_below="@+id/textview_full_username"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:textSize="17dp"
+                fontPath="fonts/HelveticaNeueLight.ttf"/>
+
+        </RelativeLayout>
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView"
+        android:scrollbars="none"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="@dimen/activity_horizontal_margin">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/payment.text.1"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:textSize="16sp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/payment.text.2"
+                android:gravity="center"
+                android:layout_marginTop="16dp"
+                android:textSize="16sp"/>
+
+            <Button
+                android:id="@+id/button_phone_number"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/payment.number"
+                android:gravity="center"
+                android:layout_marginTop="24dp"
+                android:textColor="@color/text.color"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_gravity="center_horizontal"/>
+
+            <!--<Button-->
+                <!--android:id="@+id/button_phone_number_2"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="@string/payment.number.2"-->
+                <!--android:gravity="center"-->
+                <!--android:layout_marginTop="0dp"-->
+                <!--android:textColor="@color/text.color"-->
+                <!--android:textStyle="bold"-->
+                <!--android:textSize="20sp"-->
+                <!--style="?android:attr/borderlessButtonStyle"-->
+                <!--android:layout_gravity="center_horizontal"/>-->
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/payment.text.3"
+                android:gravity="center"
+                android:layout_marginTop="24dp"
+                android:textSize="16sp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/payment.instrucction.1"
+                android:gravity="left"
+                android:layout_marginTop="16dp"
+                android:textSize="16sp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/payment.instrucction.2"
+                android:gravity="left"
+                android:textSize="16sp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/payment.instrucction.3"
+                android:gravity="left"
+                android:textSize="16sp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/payment.text.4"
+                android:gravity="center"
+                android:layout_marginTop="24dp"
+                android:textSize="16dp"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+</LinearLayout>

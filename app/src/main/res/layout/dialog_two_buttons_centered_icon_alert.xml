@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/activity_horizontal_margin"
+    android:background="@color/window_background">
+
+    <TextView
+        android:id="@+id/textview_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/alert.restrictions.title"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/primary"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal"
+        android:textAllCaps="true"/>
+
+    <ImageView
+        android:id="@+id/imageview_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/carita_feliz"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="30dp" />
+
+    <TextView
+        android:id="@+id/textview_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="@string/alert.restrictions.message"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/gray_a"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:textSize="16dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:gravity="center">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="45dp"
+            android:text="@string/alert.restrictions.go.to.details"
+            android:id="@+id/button_left"
+            android:background="@drawable/button_selector"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:textColor="@color/text.color.white"
+            android:layout_gravity="center_horizontal"
+            android:textAllCaps="false"
+            android:visibility="visible"/>
+
+
+        <!--QUITAR CUANDO HAYA LISTA DE VIALIDADES PRIMARIAS-->
+        <!--<Button
+            android:id="@+id/button_right"
+            android:layout_width="wrap_content"
+            android:layout_height="45dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/button_selector"
+            android:text="@string/alert.restrictions.ok"
+            android:textAllCaps="false"
+            android:textColor="@color/text.color.white"
+            android:paddingRight="40dp"
+            android:paddingLeft="40dp"
+            android:textSize="16dp" />-->
+
+        <!--DESCOMENTAR CUANDO HAYA LISTA DE VIALIDADES PRIMARIAS-->
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="45dp"
+            android:text="@string/alert.restrictions.ok"
+            android:id="@+id/button_right"
+            android:textColor="@color/text.color.white"
+            android:background="@drawable/button_selector"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:textAllCaps="false"
+            android:layout_gravity="center_horizontal"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+
+</LinearLayout>
